@@ -1,0 +1,37 @@
+name: Refresh Violation Desk Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 5:20 AM Eastern during daylight time; 6:20 AM during standard time.
+    - cron: "20 9 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh Mecklenburg snapshot
+        run: python3 scripts/fetch_mecklenburg_snapshot.py
+
+      - name: Rebuild dashboard data
+        run: python3 scripts/export_app_data.py
+
+      - name: Build public single-file app
+        run: python3 scripts/build_single_file_app.py
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh Violation Desk data"
+          file_pattern: index.html data.js data-snapshots/mecklenburg-county-inspections.json
