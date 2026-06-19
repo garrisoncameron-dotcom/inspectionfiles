@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Inspection Files - Violation Desk</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Violation Desk navigation">
+        <div class="brand-block">
+          <img class="brand-logo" src="assets/inspection-files-logo.jpg" alt="The Inspection Files logo">
+          <div>
+            <p class="kicker">The Inspection Files</p>
+            <h1>Violation Desk</h1>
+          </div>
+        </div>
+
+        <nav class="section-list" aria-label="Desk sections">
+          <button class="section-button active" data-section="all">All Leads</button>
+          <button class="section-button" data-section="The Closure Watch">Closure Watch</button>
+          <button class="section-button" data-section="The Vermin Wire">Vermin Wire</button>
+          <button class="section-button" data-section="The Gross Index">Gross Index</button>
+        </nav>
+
+        <div class="source-filter" aria-label="Source filters">
+          <span class="label">Sources</span>
+          <button class="source-button active" data-source="all">All</button>
+          <button class="source-button" data-source="NYC">NYC</button>
+          <button class="source-button" data-source="Chicago">Chicago</button>
+          <button class="source-button" data-source="LA County">LA County</button>
+          <button class="source-button" data-source="Orange County">Orange County</button>
+          <button class="source-button" data-source="Mecklenburg County">Mecklenburg County</button>
+          <button class="source-button" data-source="San Francisco">San Francisco</button>
+          <button class="source-button" data-source="My Health Dept">My Health Dept</button>
+        </div>
+
+        <div class="workflow-filter" aria-label="Workflow filters">
+          <span class="label">Workflow</span>
+          <button class="workflow-button active" data-workflow="all">All</button>
+          <button class="workflow-button" data-workflow="pending">Pending Future Show</button>
+          <button class="workflow-button" data-workflow="used">Used on Show</button>
+          <button class="workflow-button" data-workflow="declined">Decline</button>
+          <button class="workflow-button" data-workflow="unmarked">Unmarked</button>
+        </div>
+
+        <div class="desk-card">
+          <span class="label">Active Sources</span>
+          <strong>NYC + Chicago + LA + Orange County + Mecklenburg + SF + MHD</strong>
+          <p>Official public inspection records, ranked for producer review.</p>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="kicker">Weekly Rundown</p>
+            <h2>Gross Index Lead Board</h2>
+            <span id="generatedAt" class="refresh-stamp">Refreshing...</span>
+          </div>
+          <div class="toolbar">
+            <label class="search-box">
+              <span>Search</span>
+              <input id="searchInput" type="search" placeholder="Restaurant, city, violation...">
+            </label>
+            <label class="score-filter">
+              <span>Minimum Score</span>
+              <input id="scoreInput" type="range" min="45" max="90" value="45">
+              <output id="scoreOutput">45</output>
+            </label>
+          </div>
+        </header>
+
+        <section class="stats-grid" aria-label="Rundown stats">
+          <div class="stat">
+            <span>Scored Leads</span>
+            <strong id="leadCount">0</strong>
+          </div>
+          <div class="stat">
+            <span>Top Score</span>
+            <strong id="topScore">0</strong>
+          </div>
+          <div class="stat">
+            <span>Case Briefs</span>
+            <strong>5</strong>
+          </div>
+          <div class="stat">
+            <span>Review Rule</span>
+            <strong>Verify</strong>
+          </div>
+        </section>
+
+        <section class="content-grid">
+          <div class="lead-panel">
+            <div class="panel-header">
+              <h3>Ranked Leads</h3>
+              <span id="visibleCount">0 visible</span>
+            </div>
+            <div id="leadList" class="lead-list"></div>
+          </div>
+
+          <article id="caseDetail" class="case-detail" aria-live="polite">
+            <div class="empty-state">
+              <p class="kicker">Select a lead</p>
+              <h3>Open a Violation Desk Brief</h3>
+              <p>Choose a ranked record to review the official detail, producer angle, and follow-up checklist.</p>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="data.js?v=daily-refresh"></script>
+    <script src="app.js?v=daily-refresh"></script>
+  </body>
+</html>

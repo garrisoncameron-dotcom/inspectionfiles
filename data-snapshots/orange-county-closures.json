@@ -1,0 +1,227 @@
+{
+  "source": "Orange County Restaurant Closures",
+  "url": "https://inspections.myhealthdepartment.com/orange-county/restaurant-closures",
+  "fetchedAt": "2026-06-18T03:16:03.959Z",
+  "rows": [
+    {
+      "Address": "511 N Harbor Blvd",
+      "City": "Santa Ana",
+      "Closed On": "2026-06-17",
+      "Establishment Name": "PACIFIC MARKET^",
+      "Permit Name": "PACIFIC MARKET^",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "",
+      "Result": "CLOSED",
+      "Zip": "92703-2757"
+    },
+    {
+      "Address": "9637 Bolsa Ave Ste A",
+      "City": "Westminster",
+      "Closed On": "2026-06-17",
+      "Establishment Name": "Zan Kitchen",
+      "Permit Name": "",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "",
+      "Result": "CLOSED",
+      "Zip": "92683-6697"
+    },
+    {
+      "Address": "4710 Lincoln Ave",
+      "City": "Cypress",
+      "Closed On": "2026-06-17",
+      "Establishment Name": "TAMBULI SEAFOOD MARKET",
+      "Permit Name": "TAMBULI SEAFOOD MARKET",
+      "Reason for Closure": "Rodent Infestation",
+      "Reopened On": "",
+      "Result": "CLOSED",
+      "Zip": "90630-2652"
+    },
+    {
+      "Address": "21022 Pacific Coast Hwy",
+      "City": "Huntington Beach",
+      "Closed On": "2026-06-17",
+      "Establishment Name": "Oakberry Huntington Beach",
+      "Permit Name": "Oakberry Huntington Beach",
+      "Reason for Closure": "Insufficient Hot Water",
+      "Reopened On": "",
+      "Result": "CLOSED",
+      "Zip": "92648"
+    },
+    {
+      "Address": "511 N Harbor Blvd",
+      "City": "Santa Ana",
+      "Closed On": "2026-06-16",
+      "Establishment Name": "PACIFIC MARKET^",
+      "Permit Name": "PACIFIC MARKET^",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "",
+      "Result": "CLOSED",
+      "Zip": "92703-2757"
+    },
+    {
+      "Address": "23775 El Toro Rd Ste A",
+      "City": "Lake Forest",
+      "Closed On": "2026-06-12",
+      "Establishment Name": "SIMPLY PHO",
+      "Permit Name": "SIMPLY PHO",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-15",
+      "Result": "CLOSED",
+      "Zip": "92630-4769"
+    },
+    {
+      "Address": "27412 Antonio Pkwy Ste R1",
+      "City": "Ladera Ranch",
+      "Closed On": "2026-06-12",
+      "Establishment Name": "THE RANCH SPORTS GRILL",
+      "Permit Name": "RANCH SPORTS GRILL, THE",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-13",
+      "Result": "CLOSED",
+      "Zip": "92694-2164"
+    },
+    {
+      "Address": "2681 W La Palma Ave",
+      "City": "Anaheim",
+      "Closed On": "2026-06-11",
+      "Establishment Name": "RODRIGO'S MEXICAN GRILL^",
+      "Permit Name": "RODRIGO'S MEXICAN GRILL^",
+      "Reason for Closure": "Rodent Infestation",
+      "Reopened On": "2026-06-12",
+      "Result": "CLOSED",
+      "Zip": "92801-1314"
+    },
+    {
+      "Address": "283 E 17th St Ste A",
+      "City": "Costa Mesa",
+      "Closed On": "2026-06-11",
+      "Establishment Name": "AI PONO CAFE^",
+      "Permit Name": "AI PONO CAFE^",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-11",
+      "Result": "CLOSED",
+      "Zip": "92627-7313"
+    },
+    {
+      "Address": "32525 Golden Lantern St Ste B",
+      "City": "Dana Point",
+      "Closed On": "2026-06-11",
+      "Establishment Name": "ROUND TABLE PIZZA",
+      "Permit Name": "ROUND TABLE PIZZA",
+      "Reason for Closure": "Rodent Infestation",
+      "Reopened On": "2026-06-11",
+      "Result": "CLOSED",
+      "Zip": "92629-3249"
+    },
+    {
+      "Address": "8501 Knott Ave",
+      "City": "Buena Park",
+      "Closed On": "2026-06-11",
+      "Establishment Name": "Universe Love Boba^",
+      "Permit Name": "",
+      "Reason for Closure": "Insufficient Hot Water",
+      "Reopened On": "2026-06-15",
+      "Result": "CLOSED",
+      "Zip": "90620-3850"
+    },
+    {
+      "Address": "3316 S Bristol St",
+      "City": "Santa Ana",
+      "Closed On": "2026-06-11",
+      "Establishment Name": "PAPA JOHN",
+      "Permit Name": "",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-12",
+      "Result": "CLOSED",
+      "Zip": "92704-8201"
+    },
+    {
+      "Address": "9908 Westminster Ave",
+      "City": "Garden Grove",
+      "Closed On": "2026-06-05",
+      "Establishment Name": "BINH MINH RESTAURANT",
+      "Permit Name": "BINH MINH RESTAURANT",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-06",
+      "Result": "CLOSED",
+      "Zip": "92844-2909"
+    },
+    {
+      "Address": "1315 E Katella Ave",
+      "City": "Orange",
+      "Closed On": "2026-06-05",
+      "Establishment Name": "TAI TEA^",
+      "Permit Name": "TAI TEA^",
+      "Reason for Closure": "Insufficient Hot Water",
+      "Reopened On": "2026-06-06",
+      "Result": "CLOSED",
+      "Zip": "92867-5042"
+    },
+    {
+      "Address": "10451 Bolsa Ave Ste 101",
+      "City": "Westminster",
+      "Closed On": "2026-06-05",
+      "Establishment Name": "Pho Thin 13 lo Duc Ha Noi",
+      "Permit Name": "Pho Thin 13 lo Duc Ha Noi",
+      "Reason for Closure": "Rodent Infestation",
+      "Reopened On": "2026-06-05",
+      "Result": "CLOSED",
+      "Zip": "92683-6756"
+    },
+    {
+      "Address": "501 N Harbor Blvd Ste E",
+      "City": "Santa Ana",
+      "Closed On": "2026-06-03",
+      "Establishment Name": "MARISCOS EL RANCHITO",
+      "Permit Name": "",
+      "Reason for Closure": "Lack of Power / Lack of Utilities",
+      "Reopened On": "2026-06-17",
+      "Result": "CLOSED",
+      "Zip": "92703-2755"
+    },
+    {
+      "Address": "1411 S Manchester Ave",
+      "City": "Anaheim",
+      "Closed On": "2026-06-03",
+      "Establishment Name": "Holiday Inn Express",
+      "Permit Name": "HOLIDAY INN EXPRESS^: BREAKFAST BUFFET",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-04",
+      "Result": "CLOSED",
+      "Zip": "92802-2905"
+    },
+    {
+      "Address": "16041 Bolsa Chica St",
+      "City": "Huntington Beach",
+      "Closed On": "2026-06-03",
+      "Establishment Name": "CAFE GAZELLE",
+      "Permit Name": "CAFE GAZELLE",
+      "Reason for Closure": "Cockroach Infestation",
+      "Reopened On": "2026-06-04",
+      "Result": "CLOSED",
+      "Zip": "92649-2406"
+    },
+    {
+      "Address": "6980 Beach Blvd Ste J301",
+      "City": "Buena Park",
+      "Closed On": "2026-06-02",
+      "Establishment Name": "LA HUASTECA ^",
+      "Permit Name": "LA HUASTECA ^",
+      "Reason for Closure": "Rodent Infestation",
+      "Reopened On": "2026-06-09",
+      "Result": "CLOSED",
+      "Zip": "90621-6807"
+    },
+    {
+      "Address": "18040 Culver Dr",
+      "City": "Irvine",
+      "Closed On": "2026-06-02",
+      "Establishment Name": "INTERNATIONAL PASTRY",
+      "Permit Name": "INTERNATIONAL PASTRY: INSIDE WHOLESOME CHOICE",
+      "Reason for Closure": "Unapproved Construction / Remodeling",
+      "Reopened On": "2026-06-08",
+      "Result": "CLOSED",
+      "Zip": "92612-2757"
+    }
+  ]
+}

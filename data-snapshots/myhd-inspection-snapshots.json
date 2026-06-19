@@ -1,0 +1,43 @@
+{
+  "source": "My Health Department inspection snapshots",
+  "fetchedAt": "2026-06-18T03:55:43.299Z",
+  "targets": [
+    {
+      "slug": "tarrant",
+      "label": "Tarrant County",
+      "rows": 0,
+      "inspectedLinks": 0
+    },
+    {
+      "slug": "fort-worth-texas",
+      "label": "Fort Worth",
+      "rows": 0,
+      "inspectedLinks": 0
+    },
+    {
+      "slug": "va-arlington",
+      "label": "Arlington County",
+      "rows": 0,
+      "inspectedLinks": 0
+    },
+    {
+      "slug": "va-alexandria",
+      "label": "Alexandria",
+      "rows": 0,
+      "inspectedLinks": 0
+    },
+    {
+      "slug": "plano",
+      "label": "Plano",
+      "rows": 0,
+      "inspectedLinks": 0
+    },
+    {
+      "slug": "soh",
+      "label": "Hawaii",
+      "rows": 0,
+      "inspectedLinks": 0
+    }
+  ],
+  "rows": []
+}
