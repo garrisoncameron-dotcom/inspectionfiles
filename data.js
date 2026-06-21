@@ -1,5 +1,5 @@
 window.VIOLATION_DESK_DATA = {
-  "generatedAt": "2026-06-20T15:28:43+00:00",
+  "generatedAt": "2026-06-21T16:17:57+00:00",
   "leadsReviewed": 1102,
   "activeSources": [
     "NYC",
