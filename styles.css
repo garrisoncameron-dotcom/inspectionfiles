@@ -35,6 +35,102 @@ input {
   font: inherit;
 }
 
+body.auth-locked {
+  overflow: hidden;
+}
+
+body.auth-locked .app-shell {
+  filter: blur(8px);
+  pointer-events: none;
+  user-select: none;
+}
+
+.login-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background:
+    linear-gradient(180deg, rgba(20, 33, 45, 0.86), rgba(95, 21, 24, 0.82)),
+    var(--paper);
+}
+
+body:not(.auth-locked) .login-gate {
+  display: none;
+}
+
+.login-panel {
+  width: min(420px, 100%);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-strong);
+  box-shadow: var(--shadow);
+  padding: 22px;
+}
+
+.login-logo {
+  width: 120px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border: 2px solid var(--navy);
+  border-radius: 8px;
+  margin-bottom: 18px;
+}
+
+.login-panel h1 {
+  color: var(--navy);
+  margin-bottom: 18px;
+}
+
+.login-form {
+  display: grid;
+  gap: 12px;
+}
+
+.login-form label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.login-form input {
+  height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+  padding: 0 12px;
+}
+
+.login-form button,
+.logout-button {
+  min-height: 42px;
+  border: 1px solid var(--accent-dark);
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff9ec;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.login-form button:hover,
+.logout-button:hover {
+  background: var(--accent-dark);
+}
+
+.login-error {
+  min-height: 18px;
+  margin: 0;
+  color: var(--accent-dark);
+  font-size: 13px;
+  font-weight: 800;
+}
+
 .app-shell {
   min-height: 100vh;
   display: grid;
@@ -207,6 +303,10 @@ h1 {
   align-items: end;
   gap: 12px;
   flex-wrap: wrap;
+}
+
+.logout-button {
+  padding: 0 14px;
 }
 
 .search-box,

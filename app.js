@@ -8,6 +8,9 @@ const state = {
 };
 
 const WORKFLOW_STORAGE_KEY = "inspectionFilesWorkflowStatus";
+const ACCESS_STORAGE_KEY = "inspectionFilesAccessUntil";
+const ACCESS_HASH = "dfc22402adf2476c7ab8e0d75926b1688b5a7ea60212f9960878a08c5f6d3f5a";
+const ACCESS_DURATION_MS = 7 * 24 * 60 * 60 * 1000;
 const workflowLabels = {
   pending: "Pending Future Show",
   used: "Used on Show",
@@ -24,10 +27,63 @@ const leadCount = document.querySelector("#leadCount");
 const topScore = document.querySelector("#topScore");
 const visibleCount = document.querySelector("#visibleCount");
 const generatedAt = document.querySelector("#generatedAt");
+const loginForm = document.querySelector("#loginForm");
+const accessPhrase = document.querySelector("#accessPhrase");
+const loginError = document.querySelector("#loginError");
+const logoutButton = document.querySelector("#logoutButton");
 const sectionButtons = [...document.querySelectorAll(".section-button")];
 const sourceButtons = [...document.querySelectorAll(".source-button")];
 const workflowButtons = [...document.querySelectorAll(".workflow-button")];
 let workflowStatus = loadWorkflowStatus();
+
+function isAccessActive() {
+  return Number(localStorage.getItem(ACCESS_STORAGE_KEY) || 0) > Date.now();
+}
+
+function setAccessActive() {
+  localStorage.setItem(ACCESS_STORAGE_KEY, String(Date.now() + ACCESS_DURATION_MS));
+  document.body.classList.remove("auth-locked");
+}
+
+function clearAccess() {
+  localStorage.removeItem(ACCESS_STORAGE_KEY);
+  document.body.classList.add("auth-locked");
+  if (accessPhrase) accessPhrase.value = "";
+  if (loginError) loginError.textContent = "";
+  if (accessPhrase) accessPhrase.focus();
+}
+
+async function sha256(value) {
+  const bytes = new TextEncoder().encode(value);
+  const digest = await crypto.subtle.digest("SHA-256", bytes);
+  return [...new Uint8Array(digest)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
+}
+
+function initializeAccessGate() {
+  if (isAccessActive()) {
+    document.body.classList.remove("auth-locked");
+  }
+
+  loginForm?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    const candidate = (accessPhrase?.value || "").trim();
+    if (!candidate) return;
+
+    if (await sha256(candidate) === ACCESS_HASH) {
+      setAccessActive();
+      renderLeadList();
+      return;
+    }
+
+    if (loginError) loginError.textContent = "Access phrase not recognized.";
+    if (accessPhrase) {
+      accessPhrase.value = "";
+      accessPhrase.focus();
+    }
+  });
+
+  logoutButton?.addEventListener("click", clearAccess);
+}
 
 function leadKey(lead) {
   if (lead.id) return lead.id;
@@ -288,4 +344,5 @@ caseDetail.addEventListener("click", (event) => {
   renderLeadList();
 });
 
+initializeAccessGate();
 renderLeadList();

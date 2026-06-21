@@ -6,7 +6,23 @@
     <title>The Inspection Files - Violation Desk</title>
     <link rel="stylesheet" href="styles.css">
   </head>
-  <body>
+  <body class="auth-locked">
+    <section id="loginGate" class="login-gate" aria-label="Violation Desk access">
+      <div class="login-panel">
+        <img class="login-logo" src="assets/inspection-files-logo.jpg" alt="The Inspection Files logo">
+        <p class="kicker">The Inspection Files</p>
+        <h1>Violation Desk</h1>
+        <form id="loginForm" class="login-form">
+          <label>
+            <span>Access Phrase</span>
+            <input id="accessPhrase" type="password" autocomplete="current-password" autofocus>
+          </label>
+          <button type="submit">Unlock Desk</button>
+          <p id="loginError" class="login-error" role="alert"></p>
+        </form>
+      </div>
+    </section>
+
     <div class="app-shell">
       <aside class="sidebar" aria-label="Violation Desk navigation">
         <div class="brand-block">
@@ -60,6 +76,7 @@
             <span id="generatedAt" class="refresh-stamp">Refreshing...</span>
           </div>
           <div class="toolbar">
+            <button id="logoutButton" class="logout-button" type="button">Sign Out</button>
             <label class="search-box">
               <span>Search</span>
               <input id="searchInput" type="search" placeholder="Restaurant, city, violation...">
