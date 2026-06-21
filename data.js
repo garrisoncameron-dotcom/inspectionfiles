@@ -1,6 +1,6 @@
 window.VIOLATION_DESK_DATA = {
-  "generatedAt": "2026-06-21T16:17:57+00:00",
-  "leadsReviewed": 1102,
+  "generatedAt": "2026-06-21T16:49:02+00:00",
+  "leadsReviewed": 1100,
   "activeSources": [
     "NYC",
     "Chicago",
@@ -212,28 +212,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|regions wine cellar|2505 n lincoln ave, chicago, il, 60614|2026-06-11|",
-      "rank": 11,
-      "case": "REGIONS WINE CELLAR",
-      "score": 83,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "2505 N LINCOLN AVE, CHICAGO, IL, 60614",
-      "inspectionDate": "2026-06-11",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638344",
-      "grossestDetail": "PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: NOTED BOTH TOILETS IN THE FACILITY UNABLE TO FLUSH WASTE WATER.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|la torta chilanga #2|5407 s kedzie ave, chicago, il, 60632|2026-06-11|",
-      "rank": 12,
+      "rank": 11,
       "case": "LA TORTA CHILANGA #2",
       "score": 83,
       "section": "The Closure Watch",
@@ -244,6 +224,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638385",
       "grossestDetail": "SEWAGE & WASTE WATER PROPERLY DISPOSED - Comments: OBSERVED WASTE WATER BACKING UP FROM LID OF GREASE TRAP ONTO FLOOR WHEN DRAINING SANITIZER COMPARTMENT OF THREE COMPARTMENT SINK IN PREP/DISHWASHING AREA.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|regions wine cellar|2505 n lincoln ave, chicago, il, 60614|2026-06-11|",
+      "rank": 12,
+      "case": "REGIONS WINE CELLAR",
+      "score": 83,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "2505 N LINCOLN AVE, CHICAGO, IL, 60614",
+      "inspectionDate": "2026-06-11",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638344",
+      "grossestDetail": "PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: NOTED BOTH TOILETS IN THE FACILITY UNABLE TO FLUSH WASTE WATER.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -312,28 +312,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|mancinas inc.|3759 w 26th st, chicago, il, 60623|2026-06-03|",
-      "rank": 16,
-      "case": "MANCINAS INC.",
-      "score": 83,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "3759 W 26TH ST, CHICAGO, IL, 60623",
-      "inspectionDate": "2026-06-03",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637871",
-      "grossestDetail": "INSTRUCTED MANAGER TO REMOVE ALL ITEMS FROM UTILITY SINK FOR PROPER WASTEWATER DISPOSAL.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|viaggio|1027 w madison st, chicago, il, 60607|2026-06-03|",
-      "rank": 17,
+      "rank": 16,
       "case": "VIAGGIO",
       "score": 83,
       "section": "The Closure Watch",
@@ -344,6 +324,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637838",
       "grossestDetail": "SEWAGE & WASTE WATER PROPERLY DISPOSED - Comments: BLACK WASTE/SEWAGE WATER WITH FOUL ODOR BACKING UP FROM FLOOR DRAIN WHEN HANDWASH SINK IN BASEMENT PREP AREA ON/BEING USED.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|mancinas inc.|3759 w 26th st, chicago, il, 60623|2026-06-03|",
+      "rank": 17,
+      "case": "MANCINAS INC.",
+      "score": 83,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "3759 W 26TH ST, CHICAGO, IL, 60623",
+      "inspectionDate": "2026-06-03",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637871",
+      "grossestDetail": "INSTRUCTED MANAGER TO REMOVE ALL ITEMS FROM UTILITY SINK FOR PROPER WASTEWATER DISPOSAL.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -652,28 +652,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|fou flavors|4701 w lawrence ave, chicago, il, 60630|2026-06-10|",
-      "rank": 33,
-      "case": "FOU FLAVORS",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "4701 W LAWRENCE AVE, CHICAGO, IL, 60630",
-      "inspectionDate": "2026-06-10",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638258",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED MOVE THAN 20 RODENT DROPPINGS THROUGHOUT BASMENT AREA; OBSERVED 2 LIVE ROACHES IN FACILITY INCLUDING IN DINING ROOM AND STORAGE OUTSIDE KITCHEN.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|just jerk cafe|119 e 79th st, chicago, il, 60619|2026-06-10|",
-      "rank": 34,
+      "rank": 33,
       "case": "JUST JERK CAFE",
       "score": 81,
       "section": "The Vermin Wire",
@@ -684,6 +664,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638273",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NOTED EVIDENCE OF PEST ACTIVITY ON SITE.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|fou flavors|4701 w lawrence ave, chicago, il, 60630|2026-06-10|",
+      "rank": 34,
+      "case": "FOU FLAVORS",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Roaches / cockroaches",
+      "location": "4701 W LAWRENCE AVE, CHICAGO, IL, 60630",
+      "inspectionDate": "2026-06-10",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638258",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED MOVE THAN 20 RODENT DROPPINGS THROUGHOUT BASMENT AREA; OBSERVED 2 LIVE ROACHES IN FACILITY INCLUDING IN DINING ROOM AND STORAGE OUTSIDE KITCHEN.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -732,8 +732,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|nick jr.'s grill|6856 w north ave, chicago, il, 60707|2026-06-08|",
+      "id": "chicago|mago's tamales & taqueria|5714 w fullerton ave, chicago, il, 60639|2026-06-08|",
       "rank": 37,
+      "case": "MAGO'S TAMALES & TAQUERIA",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Roaches / cockroaches",
+      "location": "5714 W FULLERTON AVE, CHICAGO, IL, 60639",
+      "inspectionDate": "2026-06-08",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638040",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED A 1/4\" GAP AT THE BOTTOM OF THE REAR EXIT DOOR.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|nick jr.'s grill|6856 w north ave, chicago, il, 60707|2026-06-08|",
+      "rank": 38,
       "case": "NICK JR.'S GRILL",
       "score": 81,
       "section": "The Vermin Wire",
@@ -753,7 +773,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|bixi brewery|2515-2517 n milwaukee ave, chicago, il, 60647|2026-06-08|",
-      "rank": 38,
+      "rank": 39,
       "case": "BIXI BREWERY",
       "score": 81,
       "section": "The Vermin Wire",
@@ -764,26 +784,6 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638120",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF PEST ACTIVITY ON SITE DURING TIME OF INSPECTION.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|mago's tamales & taqueria|5714 w fullerton ave, chicago, il, 60639|2026-06-08|",
-      "rank": 39,
-      "case": "MAGO'S TAMALES & TAQUERIA",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "5714 W FULLERTON AVE, CHICAGO, IL, 60639",
-      "inspectionDate": "2026-06-08",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638040",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED A 1/4\" GAP AT THE BOTTOM OF THE REAR EXIT DOOR.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -832,28 +832,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|min's noodle house, ltd.|3235 s halsted st, chicago, il, 60608|2026-06-04|",
-      "rank": 42,
-      "case": "MIN'S NOODLE HOUSE, LTD.",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "3235 S HALSTED ST, CHICAGO, IL, 60608",
-      "inspectionDate": "2026-06-04",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637982",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED TWO LIVE ROACHES ON SITE AT THE TIME OF THE INSPECTION.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|pete's fresh market #5|3448 e 118th st, chicago, il, 60617|2026-06-04|",
-      "rank": 43,
+      "rank": 42,
       "case": "PETE'S FRESH MARKET #5",
       "score": 81,
       "section": "The Vermin Wire",
@@ -873,7 +853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|izalco, inc.|4377 w 26th st, chicago, il, 60623|2026-06-04|",
-      "rank": 44,
+      "rank": 43,
       "case": "IZALCO, INC.",
       "score": 81,
       "section": "The Vermin Wire",
@@ -892,58 +872,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|mac arthur's|5412 w madison st, chicago, il, 60644|2026-06-02|",
-      "rank": 45,
-      "case": "MAC ARTHUR'S",
+      "id": "chicago|min's noodle house, ltd.|3235 s halsted st, chicago, il, 60608|2026-06-04|",
+      "rank": 44,
+      "case": "MIN'S NOODLE HOUSE, LTD.",
       "score": 81,
       "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "5412 W MADISON ST, CHICAGO, IL, 60644",
-      "inspectionDate": "2026-06-02",
+      "violationType": "Roaches / cockroaches",
+      "location": "3235 S HALSTED ST, CHICAGO, IL, 60608",
+      "inspectionDate": "2026-06-04",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637787",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED OVER 100 MICE DROPPINGS SCATTERED ON FLOOR UNDER SHELVING UNITS, ON CARDBOARD BOXES IN SERVING AREA, ON LEDGES BEHIND SERVING AREA, ON BOTTOM SURFACES OF HOT HOLDING UNITS IN PREP AREA, ON BOTTOM...",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|tacos y burritos el dorado llc|3246 w lawrence ave, chicago, il, 60625|2026-06-02|",
-      "rank": 46,
-      "case": "Tacos Y Burritos El Dorado LLC",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "3246 W LAWRENCE AVE, CHICAGO, IL, 60625",
-      "inspectionDate": "2026-06-02",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637783",
-      "grossestDetail": "TOXIC SUBSTANCES PROPERLY IDENTIFIED, STORED, & USED - Comments: OBSERVED RAT POISON BLOCKS SCATTERED ON THE FLOOR OF THE BASEMENT AGAINST THE WALLS AND UNDER THE STAIRCASE.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|rollapalooza|3344 n halsted st, chicago, il, 60657|2026-06-02|",
-      "rank": 47,
-      "case": "ROLLAPALOOZA",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "3344 N HALSTED ST, CHICAGO, IL, 60657",
-      "inspectionDate": "2026-06-02",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637808",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED RETAIL FOOD ESTABLISHMENT WITHOUT A LICENSED PEST CONTROL OPERATOR.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637982",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED TWO LIVE ROACHES ON SITE AT THE TIME OF THE INSPECTION.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -953,7 +893,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|pride sushi and thai|2706 w peterson ave, chicago, il, 60659|2026-06-02|",
-      "rank": 48,
+      "rank": 45,
       "case": "PRIDE SUSHI AND THAI",
       "score": 81,
       "section": "The Vermin Wire",
@@ -973,7 +913,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|dapper's east restaurant|2901 w addison st, chicago, il, 60618|2026-06-02|",
-      "rank": 49,
+      "rank": 46,
       "case": "DAPPER'S EAST RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -984,6 +924,66 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637762",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OUTER OPENINGS NOT PROTECTED.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|mac arthur's|5412 w madison st, chicago, il, 60644|2026-06-02|",
+      "rank": 47,
+      "case": "MAC ARTHUR'S",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "5412 W MADISON ST, CHICAGO, IL, 60644",
+      "inspectionDate": "2026-06-02",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637787",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED OVER 100 MICE DROPPINGS SCATTERED ON FLOOR UNDER SHELVING UNITS, ON CARDBOARD BOXES IN SERVING AREA, ON LEDGES BEHIND SERVING AREA, ON BOTTOM SURFACES OF HOT HOLDING UNITS IN PREP AREA, ON BOTTOM...",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|tacos y burritos el dorado llc|3246 w lawrence ave, chicago, il, 60625|2026-06-02|",
+      "rank": 48,
+      "case": "Tacos Y Burritos El Dorado LLC",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "3246 W LAWRENCE AVE, CHICAGO, IL, 60625",
+      "inspectionDate": "2026-06-02",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637783",
+      "grossestDetail": "TOXIC SUBSTANCES PROPERLY IDENTIFIED, STORED, & USED - Comments: OBSERVED RAT POISON BLOCKS SCATTERED ON THE FLOOR OF THE BASEMENT AGAINST THE WALLS AND UNDER THE STAIRCASE.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|rollapalooza|3344 n halsted st, chicago, il, 60657|2026-06-02|",
+      "rank": 49,
+      "case": "ROLLAPALOOZA",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "3344 N HALSTED ST, CHICAGO, IL, 60657",
+      "inspectionDate": "2026-06-02",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637808",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED RETAIL FOOD ESTABLISHMENT WITHOUT A LICENSED PEST CONTROL OPERATOR.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1032,8 +1032,48 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|george e taylor child development center|3232 w division st, chicago, il, 60651|2026-05-28|",
+      "id": "chicago|chicago brewhouse on the riverwalk|31-35 e riverwalk, chicago, il, 60601|2026-05-28|",
       "rank": 52,
+      "case": "CHICAGO BREWHOUSE ON THE RIVERWALK",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "31-35 E RIVERWALK, CHICAGO, IL, 60601",
+      "inspectionDate": "2026-05-28",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637602",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF APPX.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|george washington carver elementary school|801 e 133rd pl, chicago, il, 60827|2026-05-28|",
+      "rank": 53,
+      "case": "GEORGE WASHINGTON CARVER ELEMENTARY SCHOOL",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "801 E 133RD PL, CHICAGO, IL, 60827",
+      "inspectionDate": "2026-05-28",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637557",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: FOUND DOOR #3 NOT RODENT/INSECT PROOFED.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|george e taylor child development center|3232 w division st, chicago, il, 60651|2026-05-28|",
+      "rank": 54,
       "case": "GEORGE E TAYLOR CHILD DEVELOPMENT CENTER",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1053,7 +1093,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|mitchell|2233 w ohio (600n), chicago, il, 60612|2026-05-28|",
-      "rank": 53,
+      "rank": 55,
       "case": "Mitchell",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1072,28 +1112,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|george washington carver elementary school|801 e 133rd pl, chicago, il, 60827|2026-05-28|",
-      "rank": 54,
-      "case": "GEORGE WASHINGTON CARVER ELEMENTARY SCHOOL",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "801 E 133RD PL, CHICAGO, IL, 60827",
-      "inspectionDate": "2026-05-28",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637557",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: FOUND DOOR #3 NOT RODENT/INSECT PROOFED.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|nyc halal eats illinois  llc|2657 w devon ave, chicago, il, 60659|2026-05-28|",
-      "rank": 55,
+      "rank": 56,
       "case": "NYC HALAL EATS ILLINOIS  LLC",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1113,7 +1133,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|krazy tacos michoacana & grocery|3801 s kedzie ave, chicago, il, 60632|2026-05-28|",
-      "rank": 56,
+      "rank": 57,
       "case": "KRAZY TACOS MICHOACANA & GROCERY",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1132,48 +1152,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|chicago brewhouse on the riverwalk|31-35 e riverwalk, chicago, il, 60601|2026-05-28|",
-      "rank": 57,
-      "case": "CHICAGO BREWHOUSE ON THE RIVERWALK",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "31-35 E RIVERWALK, CHICAGO, IL, 60601",
-      "inspectionDate": "2026-05-28",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637602",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF APPX.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|jay's backyard bbq|5604 w division st, chicago, il, 60651|2026-05-27|",
-      "rank": 58,
-      "case": "JAY'S BACKYARD BBQ",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "5604 W DIVISION ST, CHICAGO, IL, 60651",
-      "inspectionDate": "2026-05-27",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637438",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF PEST ACTIVITY ON THE PREMISES.OBSERVED APPROXIMATELY 20 RODENT (MICE) DROPPINGS INSIDE CLUTTERED REAR FURNACE/HOT WATER HEATER ROOM.ALSO, OBSERVED APPROX.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|taqueria atotonilco #1|3916 w 26th st, chicago, il, 60623|2026-05-27|",
-      "rank": 59,
+      "rank": 58,
       "case": "TAQUERIA ATOTONILCO #1",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1192,18 +1172,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|little wok|3144 n broadway, chicago, il, 60657|2026-05-26|",
-      "rank": 60,
-      "case": "LITTLE WOK",
+      "id": "chicago|jay's backyard bbq|5604 w division st, chicago, il, 60651|2026-05-27|",
+      "rank": 59,
+      "case": "JAY'S BACKYARD BBQ",
       "score": 81,
       "section": "The Vermin Wire",
       "violationType": "Rodents / vermin",
-      "location": "3144 N BROADWAY, CHICAGO, IL, 60657",
-      "inspectionDate": "2026-05-26",
+      "location": "5604 W DIVISION ST, CHICAGO, IL, 60651",
+      "inspectionDate": "2026-05-27",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637424",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED PEST ACTIVITY WITH APPROX 15 RAT DROPPINGS UNDER DISH MACHINE AND UNDER COOKING EQUIPMENT ALSO OBERSEVER 25 SMALL FLIES NOTED DURING INSPECTION.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637438",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF PEST ACTIVITY ON THE PREMISES.OBSERVED APPROXIMATELY 20 RODENT (MICE) DROPPINGS INSIDE CLUTTERED REAR FURNACE/HOT WATER HEATER ROOM.ALSO, OBSERVED APPROX.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1213,7 +1193,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|golden teardrops|2101-2103 n california ave, chicago, il, 60647|2026-05-26|",
-      "rank": 61,
+      "rank": 60,
       "case": "GOLDEN TEARDROPS",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1233,7 +1213,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|thomas hoyne elementary|8905 s crandon ave, chicago, il, 60617|2026-05-26|",
-      "rank": 62,
+      "rank": 61,
       "case": "THOMAS HOYNE ELEMENTARY",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1244,6 +1224,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637357",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 6-501.111 OBSERVED EVIDENCE OF PEST ACTIVITY ON SITE.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|little wok|3144 n broadway, chicago, il, 60657|2026-05-26|",
+      "rank": 62,
+      "case": "LITTLE WOK",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "3144 N BROADWAY, CHICAGO, IL, 60657",
+      "inspectionDate": "2026-05-26",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637424",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED PEST ACTIVITY WITH APPROX 15 RAT DROPPINGS UNDER DISH MACHINE AND UNDER COOKING EQUIPMENT ALSO OBERSEVER 25 SMALL FLIES NOTED DURING INSPECTION.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
