@@ -1,6 +1,6 @@
 window.VIOLATION_DESK_DATA = {
-  "generatedAt": "2026-06-30T17:14:04+00:00",
-  "leadsReviewed": 1339,
+  "generatedAt": "2026-07-01T17:27:34+00:00",
+  "leadsReviewed": 1361,
   "activeSources": [
     "NYC",
     "Chicago",
@@ -312,8 +312,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|shinya grill & bar|2255 w north ave, chicago, il, 60647|2026-06-16|",
+      "id": "chicago|la torta chilanga #2|5407 s kedzie ave, chicago, il, 60632|2026-06-16|",
       "rank": 16,
+      "case": "LA TORTA CHILANGA #2",
+      "score": 84,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "5407 S KEDZIE AVE, CHICAGO, IL, 60632",
+      "inspectionDate": "2026-06-16",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638616",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 6-501.111: OBSERVED OVER 70 RAT DROPPINGS IN FACILITY.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|shinya grill & bar|2255 w north ave, chicago, il, 60647|2026-06-16|",
+      "rank": 17,
       "case": "SHINYA GRILL & BAR",
       "score": 84,
       "section": "The Vermin Wire",
@@ -332,38 +352,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|the bagel inc|3107 n broadway, chicago, il, 60657|2026-06-16|",
-      "rank": 17,
-      "case": "THE BAGEL INC",
+      "id": "chicago|giordano's of prudential plaza|130 e randolph st, chicago, il, 60601|2026-06-11|",
+      "rank": 18,
+      "case": "GIORDANO'S OF PRUDENTIAL PLAZA",
       "score": 84,
       "section": "The Vermin Wire",
       "violationType": "Roaches / cockroaches",
-      "location": "3107 N BROADWAY, CHICAGO, IL, 60657",
-      "inspectionDate": "2026-06-16",
+      "location": "130 E RANDOLPH ST, CHICAGO, IL, 60601",
+      "inspectionDate": "2026-06-11",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638567",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 501.111: **P** Controlling Pests (Infestation) 3 LIVE ROACHES OBSERVED IN THE FOLLOWING AREAS: FRONT PREP HAND WASHING AREA WHERE CUPS ARE STORED, IN REAR PREP BY SODA STORAGE AND NEAR REAR PREP HANDSINK.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|la torta chilanga #2|5407 s kedzie ave, chicago, il, 60632|2026-06-16|",
-      "rank": 18,
-      "case": "LA TORTA CHILANGA #2",
-      "score": 84,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "5407 S KEDZIE AVE, CHICAGO, IL, 60632",
-      "inspectionDate": "2026-06-16",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638616",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 6-501.111: OBSERVED OVER 70 RAT DROPPINGS IN FACILITY.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638369",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments:  6-501.111 : OBSERVED EVIDENCE OF APPX.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -392,28 +392,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|giordano's of prudential plaza|130 e randolph st, chicago, il, 60601|2026-06-11|",
-      "rank": 20,
-      "case": "GIORDANO'S OF PRUDENTIAL PLAZA",
-      "score": 84,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "130 E RANDOLPH ST, CHICAGO, IL, 60601",
-      "inspectionDate": "2026-06-11",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638369",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments:  6-501.111 : OBSERVED EVIDENCE OF APPX.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|fou flavors|4701 w lawrence ave, chicago, il, 60630|2026-06-10|",
-      "rank": 21,
+      "rank": 20,
       "case": "FOU FLAVORS",
       "score": 84,
       "section": "The Vermin Wire",
@@ -433,7 +413,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|giordano's of prudential plaza|130 e randolph st, chicago, il, 60601|2026-06-09|",
-      "rank": 22,
+      "rank": 21,
       "case": "GIORDANO'S OF PRUDENTIAL PLAZA",
       "score": 84,
       "section": "The Vermin Wire",
@@ -453,7 +433,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|shinya grill & bar|2255 w north ave, chicago, il, 60647|2026-06-09|",
-      "rank": 23,
+      "rank": 22,
       "case": "SHINYA GRILL & BAR",
       "score": 84,
       "section": "The Vermin Wire",
@@ -473,7 +453,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|bixi brewery|2515-2517 n milwaukee ave, chicago, il, 60647|2026-06-08|",
-      "rank": 24,
+      "rank": 23,
       "case": "BIXI BREWERY",
       "score": 84,
       "section": "The Vermin Wire",
@@ -492,18 +472,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|the bagel inc|3107 n broadway, chicago, il, 60657|2026-06-02|",
-      "rank": 25,
-      "case": "THE BAGEL INC",
+      "id": "chicago|mago's tamales & taqueria|5714 w fullerton ave, chicago, il, 60639|2026-06-08|",
+      "rank": 24,
+      "case": "MAGO'S TAMALES & TAQUERIA",
       "score": 84,
       "section": "The Vermin Wire",
       "violationType": "Roaches / cockroaches",
-      "location": "3107 N BROADWAY, CHICAGO, IL, 60657",
-      "inspectionDate": "2026-06-02",
+      "location": "5714 W FULLERTON AVE, CHICAGO, IL, 60639",
+      "inspectionDate": "2026-06-08",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637743",
-      "grossestDetail": "TOXIC SUBSTANCES PROPERLY IDENTIFIED, STORED, & USED - Comments: OBSERVED RESIDENTIAL ROACH INSECTICIDE STORED NEXT TO SYRUP IN FRONT PREP AREA, AND UNDER COLD HOLDING UNIT.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638040",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APROXIMATELY 5 LIVE ROACHES ON PREMISES UNDER THE PREP COOLER IN HOT FOODS PREP AREA, IN REAR ON WASHROOM DOOR, AND UNDER THREE COMPARTMENT SINK.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -513,7 +493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|deluxe market|5960 w lawrence ave, chicago, il, 60630|2026-06-25|",
-      "rank": 26,
+      "rank": 25,
       "case": "DELUXE MARKET",
       "score": 83,
       "section": "The Closure Watch",
@@ -533,7 +513,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|burp|154 w 95th st, chicago, il, 60628|2026-06-24|",
-      "rank": 27,
+      "rank": 26,
       "case": "BURP",
       "score": 83,
       "section": "The Closure Watch",
@@ -553,7 +533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|the goddess west loop|911 w randolph st, chicago, il, 60607|2026-06-22|",
-      "rank": 28,
+      "rank": 27,
       "case": "THE GODDESS WEST LOOP",
       "score": 83,
       "section": "The Closure Watch",
@@ -573,7 +553,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|yummy halal food|135 n kedzie ave, chicago, il, 60612|2026-06-16|",
-      "rank": 29,
+      "rank": 28,
       "case": "YUMMY HALAL FOOD",
       "score": 83,
       "section": "The Closure Watch",
@@ -593,7 +573,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|gordo's tamales|2811 w 55th st, chicago, il, 60632|2026-06-15|",
-      "rank": 30,
+      "rank": 29,
       "case": "GORDO'S TAMALES",
       "score": 83,
       "section": "The Closure Watch",
@@ -613,7 +593,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|regions wine cellar|2505 n lincoln ave, chicago, il, 60614|2026-06-11|",
-      "rank": 31,
+      "rank": 30,
       "case": "REGIONS WINE CELLAR",
       "score": 83,
       "section": "The Closure Watch",
@@ -622,7 +602,7 @@ window.VIOLATION_DESK_DATA = {
       "inspectionDate": "2026-06-11",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638344",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638343",
       "grossestDetail": "PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: NOTED BOTH TOILETS IN THE FACILITY UNABLE TO FLUSH WASTE WATER.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
@@ -633,7 +613,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|halsted street deli|550 w adams st, chicago, il, 60661|2026-06-08|",
-      "rank": 32,
+      "rank": 31,
       "case": "HALSTED STREET DELI",
       "score": 83,
       "section": "The Closure Watch",
@@ -644,6 +624,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638045",
       "grossestDetail": "SEWAGE & WASTE WATER PROPERLY DISPOSED - Comments: OBSERVED SEWAGE WATER OVERFLOWING AT THE REAR WAREWASHING AREA 1-COMPARTMENT FOOD PREPARATION SINK FLOOR DRAIN WHILE 1-COMPARTMENT SINK IS IN-USE.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|the goddess west loop|911 w randolph st, chicago, il, 60607|2026-06-08|",
+      "rank": 32,
+      "case": "THE GODDESS WEST LOOP",
+      "score": 83,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "911 W RANDOLPH ST, CHICAGO, IL, 60607",
+      "inspectionDate": "2026-06-08",
+      "agency": "Chicago Department of Public Health",
+      "status": "Pass w/ Conditions",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638033",
+      "grossestDetail": "CONTAMINATION PREVENTED DURING FOOD PREPARATION, STORAGE & DISPLAY - Comments: DRY STORAGE IN BASEMENT UNDERNEATH SEWER LINES THAT ARE NOT SHIELDED.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -672,28 +672,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|the goddess west loop|911 w randolph st, chicago, il, 60607|2026-06-08|",
-      "rank": 34,
-      "case": "THE GODDESS WEST LOOP",
-      "score": 83,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "911 W RANDOLPH ST, CHICAGO, IL, 60607",
-      "inspectionDate": "2026-06-08",
-      "agency": "Chicago Department of Public Health",
-      "status": "Pass w/ Conditions",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638033",
-      "grossestDetail": "CONTAMINATION PREVENTED DURING FOOD PREPARATION, STORAGE & DISPLAY - Comments: DRY STORAGE IN BASEMENT UNDERNEATH SEWER LINES THAT ARE NOT SHIELDED.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|la haciendita taqueria inc|3322 w 47th st, chicago, il, 60632|2026-06-05|",
-      "rank": 35,
+      "rank": 34,
       "case": "LA HACIENDITA TAQUERIA INC",
       "score": 83,
       "section": "The Closure Watch",
@@ -713,7 +693,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|viaggio|1027 w madison st, chicago, il, 60607|2026-06-03|",
-      "rank": 36,
+      "rank": 35,
       "case": "VIAGGIO",
       "score": 83,
       "section": "The Closure Watch",
@@ -733,7 +713,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|mancinas inc.|3759 w 26th st, chicago, il, 60623|2026-06-03|",
-      "rank": 37,
+      "rank": 36,
       "case": "MANCINAS INC.",
       "score": 83,
       "section": "The Closure Watch",
@@ -753,7 +733,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|asadero chikali|4233 w century blvd 7, inglewood|06/10/2026|",
-      "rank": 38,
+      "rank": 37,
       "case": "ASADERO CHIKALI",
       "score": 83,
       "section": "The Vermin Wire",
@@ -773,7 +753,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|qin west chinese cuisine|727 n broadway ste 111, los angeles|04/09/2026|",
-      "rank": 39,
+      "rank": 38,
       "case": "QIN WEST CHINESE CUISINE",
       "score": 83,
       "section": "The Vermin Wire",
@@ -793,7 +773,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|pacific market^|511 n harbor blvd, santa ana, 92703-2757|2026-06-17|",
-      "rank": 40,
+      "rank": 39,
       "case": "PACIFIC MARKET^",
       "score": 83,
       "section": "The Vermin Wire",
@@ -813,7 +793,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|pacific market^|511 n harbor blvd, santa ana, 92703-2757|2026-06-16|",
-      "rank": 41,
+      "rank": 40,
       "case": "PACIFIC MARKET^",
       "score": 83,
       "section": "The Vermin Wire",
@@ -833,7 +813,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|a safe haven foundation|2750 w roosevelt rd, chicago, il, 60608|2026-06-26|",
-      "rank": 42,
+      "rank": 41,
       "case": "A SAFE HAVEN FOUNDATION",
       "score": 81,
       "section": "The Vermin Wire",
@@ -853,7 +833,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|a safe haven foundation|2750 w roosevelt rd, chicago, il, 60608|2026-06-25|",
-      "rank": 43,
+      "rank": 42,
       "case": "A SAFE HAVEN FOUNDATION",
       "score": 81,
       "section": "The Vermin Wire",
@@ -873,7 +853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|gordo's tamales|2811 w 55th st, chicago, il, 60632|2026-06-24|",
-      "rank": 44,
+      "rank": 43,
       "case": "GORDO'S TAMALES",
       "score": 81,
       "section": "The Closure Watch",
@@ -893,7 +873,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|see thru chinese restaurant|800 n kedzie ave, chicago, il, 60651|2026-06-22|",
-      "rank": 45,
+      "rank": 44,
       "case": "SEE THRU CHINESE RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -913,7 +893,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|alyemen alsaeed|3456 w foster ave, chicago, il, 60625|2026-06-17|",
-      "rank": 46,
+      "rank": 45,
       "case": "ALYEMEN ALSAEED",
       "score": 81,
       "section": "The Vermin Wire",
@@ -924,6 +904,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638710",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED 2 LIVE COCKROACHES ON THE FLOOR AND PREP TABLE IN THE REAR FOOD PREP AREA.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|the bagel inc|3107 n broadway, chicago, il, 60657|2026-06-16|",
+      "rank": 46,
+      "case": "THE BAGEL INC",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Roaches / cockroaches",
+      "location": "3107 N BROADWAY, CHICAGO, IL, 60657",
+      "inspectionDate": "2026-06-16",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638567",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 501.111: **P** Controlling Pests (Infestation) 3 LIVE ROACHES OBSERVED IN THE FOLLOWING AREAS: FRONT PREP HAND WASHING AREA WHERE CUPS ARE STORED, IN REAR PREP BY SODA STORAGE AND NEAR REAR PREP HANDSINK.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -972,8 +972,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|burger papi|5728 s archer ave, chicago, il, 60638|2026-06-12|",
+      "id": "chicago|viet hoa plaza|1051 w argyle st, chicago, il, 60640|2026-06-12|",
       "rank": 49,
+      "case": "VIET HOA PLAZA",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "1051 W ARGYLE ST, CHICAGO, IL, 60640",
+      "inspectionDate": "2026-06-12",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638430",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NOTED AN INCOMPLETE PEST CONTROL LOG BOOK ON SITE AT THE TIME OF INSPECTION WITH LAST SERVICE DATE TO BE 3/5/2025.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|burger papi|5728 s archer ave, chicago, il, 60638|2026-06-12|",
+      "rank": 50,
       "case": "BURGER PAPI",
       "score": 81,
       "section": "The Closure Watch",
@@ -993,7 +1013,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|la haciendita taqueria inc|3322 w 47th st, chicago, il, 60632|2026-06-12|",
-      "rank": 50,
+      "rank": 51,
       "case": "LA HACIENDITA TAQUERIA INC",
       "score": 81,
       "section": "The Closure Watch",
@@ -1004,26 +1024,6 @@ window.VIOLATION_DESK_DATA = {
       "status": "Pass",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638433",
       "grossestDetail": "INSTRUCTED TO REPAIR DRAINPIPE OF ICE MACHINE FOR PROPER WASTE WATER DRAINAGE INTO FLOOR DRAIN.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|viet hoa plaza|1051 w argyle st, chicago, il, 60640|2026-06-12|",
-      "rank": 51,
-      "case": "VIET HOA PLAZA",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1051 W ARGYLE ST, CHICAGO, IL, 60640",
-      "inspectionDate": "2026-06-12",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638430",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NOTED AN INCOMPLETE PEST CONTROL LOG BOOK ON SITE AT THE TIME OF INSPECTION WITH LAST SERVICE DATE TO BE 3/5/2025.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1132,28 +1132,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|mago's tamales & taqueria|5714 w fullerton ave, chicago, il, 60639|2026-06-08|",
-      "rank": 57,
-      "case": "MAGO'S TAMALES & TAQUERIA",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "5714 W FULLERTON AVE, CHICAGO, IL, 60639",
-      "inspectionDate": "2026-06-08",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638040",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APROXIMATELY 5 LIVE ROACHES ON PREMISES UNDER THE PREP COOLER IN HOT FOODS PREP AREA, IN REAR ON WASHROOM DOOR, AND UNDER THREE COMPARTMENT SINK.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|four seasons dumpling restaurant|3205 s halsted st, chicago, il, 60608|2026-06-05|",
-      "rank": 58,
+      "rank": 57,
       "case": "FOUR SEASONS DUMPLING RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1173,7 +1153,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|save a lot|7240 s stony island ave, chicago, il, 60649|2026-06-05|",
-      "rank": 59,
+      "rank": 58,
       "case": "SAVE A LOT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1192,38 +1172,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|nando's peri-peri|117 e lake st, chicago, il, 60601|2026-06-04|",
-      "rank": 60,
-      "case": "NANDO'S PERI-PERI",
+      "id": "chicago|e ramen|451 w 31st st, chicago, il, 60616|2026-06-04|",
+      "rank": 59,
+      "case": "E RAMEN",
       "score": 81,
       "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "117 E LAKE ST, CHICAGO, IL, 60601",
+      "violationType": "Rodents / vermin",
+      "location": "451 W 31ST ST, CHICAGO, IL, 60616",
       "inspectionDate": "2026-06-04",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637975",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSEREVD EVIDENCE OF APPX.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|min's noodle house, ltd.|3235 s halsted st, chicago, il, 60608|2026-06-04|",
-      "rank": 61,
-      "case": "MIN'S NOODLE HOUSE, LTD.",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "3235 S HALSTED ST, CHICAGO, IL, 60608",
-      "inspectionDate": "2026-06-04",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637982",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED TWO LIVE ROACHES ON SITE AT THE TIME OF THE INSPECTION.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637965",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED RODENT ACTIVITY ON PREMISES.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1233,7 +1193,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|izalco, inc.|4377 w 26th st, chicago, il, 60623|2026-06-04|",
-      "rank": 62,
+      "rank": 60,
       "case": "IZALCO, INC.",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1253,7 +1213,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|pete's fresh market #5|3448 e 118th st, chicago, il, 60617|2026-06-04|",
-      "rank": 63,
+      "rank": 61,
       "case": "PETE'S FRESH MARKET #5",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1272,38 +1232,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|dapper's east restaurant|2901 w addison st, chicago, il, 60618|2026-06-02|",
-      "rank": 64,
-      "case": "DAPPER'S EAST RESTAURANT",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "2901 W ADDISON ST, CHICAGO, IL, 60618",
-      "inspectionDate": "2026-06-02",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637762",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APPROXIMATELY 50 MICE DROPPINGS ON FLOOR ALONG WALLBASE BEHING PREP TABLES IN REAR FOOD PREPARATION AREA AND ON FLOOR UNDERNEATH THE STORAGE SHELVES IN THE REAR DRY STORAGE AREA.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|pride sushi and thai|2706 w peterson ave, chicago, il, 60659|2026-06-02|",
-      "rank": 65,
-      "case": "PRIDE SUSHI AND THAI",
+      "id": "chicago|nando's peri-peri|117 e lake st, chicago, il, 60601|2026-06-04|",
+      "rank": 62,
+      "case": "NANDO'S PERI-PERI",
       "score": 81,
       "section": "The Vermin Wire",
       "violationType": "Roaches / cockroaches",
-      "location": "2706 W PETERSON AVE, CHICAGO, IL, 60659",
-      "inspectionDate": "2026-06-02",
+      "location": "117 E LAKE ST, CHICAGO, IL, 60601",
+      "inspectionDate": "2026-06-04",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637785",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: FOUND 2 LIVE ROACHES AT SHELVING UNITS AT BASEMENT FOOD STORAGE.PRIORITY FOUNDATION.CITATION ISSUED.7-38-020A.MUST NOTIFY PEST CONTROL OPERATOR AND RID OF ROACHES.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637975",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSEREVD EVIDENCE OF APPX.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1312,18 +1252,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|mac arthur's|5412 w madison st, chicago, il, 60644|2026-06-02|",
-      "rank": 66,
-      "case": "MAC ARTHUR'S",
+      "id": "chicago|min's noodle house, ltd.|3235 s halsted st, chicago, il, 60608|2026-06-04|",
+      "rank": 63,
+      "case": "MIN'S NOODLE HOUSE, LTD.",
       "score": 81,
       "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "5412 W MADISON ST, CHICAGO, IL, 60644",
-      "inspectionDate": "2026-06-02",
+      "violationType": "Roaches / cockroaches",
+      "location": "3235 S HALSTED ST, CHICAGO, IL, 60608",
+      "inspectionDate": "2026-06-04",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637787",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED OVER 100 MICE DROPPINGS SCATTERED ON FLOOR UNDER SHELVING UNITS, ON CARDBOARD BOXES IN SERVING AREA, ON LEDGES BEHIND SERVING AREA, ON BOTTOM SURFACES OF HOT HOLDING UNITS IN PREP AREA, ON BOTTOM...",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637982",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED TWO LIVE ROACHES ON SITE AT THE TIME OF THE INSPECTION.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1332,18 +1272,38 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|tacos y burritos el dorado llc|3246 w lawrence ave, chicago, il, 60625|2026-06-02|",
-      "rank": 67,
-      "case": "Tacos Y Burritos El Dorado LLC",
+      "id": "chicago|wing yip restaurant|537 w 26th st, chicago, il, 60616|2026-06-03|",
+      "rank": 64,
+      "case": "WING YIP RESTAURANT",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Roaches / cockroaches",
+      "location": "537 W 26TH ST, CHICAGO, IL, 60616",
+      "inspectionDate": "2026-06-03",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637845",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF PESTS ON PREMISES.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|rollapalooza|3344 n halsted st, chicago, il, 60657|2026-06-02|",
+      "rank": 65,
+      "case": "ROLLAPALOOZA",
       "score": 81,
       "section": "The Vermin Wire",
       "violationType": "Rodents / vermin",
-      "location": "3246 W LAWRENCE AVE, CHICAGO, IL, 60625",
+      "location": "3344 N HALSTED ST, CHICAGO, IL, 60657",
       "inspectionDate": "2026-06-02",
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637783",
-      "grossestDetail": "TOXIC SUBSTANCES PROPERLY IDENTIFIED, STORED, & USED - Comments: OBSERVED RAT POISON BLOCKS SCATTERED ON THE FLOOR OF THE BASEMENT AGAINST THE WALLS AND UNDER THE STAIRCASE.",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2637808",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED RETAIL FOOD ESTABLISHMENT WITHOUT A LICENSED PEST CONTROL OPERATOR.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1353,7 +1313,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|blue plate catering ltd.|333 n ogden ave, chicago, il, 60607|2026-06-23|",
-      "rank": 68,
+      "rank": 66,
       "case": "BLUE PLATE CATERING LTD.",
       "score": 80,
       "section": "The Closure Watch",
@@ -1373,7 +1333,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|gangnam market express|802 w belmont ave, chicago, il, 60657|2026-06-23|",
-      "rank": 69,
+      "rank": 67,
       "case": "GANGNAM MARKET EXPRESS",
       "score": 80,
       "section": "The Closure Watch",
@@ -1392,28 +1352,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|cafe harold's|2300 s throop st, chicago, il, 60608|2026-06-17|",
-      "rank": 70,
-      "case": "CAFE HAROLD'S",
-      "score": 80,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "2300 S THROOP ST, CHICAGO, IL, 60608",
-      "inspectionDate": "2026-06-17",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638721",
-      "grossestDetail": "INSTRUCTED TO PROVIDE PROTECTION FOR BOTH CLEAN AND WASTEWATER VALVES ON THE OUTSIDE OF THE TRUCK.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "chicago|wake 'n bacon|420 w belmont ave, chicago, il, 60657|2026-06-17|",
-      "rank": 71,
+      "rank": 68,
       "case": "WAKE 'N BACON",
       "score": 80,
       "section": "The Closure Watch",
@@ -1432,8 +1372,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "chicago|cafe harold's|2300 s throop st, chicago, il, 60608|2026-06-17|",
+      "rank": 69,
+      "case": "CAFE HAROLD'S",
+      "score": 80,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "2300 S THROOP ST, CHICAGO, IL, 60608",
+      "inspectionDate": "2026-06-17",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2638721",
+      "grossestDetail": "INSTRUCTED TO PROVIDE PROTECTION FOR BOTH CLEAN AND WASTEWATER VALVES ON THE OUTSIDE OF THE TRUCK.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "chicago|broadway kohi|2904 n broadway ave, chicago, il, 60657|2026-06-10|",
-      "rank": 72,
+      "rank": 70,
       "case": "BROADWAY KOHI",
       "score": 80,
       "section": "The Closure Watch",
@@ -1453,7 +1413,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|el chinanteco mexican grill|800 s main st, los angeles|06/15/2026|",
-      "rank": 73,
+      "rank": 71,
       "case": "EL CHINANTECO MEXICAN GRILL",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1473,7 +1433,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|las borreguitas express bar|987 s garey ave, pomona|06/12/2026|",
-      "rank": 74,
+      "rank": 72,
       "case": "LAS BORREGUITAS EXPRESS BAR",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1493,7 +1453,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|downey pizza co|9026 e florence ave, downey|06/12/2026|",
-      "rank": 75,
+      "rank": 73,
       "case": "DOWNEY PIZZA CO",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1513,7 +1473,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|panda garden|5939 state st, huntington park|06/11/2026|",
-      "rank": 76,
+      "rank": 74,
       "case": "PANDA GARDEN",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1533,7 +1493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|happy donuts|4157 eagle rock blvd ste 5, los angeles|06/11/2026|",
-      "rank": 77,
+      "rank": 75,
       "case": "HAPPY DONUTS",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1553,7 +1513,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|safari restaurant bar|2321 e 1st st, los angeles|06/11/2026|",
-      "rank": 78,
+      "rank": 76,
       "case": "SAFARI RESTAURANT BAR",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1573,7 +1533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|panda express #1279|2187 w rosecrans ave, compton|06/10/2026|",
-      "rank": 79,
+      "rank": 77,
       "case": "PANDA EXPRESS #1279",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1593,7 +1553,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|pupuseria el cerro verde|4233 w century blvd unit 8-10, inglewood|06/10/2026|",
-      "rank": 80,
+      "rank": 78,
       "case": "PUPUSERIA EL CERRO VERDE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1604,6 +1564,46 @@ window.VIOLATION_DESK_DATA = {
       "status": "CLOSED / REOPENED",
       "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
       "grossestDetail": "Vermin Infestation- California Health and Safety Code Section 114259.1",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "la_county_closures|petiscos|211 w 1st st, claremont|06/10/2026|",
+      "rank": 79,
+      "case": "PETISCOS",
+      "score": 80,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "211 W 1ST ST, CLAREMONT",
+      "inspectionDate": "06/10/2026",
+      "agency": "Los Angeles County Department of Public Health",
+      "status": "CLOSED / REOPENED",
+      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
+      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "la_county_closures|weho bistro|1040 n la cienega blvd, west hollywood|06/10/2026|",
+      "rank": 80,
+      "case": "WEHO BISTRO",
+      "score": 80,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "1040 N LA CIENEGA BLVD, WEST HOLLYWOOD",
+      "inspectionDate": "06/10/2026",
+      "agency": "Los Angeles County Department of Public Health",
+      "status": "CLOSED / REOPENED",
+      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
+      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1652,28 +1652,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|mammamisu|216, avenue a, manhattan, 10009|2026-06-24|",
-      "rank": 83,
-      "case": "MAMMAMISU",
-      "score": 78,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "216, AVENUE A, Manhattan, 10009",
-      "inspectionDate": "2026-06-24",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50176336",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "nyc|$1.50 fresh pizza|71, 2 avenue, manhattan, 10003|2026-06-24|",
-      "rank": 84,
+      "rank": 83,
       "case": "$1.50 FRESH PIZZA",
       "score": 78,
       "section": "The Closure Watch",
@@ -1692,8 +1672,48 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|new bay coffee shop|1950, 86 street, brooklyn, 11214|2026-06-26|",
+      "id": "nyc|greenpoint cafe & bakery|41-02a, greenpoint avenue, queens, 11104|2026-06-24|",
+      "rank": 84,
+      "case": "GREENPOINT CAFE & BAKERY",
+      "score": 78,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "41-02A, GREENPOINT AVENUE, Queens, 11104",
+      "inspectionDate": "2026-06-24",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50182210",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|east coast|658, rogers avenue, brooklyn, 11226|2026-06-24|",
       "rank": 85,
+      "case": "EAST COAST",
+      "score": 78,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "658, ROGERS AVENUE, Brooklyn, 11226",
+      "inspectionDate": "2026-06-24",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50182113",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|new bay coffee shop|1950, 86 street, brooklyn, 11214|2026-06-26|",
+      "rank": 86,
       "case": "NEW BAY COFFEE SHOP",
       "score": 76,
       "section": "The Vermin Wire",
@@ -1712,38 +1732,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|lim's kitchen|242, east   40 street, manhattan, 10016|2026-06-24|",
-      "rank": 86,
-      "case": "LIM'S KITCHEN",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "242, EAST   40 STREET, Manhattan, 10016",
-      "inspectionDate": "2026-06-24",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50168917",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|ming men|196, smith street, brooklyn, 11201|2026-06-24|",
+      "id": "nyc|budapest cafe|1631, 2 avenue, manhattan, 10028|2026-06-24|",
       "rank": 87,
-      "case": "MING MEN",
+      "case": "BUDAPEST CAFE",
       "score": 76,
       "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "196, SMITH STREET, Brooklyn, 11201",
+      "violationType": "Roaches / cockroaches",
+      "location": "1631, 2 AVENUE, Manhattan, 10028",
       "inspectionDate": "2026-06-24",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50176333",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50149461",
+      "grossestDetail": "Live roaches in facility's food or non-food area.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1752,17 +1752,17 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|kennedy chicken & burger|3955, bronxwood avenue, bronx, 10466|2026-06-24|",
+      "id": "nyc|mixue|519, fulton street, brooklyn, 11201|2026-06-24|",
       "rank": 88,
-      "case": "KENNEDY CHICKEN & BURGER",
+      "case": "MIXUE",
       "score": 76,
       "section": "The Vermin Wire",
       "violationType": "Rodents / vermin",
-      "location": "3955, BRONXWOOD AVENUE, Bronx, 10466",
+      "location": "519, FULTON STREET, Brooklyn, 11201",
       "inspectionDate": "2026-06-24",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50171563",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50181155",
       "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
@@ -1772,17 +1772,37 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|coffee rx|6903, 3 avenue, brooklyn, 11209|2026-06-24|",
+      "id": "nyc|taj mahal lounge|25-27, steinway street, queens, 11103|2026-06-24|",
       "rank": 89,
-      "case": "COFFEE RX",
+      "case": "TAJ MAHAL LOUNGE",
       "score": 76,
       "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "6903, 3 AVENUE, Brooklyn, 11209",
+      "violationType": "Roaches / cockroaches",
+      "location": "25-27, STEINWAY STREET, Queens, 11103",
       "inspectionDate": "2026-06-24",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50008334",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50049096",
+      "grossestDetail": "Live roaches in facility's food or non-food area.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|san marcos cafe|949 a&b, westchester ave, bronx|2026-06-24|",
+      "rank": 90,
+      "case": "SAN MARCOS CAFE",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "949 A&B, WESTCHESTER AVE, Bronx",
+      "inspectionDate": "2026-06-24",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50084602",
       "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
@@ -1793,7 +1813,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|royal queen ()|136-20, roosevelt avenue, queens, 11354|2026-06-27|",
-      "rank": 90,
+      "rank": 91,
       "case": "ROYAL QUEEN ()",
       "score": 69,
       "section": "The Closure Watch",
@@ -1803,7 +1823,7 @@ window.VIOLATION_DESK_DATA = {
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50010956",
-      "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
+      "grossestDetail": "Live roaches in facility's food or non-food area.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1813,7 +1833,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|royal queen ()|136-20, roosevelt avenue, queens, 11354|2026-06-25|",
-      "rank": 91,
+      "rank": 92,
       "case": "ROYAL QUEEN ()",
       "score": 69,
       "section": "The Closure Watch",
@@ -1821,7 +1841,7 @@ window.VIOLATION_DESK_DATA = {
       "location": "136-20, ROOSEVELT AVENUE, Queens, 11354",
       "inspectionDate": "2026-06-25",
       "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Not Critical",
+      "status": "Critical; Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50010956",
       "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
@@ -1833,7 +1853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|crown fried chicken|188-03, jamaica avenue, queens, 11423|2026-06-25|",
-      "rank": 92,
+      "rank": 93,
       "case": "CROWN FRIED CHICKEN",
       "score": 69,
       "section": "The Vermin Wire",
@@ -1843,7 +1863,7 @@ window.VIOLATION_DESK_DATA = {
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50076477",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
+      "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1853,7 +1873,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|aura|130-18, 101 avenue, queens, 11419|2026-06-28|",
-      "rank": 93,
+      "rank": 94,
       "case": "AURA",
       "score": 66,
       "section": "The Closure Watch",
@@ -1861,7 +1881,7 @@ window.VIOLATION_DESK_DATA = {
       "location": "130-18, 101 AVENUE, Queens, 11419",
       "inspectionDate": "2026-06-28",
       "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Not Applicable; Critical; Not Critical",
+      "status": "Critical; Not Applicable; Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41103052",
       "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
@@ -1872,48 +1892,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|desy's clam bar|672, grand street, brooklyn, 11211|2026-06-27|",
-      "rank": 94,
-      "case": "DESY'S CLAM BAR",
-      "score": 66,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "672, GRAND STREET, Brooklyn, 11211",
-      "inspectionDate": "2026-06-27",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50144732",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|halalbee's|182-26, hillside avenue, queens, 11432|2026-06-27|",
-      "rank": 95,
-      "case": "HALALBEE'S",
-      "score": 66,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "182-26, HILLSIDE AVENUE, Queens, 11432",
-      "inspectionDate": "2026-06-27",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50085648",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "nyc|pj restaurant & bakery|1339, st johns place, brooklyn, 11213|2026-06-27|",
-      "rank": 96,
+      "rank": 95,
       "case": "PJ RESTAURANT & BAKERY",
       "score": 66,
       "section": "The Closure Watch",
@@ -1921,7 +1901,7 @@ window.VIOLATION_DESK_DATA = {
       "location": "1339, ST JOHNS PLACE, Brooklyn, 11213",
       "inspectionDate": "2026-06-27",
       "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Not Critical",
+      "status": "Critical; Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41481717",
       "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
@@ -1932,18 +1912,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|coco fresh tea & juice|39-22, main street, queens, 11354|2026-06-27|",
-      "rank": 97,
-      "case": "COCO FRESH TEA & JUICE",
+      "id": "nyc|wingstop|87-44, parsons boulevard, queens, 11432|2026-06-27|",
+      "rank": 96,
+      "case": "Wingstop",
       "score": 66,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "39-22, MAIN STREET, Queens, 11354",
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "87-44, PARSONS BOULEVARD, Queens, 11432",
       "inspectionDate": "2026-06-27",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41610725",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50176974",
+      "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1953,7 +1933,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|monarch izakaya|146, metropolitan avenue, brooklyn, 11249|2026-06-27|",
-      "rank": 98,
+      "rank": 97,
       "case": "MONARCH IZAKAYA",
       "score": 66,
       "section": "The Closure Watch",
@@ -1972,18 +1952,18 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|wingstop|87-44, parsons boulevard, queens, 11432|2026-06-27|",
-      "rank": 99,
-      "case": "Wingstop",
+      "id": "nyc|halalbee's|182-26, hillside avenue, queens, 11432|2026-06-27|",
+      "rank": 98,
+      "case": "HALALBEE'S",
       "score": 66,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "87-44, PARSONS BOULEVARD, Queens, 11432",
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "182-26, HILLSIDE AVENUE, Queens, 11432",
       "inspectionDate": "2026-06-27",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50176974",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50085648",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -1992,118 +1972,38 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|montoya's|102-15, metropolitan avenue, queens, 11375|2026-06-26|",
+      "id": "nyc|coco fresh tea & juice|39-22, main street, queens, 11354|2026-06-27|",
+      "rank": 99,
+      "case": "COCO FRESH TEA & JUICE",
+      "score": 66,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "39-22, MAIN STREET, Queens, 11354",
+      "inspectionDate": "2026-06-27",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical; Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41610725",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|desy's clam bar|672, grand street, brooklyn, 11211|2026-06-27|",
       "rank": 100,
-      "case": "MONTOYA'S",
+      "case": "DESY'S CLAM BAR",
       "score": 66,
       "section": "The Closure Watch",
       "violationType": "Sewage / wastewater",
-      "location": "102-15, METROPOLITAN AVENUE, Queens, 11375",
-      "inspectionDate": "2026-06-26",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50186563",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|joe & the juice|1114, avenue of the americas, manhattan, 10036|2026-06-26|",
-      "rank": 101,
-      "case": "JOE & THE JUICE",
-      "score": 66,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1114, AVENUE OF THE AMERICAS, Manhattan, 10036",
-      "inspectionDate": "2026-06-26",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50060954",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|1313 cafe & juice bar|111-18, 101 avenue, queens, 11419|2026-06-26|",
-      "rank": 102,
-      "case": "1313 CAFE & JUICE BAR",
-      "score": 66,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "111-18, 101 AVENUE, Queens, 11419",
-      "inspectionDate": "2026-06-26",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50180146",
-      "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|d'anna's pizza & deli|169-08, crocheron avenue, queens, 11358|2026-06-26|",
-      "rank": 103,
-      "case": "D'ANNA'S PIZZA & DELI",
-      "score": 66,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "169-08, CROCHERON AVENUE, Queens, 11358",
-      "inspectionDate": "2026-06-26",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50137045",
-      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|hearty and healthy|103, 1 avenue, manhattan, 10003|2026-06-26|",
-      "rank": 104,
-      "case": "HEARTY AND HEALTHY",
-      "score": 66,
-      "section": "The Closure Watch",
-      "violationType": "Sewage / wastewater",
-      "location": "103, 1 AVENUE, Manhattan, 10003",
-      "inspectionDate": "2026-06-26",
-      "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50157150",
-      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
-      "producerRecommendation": "Quick-hit or watchlist candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "nyc|five loaves and two fishes|82-72, broadway, queens, 11373|2026-06-26|",
-      "rank": 105,
-      "case": "FIVE LOAVES AND TWO FISHES",
-      "score": 66,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "82-72, BROADWAY, Queens, 11373",
-      "inspectionDate": "2026-06-26",
+      "location": "672, GRAND STREET, Brooklyn, 11211",
+      "inspectionDate": "2026-06-27",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50159761",
-      "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50144732",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -2113,7 +2013,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|harlem cafe|2259, adam clayton powell jr boulevard, manhattan|2026-06-26|",
-      "rank": 106,
+      "rank": 101,
       "case": "HARLEM CAFE",
       "score": 66,
       "section": "The Closure Watch",
@@ -2132,17 +2032,17 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|the lexington social|1634, lexington avenue, manhattan, 10029|2026-06-26|",
-      "rank": 107,
-      "case": "THE LEXINGTON SOCIAL",
+      "id": "nyc|mikado|109, west   14 street, manhattan, 10011|2026-06-26|",
+      "rank": 102,
+      "case": "MIKADO",
       "score": 66,
       "section": "The Vermin Wire",
       "violationType": "Rodents / vermin",
-      "location": "1634, LEXINGTON AVENUE, Manhattan, 10029",
+      "location": "109, WEST   14 STREET, Manhattan, 10011",
       "inspectionDate": "2026-06-26",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41382903",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50127595",
       "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
@@ -2152,17 +2052,17 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|yue xiang ju|7617, new utrecht avenue, brooklyn, 11214|2026-06-26|",
-      "rank": 108,
-      "case": "YUE XIANG JU",
+      "id": "nyc|la bagel delight|104, front street, brooklyn, 11201|2026-06-26|",
+      "rank": 103,
+      "case": "LA BAGEL DELIGHT",
       "score": 66,
       "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "7617, NEW UTRECHT AVENUE, Brooklyn, 11214",
+      "violationType": "Rodents / vermin",
+      "location": "104, FRONT STREET, Brooklyn, 11201",
       "inspectionDate": "2026-06-26",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50170337",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41532729",
       "grossestDetail": "Establishment is not free of harborage or conditions conducive to rodents, insects or other pests.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
@@ -2172,8 +2072,48 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "nyc|zabb putawn brooklyn|229, court street, brooklyn, 11201|2026-06-26|",
+      "rank": 104,
+      "case": "ZABB PUTAWN BROOKLYN",
+      "score": 66,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "229, COURT STREET, Brooklyn, 11201",
+      "inspectionDate": "2026-06-26",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=41428414",
+      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|51 pizza|51, columbia street, manhattan, 10002|2026-06-26|",
+      "rank": 105,
+      "case": "51 PIZZA",
+      "score": 66,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "51, COLUMBIA STREET, Manhattan, 10002",
+      "inspectionDate": "2026-06-26",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50126161",
+      "grossestDetail": "Evidence of mice or live mice in establishment's food or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "nyc|arefin's crepe mania new york|98-02, 101 avenue, queens, 11416|2026-06-26|",
-      "rank": 109,
+      "rank": 106,
       "case": "AREFIN'S CREPE MANIA NEW YORK",
       "score": 66,
       "section": "The Closure Watch",
@@ -2181,7 +2121,7 @@ window.VIOLATION_DESK_DATA = {
       "location": "98-02, 101 AVENUE, Queens, 11416",
       "inspectionDate": "2026-06-26",
       "agency": "NYC Department of Health and Mental Hygiene",
-      "status": "Not Critical",
+      "status": "Critical; Not Critical",
       "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50170538",
       "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
@@ -2192,17 +2132,77 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "nyc|aloaf cafe|170, east  110 street, manhattan, 10029|2026-06-26|",
-      "rank": 110,
-      "case": "ALOAF CAFE",
+      "id": "nyc|la cucharita paisa bar restaurant|1802, westchester avenue, bronx, 10472|2026-06-26|",
+      "rank": 107,
+      "case": "La Cucharita Paisa Bar Restaurant",
       "score": 66,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "170, EAST  110 STREET, Manhattan, 10029",
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "1802, WESTCHESTER AVENUE, Bronx, 10472",
+      "inspectionDate": "2026-06-26",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50142540",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|montoya's|102-15, metropolitan avenue, queens, 11375|2026-06-26|",
+      "rank": 108,
+      "case": "MONTOYA'S",
+      "score": 66,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "102-15, METROPOLITAN AVENUE, Queens, 11375",
       "inspectionDate": "2026-06-26",
       "agency": "NYC Department of Health and Mental Hygiene",
       "status": "Critical; Not Critical",
-      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50058240",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50186563",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|hearty and healthy|103, 1 avenue, manhattan, 10003|2026-06-26|",
+      "rank": 109,
+      "case": "HEARTY AND HEALTHY",
+      "score": 66,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "103, 1 AVENUE, Manhattan, 10003",
+      "inspectionDate": "2026-06-26",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical; Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50157150",
+      "grossestDetail": "Filth flies or food/refuse/sewage associated with (FRSA) flies or other nuisance pests in establishment\u2019s food and/or non-food areas.",
+      "producerRecommendation": "Quick-hit or watchlist candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "nyc|1313 cafe & juice bar|111-18, 101 avenue, queens, 11419|2026-06-26|",
+      "rank": 110,
+      "case": "1313 CAFE & JUICE BAR",
+      "score": 66,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "111-18, 101 AVENUE, Queens, 11419",
+      "inspectionDate": "2026-06-26",
+      "agency": "NYC Department of Health and Mental Hygiene",
+      "status": "Critical; Not Critical",
+      "officialRecord": "https://data.cityofnewyork.us/resource/43nn-pn8j.json?camis=50180146",
       "grossestDetail": "Live roaches in facility's food or non-food area.",
       "producerRecommendation": "Quick-hit or watchlist candidate",
       "followUp": [
@@ -2212,48 +2212,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "la_county_closures|petiscos|211 w 1st st, claremont|06/10/2026|",
-      "rank": 111,
-      "case": "PETISCOS",
-      "score": 80,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "211 W 1ST ST, CLAREMONT",
-      "inspectionDate": "06/10/2026",
-      "agency": "Los Angeles County Department of Public Health",
-      "status": "CLOSED / REOPENED",
-      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
-      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "la_county_closures|weho bistro|1040 n la cienega blvd, west hollywood|06/10/2026|",
-      "rank": 112,
-      "case": "WEHO BISTRO",
-      "score": 80,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1040 N LA CIENEGA BLVD, WEST HOLLYWOOD",
-      "inspectionDate": "06/10/2026",
-      "agency": "Los Angeles County Department of Public Health",
-      "status": "CLOSED / REOPENED",
-      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
-      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "la_county_closures|ningjie jingzhou bbq|331 w garvey ave d, monterey park|06/10/2026|",
-      "rank": 113,
+      "rank": 111,
       "case": "NINGJIE JINGZHOU BBQ",
       "score": 80,
       "section": "The Closure Watch",
@@ -2273,7 +2233,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|pupuseria rio lempa|2630 saturn ave, huntington park|06/10/2026|",
-      "rank": 114,
+      "rank": 112,
       "case": "PUPUSERIA RIO LEMPA",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2293,7 +2253,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|diplomat restaurant|1781 westwood blvd, los angeles|06/10/2026|",
-      "rank": 115,
+      "rank": 113,
       "case": "DIPLOMAT RESTAURANT",
       "score": 80,
       "section": "The Closure Watch",
@@ -2313,7 +2273,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|cream & sugar cafe|12826 la mirada blvd, la mirada|06/10/2026|",
-      "rank": 116,
+      "rank": 114,
       "case": "CREAM & SUGAR CAFE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2333,7 +2293,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|sgjaa snack bar|9520 hildreth ave, south gate|06/08/2026|",
-      "rank": 117,
+      "rank": 115,
       "case": "SGJAA SNACK BAR",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2353,7 +2313,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|house market|3337 division st, los angeles|06/08/2026|",
-      "rank": 118,
+      "rank": 116,
       "case": "HOUSE MARKET",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2373,7 +2333,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|sheng hui dim sum|2889 valley blvd # j, west covina|06/05/2026|",
-      "rank": 119,
+      "rank": 117,
       "case": "SHENG HUI DIM SUM",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2393,7 +2353,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|xin wang food|810 n nogales st, walnut|06/04/2026|",
-      "rank": 120,
+      "rank": 118,
       "case": "XIN WANG FOOD",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2413,7 +2373,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|kebab lab|9301 tampa ave, northridge|06/04/2026|",
-      "rank": 121,
+      "rank": 119,
       "case": "KEBAB LAB",
       "score": 80,
       "section": "The Closure Watch",
@@ -2433,7 +2393,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|happy buddha kitchen, inc|5551 rosemead blvd, temple city|06/03/2026|",
-      "rank": 122,
+      "rank": 120,
       "case": "HAPPY BUDDHA KITCHEN, INC",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2453,7 +2413,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|las brisas del pacifico|2754 e gage ave, huntington park|06/02/2026|",
-      "rank": 123,
+      "rank": 121,
       "case": "LAS BRISAS DEL PACIFICO",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2473,7 +2433,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|sk donuts and ice cream|3571 peck rd, el monte|06/01/2026|",
-      "rank": 124,
+      "rank": 122,
       "case": "SK DONUTS AND ICE CREAM",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2492,28 +2452,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "la_county_closures|b w hotel llc|9500 wilshire blvd, beverly hills|05/31/2026|",
-      "rank": 125,
-      "case": "B W HOTEL LLC",
-      "score": 80,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "9500 WILSHIRE BLVD, BEVERLY HILLS",
-      "inspectionDate": "05/31/2026",
-      "agency": "Los Angeles County Department of Public Health",
-      "status": "CLOSED / REOPENED",
-      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
-      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "la_county_closures|red o restaurant|1541 ocean ave, santa monica|05/28/2026|",
-      "rank": 126,
+      "rank": 123,
       "case": "RED O RESTAURANT",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2533,7 +2473,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|cajun chicken & wings|31743 castaic rd, castaic|05/28/2026|",
-      "rank": 127,
+      "rank": 124,
       "case": "CAJUN CHICKEN & WINGS",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2553,7 +2493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|asadero chikali|4233 w century blvd 7, inglewood|05/20/2026|",
-      "rank": 128,
+      "rank": 125,
       "case": "ASADERO CHIKALI",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2573,7 +2513,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|cajun chicken & wings|31743 castaic rd, castaic|05/13/2026|",
-      "rank": 129,
+      "rank": 126,
       "case": "CAJUN CHICKEN & WINGS",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2593,7 +2533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|mj valley|203 w valley blvd, alhambra|05/13/2026|",
-      "rank": 130,
+      "rank": 127,
       "case": "MJ VALLEY",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2612,8 +2552,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "la_county_closures|rikas|3553 w 3rd st, los angeles|05/06/2026|",
+      "rank": 128,
+      "case": "RIKAS",
+      "score": 80,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "3553 W 3RD ST, LOS ANGELES",
+      "inspectionDate": "05/06/2026",
+      "agency": "Los Angeles County Department of Public Health",
+      "status": "CLOSED / REOPENED",
+      "officialRecord": "https://ehservices.publichealth.lacounty.gov/ezsearch",
+      "grossestDetail": "Vermin Infestation - California Health and Safety Code Section 114259.1",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "orange_county_closures|zan kitchen|9637 bolsa ave ste a, westminster, 92683-6697|2026-06-17|",
-      "rank": 131,
+      "rank": 129,
       "case": "Zan Kitchen",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2633,7 +2593,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|tambuli seafood market|4710 lincoln ave, cypress, 90630-2652|2026-06-17|",
-      "rank": 132,
+      "rank": 130,
       "case": "TAMBULI SEAFOOD MARKET",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2653,7 +2613,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|simply pho|23775 el toro rd ste a, lake forest, 92630-4769|2026-06-12|",
-      "rank": 133,
+      "rank": 131,
       "case": "SIMPLY PHO",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2673,7 +2633,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|the ranch sports grill|27412 antonio pkwy ste r1, ladera ranch, 92694-2164|2026-06-12|",
-      "rank": 134,
+      "rank": 132,
       "case": "THE RANCH SPORTS GRILL",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2693,7 +2653,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|rodrigo's mexican grill^|2681 w la palma ave, anaheim, 92801-1314|2026-06-11|",
-      "rank": 135,
+      "rank": 133,
       "case": "RODRIGO'S MEXICAN GRILL^",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2713,7 +2673,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|ai pono cafe^|283 e 17th st ste a, costa mesa, 92627-7313|2026-06-11|",
-      "rank": 136,
+      "rank": 134,
       "case": "AI PONO CAFE^",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2733,7 +2693,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|round table pizza|32525 golden lantern st ste b, dana point, 92629-3249|2026-06-11|",
-      "rank": 137,
+      "rank": 135,
       "case": "ROUND TABLE PIZZA",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2753,7 +2713,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|papa john|3316 s bristol st, santa ana, 92704-8201|2026-06-11|",
-      "rank": 138,
+      "rank": 136,
       "case": "PAPA JOHN",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2773,7 +2733,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|binh minh restaurant|9908 westminster ave, garden grove, 92844-2909|2026-06-05|",
-      "rank": 139,
+      "rank": 137,
       "case": "BINH MINH RESTAURANT",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2793,7 +2753,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|pho thin 13 lo duc ha noi|10451 bolsa ave ste 101, westminster, 92683-6756|2026-06-05|",
-      "rank": 140,
+      "rank": 138,
       "case": "Pho Thin 13 lo Duc Ha Noi",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2813,7 +2773,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|holiday inn express|1411 s manchester ave, anaheim, 92802-2905|2026-06-03|",
-      "rank": 141,
+      "rank": 139,
       "case": "Holiday Inn Express",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2833,7 +2793,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|cafe gazelle|16041 bolsa chica st, huntington beach, 92649-2406|2026-06-03|",
-      "rank": 142,
+      "rank": 140,
       "case": "CAFE GAZELLE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2853,7 +2813,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|la huasteca ^|6980 beach blvd ste j301, buena park, 90621-6807|2026-06-02|",
-      "rank": 143,
+      "rank": 141,
       "case": "LA HUASTECA ^",
       "score": 80,
       "section": "The Vermin Wire",
@@ -2873,7 +2833,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|oakberry huntington beach|21022 pacific coast hwy, huntington beach, 92648|2026-06-17|",
-      "rank": 144,
+      "rank": 142,
       "case": "Oakberry Huntington Beach",
       "score": 70,
       "section": "The Closure Watch",
@@ -2893,7 +2853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|universe love boba^|8501 knott ave, buena park, 90620-3850|2026-06-11|",
-      "rank": 145,
+      "rank": 143,
       "case": "Universe Love Boba^",
       "score": 70,
       "section": "The Closure Watch",
@@ -2913,7 +2873,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|tai tea^|1315 e katella ave, orange, 92867-5042|2026-06-05|",
-      "rank": 146,
+      "rank": 144,
       "case": "TAI TEA^",
       "score": 70,
       "section": "The Closure Watch",
@@ -2933,7 +2893,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|mariscos el ranchito|501 n harbor blvd ste e, santa ana, 92703-2755|2026-06-03|",
-      "rank": 147,
+      "rank": 145,
       "case": "MARISCOS EL RANCHITO",
       "score": 70,
       "section": "The Closure Watch",
@@ -2953,7 +2913,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "orange_county_closures|international pastry|18040 culver dr, irvine, 92612-2757|2026-06-02|",
-      "rank": 148,
+      "rank": 146,
       "case": "INTERNATIONAL PASTRY",
       "score": 70,
       "section": "The Closure Watch",
@@ -2972,8 +2932,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "mecklenburg_county|el tropico restaurant|4335 n tryon st \n \ncharlotte, nc 28213|7/1/2026|2060015156",
+      "rank": 147,
+      "case": "EL TROPICO RESTAURANT",
+      "score": 79,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "4335 N TRYON ST \n \nCHARLOTTE, NC 28213",
+      "inspectionDate": "7/1/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 94 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "mecklenburg_county|new century oriental deli|4500 n tryon st suite c\n \ncharlotte, nc 28213|6/23/2026|2060015299",
-      "rank": 149,
+      "rank": 148,
       "case": "NEW CENTURY ORIENTAL DELI",
       "score": 79,
       "section": "The Vermin Wire",
@@ -2993,7 +2973,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|mr charles chicken and fish too|8006 cambridge commons dr b\n \ncharlotte, nc 28215|6/16/2026|2060019144",
-      "rank": 150,
+      "rank": 149,
       "case": "MR CHARLES CHICKEN AND FISH TOO",
       "score": 79,
       "section": "The Vermin Wire",
@@ -3002,6 +2982,26 @@ window.VIOLATION_DESK_DATA = {
       "inspectionDate": "6/16/2026",
       "agency": "Mecklenburg County Health Department",
       "status": "Score 93.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|fin and fino|8630 lindholm dr unit 1a\n \nhuntersville, nc 28078|6/30/2026|2060014669",
+      "rank": 150,
+      "case": "FIN AND FINO",
+      "score": 78,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "8630 LINDHOLM DR UNIT 1A\n \nHUNTERSVILLE, NC 28078",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 96 / Grade A",
       "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
       "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
       "producerRecommendation": "Full segment candidate",
@@ -3212,8 +3212,28 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "mecklenburg_county|el carbonero|4400 central av \n \ncharlotte, nc 28205|5/14/2026|20600110848",
+      "id": "mecklenburg_county|el tropico restaurant|4335 n tryon st \n \ncharlotte, nc 28213|5/28/2026|2060015156",
       "rank": 161,
+      "case": "EL TROPICO RESTAURANT",
+      "score": 78,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "4335 N TRYON ST \n \nCHARLOTTE, NC 28213",
+      "inspectionDate": "5/28/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 87 / Grade B",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|el carbonero|4400 central av \n \ncharlotte, nc 28205|5/14/2026|20600110848",
+      "rank": 162,
       "case": "EL CARBONERO",
       "score": 78,
       "section": "The Vermin Wire",
@@ -3233,7 +3253,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|soma bistro curry n cake|2015 east arbors dr 240\n \ncharlotte, nc 28262|2/4/2026|20600111313",
-      "rank": 162,
+      "rank": 163,
       "case": "SOMA BISTRO CURRY N CAKE",
       "score": 78,
       "section": "The Vermin Wire",
@@ -3252,8 +3272,68 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "mecklenburg_county|primavera pizza|1319 matthews-mint hill rd \n \ncharlotte, nc 28105|7/1/2026|2060016081",
+      "rank": 164,
+      "case": "PRIMAVERA PIZZA",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "1319 MATTHEWS-MINT HILL RD \n \nCHARLOTTE, NC 28105",
+      "inspectionDate": "7/1/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 97 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|mcdonalds #39729|10720 woodland beaver rd \n \ncharlotte, nc 28215|7/1/2026|20600110423",
+      "rank": 165,
+      "case": "MCDONALDS #39729",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "10720 WOODLAND BEAVER RD \n \nCHARLOTTE, NC 28215",
+      "inspectionDate": "7/1/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 98.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|harris teeter #11 starbucks|15007 john j delaney dr \n \ncharlotte, nc 28277|7/1/2026|2060017709",
+      "rank": 166,
+      "case": "HARRIS TEETER #11 STARBUCKS",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "15007 JOHN J DELANEY DR \n \nCHARLOTTE, NC 28277",
+      "inspectionDate": "7/1/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 98.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "mecklenburg_county|fiesta maya mexican restaurant|3503 david cox rd \n \ncharlotte, nc 28269|6/4/2026|2060014719",
-      "rank": 163,
+      "rank": 167,
       "case": "FIESTA MAYA MEXICAN RESTAURANT",
       "score": 76,
       "section": "The Vermin Wire",
@@ -3272,8 +3352,128 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
+      "id": "mecklenburg_county|the rusty onion pizzeria and pourhouse|6654 carmel rd \n \ncharlotte, nc 28226|6/30/2026|20600110660",
+      "rank": 168,
+      "case": "THE RUSTY ONION PIZZERIA AND POURHOUSE",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "6654 CARMEL RD \n \nCHARLOTTE, NC 28226",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 96 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|market express #17385|5600 brookshire bv b\n \ncharlotte, nc 28216|6/30/2026|20600110617",
+      "rank": 169,
+      "case": "MARKET EXPRESS #17385",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "5600 BROOKSHIRE BV B\n \nCHARLOTTE, NC 28216",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 92 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|macchu picchu|123 main st \n \npineville, nc 28134|6/30/2026|20600111044",
+      "rank": 170,
+      "case": "MACCHU PICCHU",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "123 MAIN ST \n \nPINEVILLE, NC 28134",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 92.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|lodge, the|7725 colony rd \n \ncharlotte, nc 28226|6/30/2026|2060016564",
+      "rank": 171,
+      "case": "LODGE, THE",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "7725 COLONY RD \n \nCHARLOTTE, NC 28226",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 93 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.115 Live animals may not be allowed on the premises of a food establishment unless otherwise allowed in the NC Food Code per 6-501.115 (B) and (C ).",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|lagz restaurant bar & grille|2539 little rock rd \n \ncharlotte, nc 28214|6/30/2026|20600110193",
+      "rank": 172,
+      "case": "LAGZ RESTAURANT BAR & GRILLE",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "2539 LITTLE ROCK RD \n \nCHARLOTTE, NC 28214",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 94 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: REPEAT",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|great wall of china south|6666 carmel rd \n \ncharlotte, nc 28226|6/30/2026|2060019338",
+      "rank": 173,
+      "case": "GREAT WALL OF CHINA SOUTH",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "6666 CARMEL RD \n \nCHARLOTTE, NC 28226",
+      "inspectionDate": "6/30/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 92.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.112 Remove dead or trapped birds, insects, rodents, and other pests.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
       "id": "mecklenburg_county|firehouse subs|6925 university city bv suite 430\n \ncharlotte, nc 28262|6/30/2026|2060019481",
-      "rank": 164,
+      "rank": 174,
       "case": "FIREHOUSE SUBS",
       "score": 76,
       "section": "The Vermin Wire",
@@ -3293,7 +3493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|caribou coffee #1532|8908 lindholm dr ste c\n \nhuntersville, nc 28078|6/30/2026|20600111205",
-      "rank": 165,
+      "rank": 175,
       "case": "CARIBOU COFFEE #1532",
       "score": 76,
       "section": "The Vermin Wire",
@@ -3312,248 +3512,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "mecklenburg_county|verde urban mexican kitchen & cantina|9818 gilead rd suite b107\n \nhuntersville, nc 28078|6/29/2026|2060017707",
-      "rank": 166,
-      "case": "VERDE URBAN MEXICAN KITCHEN & CANTINA",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "9818 GILEAD RD SUITE B107\n \nHUNTERSVILLE, NC 28078",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 99.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|midwood smokehouse of ballantyne/gk|12410 johnston rd \n \ncharlotte, nc 28277|6/29/2026|2060018294",
-      "rank": 167,
-      "case": "MIDWOOD SMOKEHOUSE OF BALLANTYNE/GK",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "12410 JOHNSTON RD \n \nCHARLOTTE, NC 28277",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 96.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|mezeh grill @ optimist|1115 n brevard st ste 201\n \ncharlotte, nc 28206|6/29/2026|20600110151",
-      "rank": 168,
-      "case": "MEZEH GRILL @ OPTIMIST",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1115 N BREVARD ST STE 201\n \nCHARLOTTE, NC 28206",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 96 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|mcdonalds #14668|8121 university city bv \n \ncharlotte, nc 28213|6/29/2026|2060019920",
-      "rank": 169,
-      "case": "MCDONALDS #14668",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "8121 UNIVERSITY CITY BV \n \nCHARLOTTE, NC 28213",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 93 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|mcalisters deli #1085|2217 matthews township py ste a\n \nmatthews, nc 28105|6/29/2026|2060018833",
-      "rank": 170,
-      "case": "MCALISTERS DELI #1085",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "2217 MATTHEWS TOWNSHIP PY STE A\n \nMATTHEWS, NC 28105",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 99.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|chili's grill & bar #485|16632 statesville rd \n \nhuntersville, nc 28078|6/29/2026|2060015869",
-      "rank": 171,
-      "case": "CHILI'S GRILL & BAR #485",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "16632 STATESVILLE RD \n \nHUNTERSVILLE, NC 28078",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 99 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|chef henry catering|1050 devore ln \n \nmatthews, nc 28105|6/29/2026|2060018225",
-      "rank": 172,
-      "case": "CHEF HENRY CATERING",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1050 DEVORE LN \n \nMATTHEWS, NC 28105",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 98 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|botiwalla optimist|1115 n brevard st ste 203\n \ncharlotte, nc 28215|6/29/2026|2060019983",
-      "rank": 173,
-      "case": "BOTIWALLA OPTIMIST",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "1115 N BREVARD ST STE 203\n \nCHARLOTTE, NC 28215",
-      "inspectionDate": "6/29/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 98 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|704 exclusive|3930 brookshire blvd \n \ncharotte, nc 28278|6/27/2026|20600111468",
-      "rank": 174,
-      "case": "704 EXCLUSIVE",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "3930 BROOKSHIRE BLVD \n \nCHAROTTE, NC 28278",
-      "inspectionDate": "6/27/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 99 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|us national whitewater center restaurant|5000 whitewater center py \n \ncharlotte, nc 28214|6/26/2026|2060015718",
-      "rank": 175,
-      "case": "US NATIONAL WHITEWATER CENTER RESTAURANT",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "5000 WHITEWATER CENTER PY \n \nCHARLOTTE, NC 28214",
-      "inspectionDate": "6/26/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 96.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|somi sushi|3104 weddington rd \n \nmatthews, nc 28105|6/26/2026|2060019262",
-      "rank": 176,
-      "case": "SOMI SUSHI",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "3104 WEDDINGTON RD \n \nMATTHEWS, NC 28105",
-      "inspectionDate": "6/26/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 97.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "mecklenburg_county|shake shake seafood king crab|9925 leitner dr \n \npineville, nc 28134|6/26/2026|2060019668",
-      "rank": 177,
-      "case": "SHAKE SHAKE SEAFOOD KING CRAB",
-      "score": 76,
-      "section": "The Vermin Wire",
-      "violationType": "Roaches / cockroaches",
-      "location": "9925 LEITNER DR \n \nPINEVILLE, NC 28134",
-      "inspectionDate": "6/26/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 87 / Grade B",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.112 Remove dead or trapped birds, insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "san_francisco|peet's coffee & tea|2139c polk st, san francisco, ca, 94109|2019-09-27|",
-      "rank": 178,
+      "rank": 176,
       "case": "Peet's Coffee & Tea",
       "score": 70,
       "section": "The Vermin Wire",
@@ -3573,7 +3533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|woodhouse fish co.|1914 fillmore st, san francisco, ca, 94116|2019-09-17|",
-      "rank": 179,
+      "rank": 177,
       "case": "Woodhouse Fish Co.",
       "score": 70,
       "section": "The Vermin Wire",
@@ -3593,7 +3553,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|green island restaurant|4012 geary blvd, san francisco, ca, 94118|2019-09-11|",
-      "rank": 180,
+      "rank": 178,
       "case": "Green Island Restaurant",
       "score": 70,
       "section": "The Vermin Wire",
@@ -3613,7 +3573,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|woodhouse fish co.|1914 fillmore st, san francisco, ca, 94116|2019-09-10|",
-      "rank": 181,
+      "rank": 179,
       "case": "Woodhouse Fish Co.",
       "score": 70,
       "section": "The Vermin Wire",
@@ -3633,7 +3593,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|san marcos restaurante|98 leland ave, san francisco, ca, 94134|2019-10-01|",
-      "rank": 182,
+      "rank": 180,
       "case": "San Marcos Restaurante",
       "score": 69,
       "section": "The Closure Watch",
@@ -3653,7 +3613,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|noe's cantina inc|1199 church st, san francisco, ca, 94114|2019-09-27|",
-      "rank": 183,
+      "rank": 181,
       "case": "NOE'S CANTINA INC",
       "score": 69,
       "section": "The Closure Watch",
@@ -3673,7 +3633,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|golden city inn|5131 03rd st, san francisco, ca, 94124|2019-10-03|",
-      "rank": 184,
+      "rank": 182,
       "case": "Golden City Inn",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3693,7 +3653,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|frisco fried|5176 03rd st, san francisco, ca, 94124|2019-10-03|",
-      "rank": 185,
+      "rank": 183,
       "case": "Frisco Fried",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3713,7 +3673,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|5a5 steak lounge|244 jackson st, san francisco, ca, 94111|2019-10-03|",
-      "rank": 186,
+      "rank": 184,
       "case": "5A5 Steak Lounge",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3733,7 +3693,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|cafe majestic|1500 sutter st, san francisco, ca, 94109|2019-10-03|",
-      "rank": 187,
+      "rank": 185,
       "case": "Cafe Majestic",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3753,7 +3713,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|el tepa|2198 folsom st, san francisco, ca, 94110|2019-10-02|",
-      "rank": 188,
+      "rank": 186,
       "case": "El Tepa",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3773,7 +3733,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|round table pizza|801 van ness ave, san francisco, ca, 94109|2019-10-02|",
-      "rank": 189,
+      "rank": 187,
       "case": "Round Table Pizza",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3793,7 +3753,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|we be sushi|538 valencia st, san francisco, ca, 94110|2019-10-02|",
-      "rank": 190,
+      "rank": 188,
       "case": "WE BE SUSHI",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3813,7 +3773,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|a1 geneva bakery|959 geneva ave, san francisco, ca, 94112|2019-10-02|",
-      "rank": 191,
+      "rank": 189,
       "case": "A1 Geneva Bakery",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3833,7 +3793,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|akikos sushi|431 bush st, san francisco, ca, 94108|2019-10-02|",
-      "rank": 192,
+      "rank": 190,
       "case": "Akikos Sushi",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3853,7 +3813,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|el toro taqueria|598 valencia st, san francisco, ca, 94110|2019-10-02|",
-      "rank": 193,
+      "rank": 191,
       "case": "EL TORO TAQUERIA",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3873,7 +3833,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|lava java|852 stanyan st, san francisco, ca, 94117|2019-10-02|",
-      "rank": 194,
+      "rank": 192,
       "case": "LAVA JAVA",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3893,7 +3853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|southern pacific brewing|620 treat ave, san francisco, ca, 94110|2019-10-02|",
-      "rank": 195,
+      "rank": 193,
       "case": "Southern Pacific Brewing",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3913,7 +3873,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|pakwan restaurant|501 o'farrell st, san francisco, ca, 94102|2019-10-02|",
-      "rank": 196,
+      "rank": 194,
       "case": "Pakwan Restaurant",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3933,7 +3893,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|martita restaurant|5276 mission st, san francisco, ca, 94112|2019-10-02|",
-      "rank": 197,
+      "rank": 195,
       "case": "Martita Restaurant",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3953,7 +3913,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|panchitas|530 valencia st, san francisco, ca, 94110|2019-10-02|",
-      "rank": 198,
+      "rank": 196,
       "case": "Panchitas",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3973,7 +3933,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|yank sing restaurant|101 spear st a-16, san francisco, ca, 94105|2019-10-01|",
-      "rank": 199,
+      "rank": 197,
       "case": "YANK SING RESTAURANT",
       "score": 67,
       "section": "The Vermin Wire",
@@ -3993,7 +3953,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|garibaldis on presidio|347 presidio ave, san francisco, ca, 94115|2019-10-01|",
-      "rank": 200,
+      "rank": 198,
       "case": "Garibaldis on Presidio",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4013,7 +3973,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|mission street sports bar sf|2565 mission st., san francisco, ca, 94110|2019-10-01|",
-      "rank": 201,
+      "rank": 199,
       "case": "Mission Street Sports Bar SF",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4033,7 +3993,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|neighbors corner|499 douglass st, san francisco, ca, 94114|2019-10-01|",
-      "rank": 202,
+      "rank": 200,
       "case": "Neighbors Corner",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4053,7 +4013,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|may flower mkt.|2498 fillmore st, san francisco, ca, 94115|2019-09-30|",
-      "rank": 203,
+      "rank": 201,
       "case": "MAY FLOWER MKT.",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4073,7 +4033,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|red a bakery|634 clement st, san francisco, ca, 94118|2019-09-30|",
-      "rank": 204,
+      "rank": 202,
       "case": "RED A BAKERY",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4093,7 +4053,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|mayah's restaurant cafe|550 15th st, san francisco, ca, 94103|2019-09-30|",
-      "rank": 205,
+      "rank": 203,
       "case": "Mayah's Restaurant Cafe",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4113,7 +4073,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|city chopsticks|883 bush st, san francisco, ca, 94108|2019-09-30|",
-      "rank": 206,
+      "rank": 204,
       "case": "City Chopsticks",
       "score": 67,
       "section": "The Vermin Wire",
@@ -4133,7 +4093,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "san_francisco|mixt greens/mixt|51 yerba buena lane, san francisco, ca, 94105|2019-09-30|",
-      "rank": 207,
+      "rank": 205,
       "case": "Mixt Greens/Mixt",
       "score": 67,
       "section": "The Vermin Wire",
