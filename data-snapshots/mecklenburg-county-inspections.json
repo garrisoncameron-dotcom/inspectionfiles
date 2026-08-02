@@ -1,9 +1,9 @@
 {
-  "capturedAt": "2026-08-01T10:52:21+00:00",
+  "capturedAt": "2026-08-02T10:53:24+00:00",
   "source": "Mecklenburg County Public Health Inspections",
   "sourceUrl": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
   "lookbackDays": 45,
-  "newOrUpdatedRows": 111,
+  "newOrUpdatedRows": 110,
   "rows": [
     {
       "search_label": "recent_restaurants",
@@ -2052,7 +2052,7 @@
       "grade": "B",
       "inspector_id": "3440",
       "first_seen": "2026-07-09T17:27:40+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "- Facility has changed management since the previous inspection with the PIC stating that it is still under the same LLC, just new managers and staff. Current LLC is still active as of the inspection today. New PIC stated that they are in the process of changing the menu and that despite currently using the old menu they are no longer offering anything cooked to order. Previous management was offering burgers and salmon items cooked to order but current PIC was adamant that they would not offer anything cooked below medium with everything being default to well done. EHS advised staff that the new menus must remove the consumer advisory and asterisks on the burger and salmon items if they would not offer items undercooked.\n\n- For a reinspection, please contact the main office at 980-314-1620.",
       "violations": [
         {
@@ -5763,7 +5763,7 @@
       "grade": "B",
       "inspector_id": "2398",
       "first_seen": "2026-07-06T17:59:16+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -7968,7 +7968,7 @@
       "grade": "A",
       "inspector_id": "3537",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -7998,7 +7998,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Inspection led by REHS Ericka Jolley",
       "violations": [
         {
@@ -8100,7 +8100,7 @@
       "grade": "A",
       "inspector_id": "3225",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8139,7 +8139,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "EHS provided extra handwashing signs for bar area sink(s).",
       "violations": [
         {
@@ -8196,7 +8196,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "During visit EHS discussed effective cooling methods of TCS foods cooled from ambient temps due to elevated temperatures during active operating hours. The discussion included implementing ice bags for TCS foods found out of temp, increased monitoring of foods held in flip top, maintaining flip top lid closed, and removing foods to less active units after being held out of temp for extended periods of time. \nEstablishment is prohibited from cooking and cooling TCS foods. Violations cited for cooling over time may result in higher point deductions and permit action.",
       "violations": [
         {
@@ -8280,7 +8280,7 @@
       "grade": "A",
       "inspector_id": "2882",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8319,7 +8319,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "EHSI Jason Adamsky present during inspection.",
       "violations": [
         {
@@ -8403,7 +8403,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [],
       "violation_text": "",
@@ -8423,7 +8423,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8489,7 +8489,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Parasite Destruction / Aquaculture Letters present \nTPHC - Sushi Rice",
       "violations": [
         {
@@ -8564,7 +8564,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8666,7 +8666,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8723,7 +8723,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "NOTE: Facility had previous issues with grease trap/ sewage backup. Facility closed due to back up issue. Issue currently resolved. Anytime there is sewage backup and the potential for contamination facility shall close. Issue is deemed as an imminent health hazard.",
       "violations": [
         {
@@ -8798,7 +8798,7 @@
       "grade": "A",
       "inspector_id": "2363",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8900,7 +8900,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Per discussion with PIC, it was made known that caramelized onions may be cooked at home and brought to facility at times. Cooking food or obtaining food from an unapproved source per 3-201.11 is unacceptable. Refrain from cooking items outside facility going forward.\n\nThe use of commercial cooking equipment that produces grease-laden vapors without an exhaust hood and automatic fire suppression system is strictly prohibited under NC fire and mechanical codes. Facility must cease use of electric fryers until speaking with plan review.\n\nInspection led by REHS Ericka Jolley.",
       "violations": [
         {
@@ -9029,7 +9029,7 @@
       "grade": "A",
       "inspector_id": "948",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9077,7 +9077,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Facility is using TNT dynamic supplements. According to the GRAS rules, the supplement must be used in the form intended. The TNT dynamic supplements are in pill form, therefore must be taken in that form. Blending the pills into smoothies is not the intended use of the pill. Facility will discontinue use of the pill form of the supplement.",
       "violations": [
         {
@@ -9134,7 +9134,7 @@
       "grade": "A",
       "inspector_id": "1774",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9245,7 +9245,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9293,7 +9293,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Establishment uses TPHC for breakfast bar items. Written TPHC procedures created during inspection.",
       "violations": [
         {
@@ -9386,7 +9386,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9470,7 +9470,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Facility has switched to frozen clams and mussels",
       "violations": [
         {
@@ -9536,7 +9536,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9602,7 +9602,7 @@
       "grade": "A",
       "inspector_id": "1774",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9722,7 +9722,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "TECH arrived by the end of the inspection. Tech was able to adjust air flow in Stand up RIC and bring ambient temperature down to 38F. All foods have been removed from the Drawer and Tech stated that new parts would need to be ordered in order to fix the drawer EHS will perform follow up visit early next week to ensure it is not being used until fixed.",
       "violations": [
         {
@@ -9779,7 +9779,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "PIC voluntarily cloaked the establishment until the WIC is at an appropriate temperature. EHS observed the respective employees discarding all necessary items that were out of compliance. Facility is allowed to open back up once WIC is functioning correctly. EHS will make a follow up visit.",
       "violations": [
         {
@@ -9890,7 +9890,7 @@
       "grade": "A",
       "inspector_id": "1931",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9947,7 +9947,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "EHS observed white fish on menu, according to PIC the white fish is escolar. EHS recommends to add escolar to menu so customers are aware of the type of fish they are ordering.",
       "violations": [
         {
@@ -10031,7 +10031,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10079,7 +10079,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "All cooked items and TCS foods at condiment bars on TPHC.",
       "violations": [
         {
@@ -10127,7 +10127,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Rainbow food coloring gras approved. (FDA)",
       "violations": [
         {
@@ -10220,7 +10220,7 @@
       "grade": "A",
       "inspector_id": "2517",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Facility has changed several menu items and processes since opening and original permit was issued. Some of these have been evaluated by EHS C. McKenzie and amendments made, however EHS observed additional changes today. Observed facility is using induction burners inside facility to cook scrambled eggs while using oil in the pan. This is producing grease laden vapors. Additionally, facility has added cooking and cooling of ground turkey, potatoes, sweet potatoes, and mushrooms to their processes. Facility is now receiving boiled eggs already cooked. Ground turkey is cooked and cooled once per 2 weeks, and frozen. Mushrooms and sweet potatoes are done no more than 2 qt at a time in the oven, and potatoes are done in the oven as well, but produce approximately 6qt at a time. Facility has a cooling procedure which involves cooking and placing product in shallow pans and cooling uncovered in space within the reach in freezer. This was NOT observed during the inspection today. However, based on volume a new permit condition will be added to state:\n\n\u201cPermit amended by EHS A. Hall on 7/30/26 to reflect facility has changed processes to include ONLY cooking and cooling the following: \n- mushrooms: roasted in the oven, cooled in shallow pan in reach in freezer to 41F (max 2 qt at one time)\n- sweet potatoes: Roasted in the oven, cooled in shallow pan in reach in freezer to 41F (max 2qt at one time)\n- potatoes: roasted in the oven, cooled in shallow pans in reach in freezer to 41F (max 6qt at one time)\n- ground turkey: cooked on approved outdoor grill, cooled in shallow pans in reach in freezer to 41F (max 5lbs at one time; done approximately every 2 weeks)\n- Facility is still cooking bacon on the grill approximately 1x per week as of today.\n\nDue to space constraints, only 1 item may be cooling at any given time. No additional cooling will be permitted without the addition of proper cooling equipment. Dedicated reach in freezer space shall be used and kept free for cooling when cooking and cooling will take place. Failure to cool as required by parameters in the Food Code, observation of cooling violations, or any deviation from the above without prior approval and evaluation by MCHD will result in permit action and the removal of cooling approval.\u201d\n\nEHS discussed with PIC options for eggs including cooking in the oven and holding hot or on TPHC for the day, receiving a pre-cooked egg product and heating to order, or cooking the eggs on the grill to order. Grill must be maintained on site to be evaluated as a part of the inspection and visits going forward as a part of the grill bill approval. Today, grill was stored at an off-site storage area and was unable to be evaluated. Failure to comply with all permit conditions will result in permit action. \n\nAdditional permit violations noted/relevant to the inspection today:\nEstablishment does not have a type l hood. Cooking that produces grease laden vapors is prohibited per building code.\nInduction burner is approved for cooking vegetable soups, boiled quinoa, and boiled eggs only. Consult Mecklenburg County Mechanical Inspector for\nmore information.\n\nEstablishment is provisionally approved to cool small batches of quinoa and boiled eggs with use of ice bath and direct ice method. Soups will be discarded at the end of each business day. Observations of cooling violations may require this approval to be rescinded by MCHD.\n\n6/27/25- Permit amended by C McKenzie to reflect approval for establishment to use grill bill N.C.G.S. 130A-248(c2). Approved menu items include bacon, eggs, pancakes, and french toast. This approval does not cover any aspects regulated by other jurisdictions. Owner is responsible for ensuring this establishment meets applicable building, fire, city water, and zoning codes.",
       "violations": [
         {
@@ -10340,7 +10340,7 @@
       "grade": "B",
       "inspector_id": "2427",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Please call the main office at 980.314.1620 for a reinspection",
       "violations": [
         {
@@ -10469,7 +10469,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Establishment recently installed high temp dish machine. Intends to continue using single service articles.",
       "violations": [
         {
@@ -10544,7 +10544,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10628,7 +10628,7 @@
       "grade": "A",
       "inspector_id": "2363",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10766,7 +10766,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Note: Consumer advisory asterisk is on menu for chicken, shrimp, pork, seabass and lobster. Items cannot be served undercooked. Remove items from consumer advisory.",
       "violations": [
         {
@@ -10832,7 +10832,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10889,7 +10889,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10964,7 +10964,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11021,7 +11021,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11069,7 +11069,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11117,7 +11117,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Inspection led by REHS Ericka Jolley",
       "violations": [
         {
@@ -11210,7 +11210,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11258,7 +11258,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Note: Removed cold smoked salmon from menu. No undercooked proteins served. Dish machine is not dispensing sanitizer. Facility moved to single service items only until fixed. VERIFICATION REQUIRED within 10 days. \n\nPasteurized eggs used only. No raw shelled. \n\nFacility hot seals bags of soups and sauces. Items are cooked, cooled, bagged and heat sealed. No vacuum is pulled on the bags. EHS saw air in bags. No items are hot bagged. \n\nAmbient air temp of the walk in cooler behind the dish pit area was 44F. Items in the walk in cooler were temping the same. Facility voluntarily discarded all TCS items that were not in temp. PIC called for maintenance. Facility has the capacity and space to function without. Facility has 3 walk in coolers and 2 walk in freezers. Items discarded: approximately 13 packs salami, 13 pks turkey, 2 boxed yogurt, 4 cases of liquid eggs, 6 cartons buttermilk, 3 cases egg yolks, 6 cases tomatoes, 1 bag cooked beets, 4 cases of raw chicken, among other items.",
       "violations": [
         {
@@ -11405,7 +11405,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11507,7 +11507,7 @@
       "grade": "A",
       "inspector_id": "3120",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11600,7 +11600,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11657,7 +11657,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11714,7 +11714,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11753,7 +11753,7 @@
       "grade": "A",
       "inspector_id": "3537",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11810,7 +11810,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "PIC states that PND verified proper functioning of hot water heater after persistent low-level alarm from C02 monitor at last inspection. No alarms during today\u2019s inspection, equipment is in good repair.",
       "violations": [
         {
@@ -11867,7 +11867,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11915,7 +11915,7 @@
       "grade": "A",
       "inspector_id": "3226",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11990,7 +11990,7 @@
       "grade": "A",
       "inspector_id": "3226",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12056,7 +12056,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12104,7 +12104,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12170,7 +12170,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12227,7 +12227,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12302,7 +12302,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12368,7 +12368,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12407,7 +12407,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12446,7 +12446,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12485,7 +12485,7 @@
       "grade": "A",
       "inspector_id": "2427",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "3 comp sink reaches 111F but it takes a while to increase in temperature. Suggest facility check hot water levels regularly.",
       "violations": [
         {
@@ -12578,7 +12578,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "- PIC stated that they have a new exclusive menu for restaurant week and items such as wild boar are included. Wild boar is received from International Gourmet Foods Inc. and is from Broadleaf Specialty & Game Meats. Box states it is US inspected and department of agriculture approved. Items such as shellstock are served on the normal menu but were not observed in the facility for this week due to not being on the restaurant week menu.",
       "violations": [
         {
@@ -12662,7 +12662,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12809,7 +12809,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "All serving line items on TPHC with exception of mini cooler items in cold holding. \nBreakfast is from 6am-9am daily.",
       "violations": [
         {
@@ -12857,7 +12857,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12914,7 +12914,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12989,7 +12989,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Approved Additives\nTPHC - Tapioca Pearls\nAll proteins are received fully cooked\n\nEHA observed rice that had been cooled down from the night before. Permit restrictions include NO COOLING of hot foods: \nThe FOOD ESTABLISHMENT is prohibited from cooling hot foods due to insufficient/improper cooling equipment. Heated foods shall be discarded at the end of each business day.",
       "violations": [
         {
@@ -13091,7 +13091,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "According to PIC the WIC has been having frequent issues with maintaining proper Cold Holding temperatures. PIC stated that yesterday they decided to fully replace the WIC and shut it down and utilize a refrigerated trailer until replacement of the WIC is complete. Once a refrigerated trailer arrived onsite yesterday they transferred all food items to refrigerated trailer. EHS arrived onsite and WIC is actively being replaced. PIC stated they estimate elderly WIC will be fully replaced by the end of today. EHS observed all cold holding temperatures onsite during time of inspection in compliance as shown on temp log.",
       "violations": [
         {
@@ -13139,7 +13139,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Facility has dry storage and additional reach in freezer located upstairs.",
       "violations": [
         {
@@ -13178,7 +13178,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13226,7 +13226,7 @@
       "grade": "A",
       "inspector_id": "2398",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13292,7 +13292,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13340,7 +13340,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13397,7 +13397,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13499,7 +13499,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13547,7 +13547,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Non-compliant items to complete by 9/28/26: \n1) Re-caulk 3-compartment sink to the wall.\n2) Re-caulk left prep sink to the wall.",
       "violations": [
         {
@@ -13622,7 +13622,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13652,7 +13652,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Inspection completed in conjunction with onsite visit for SR #226661.",
       "violations": [
         {
@@ -13736,7 +13736,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13802,7 +13802,7 @@
       "grade": "A",
       "inspector_id": "948",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13850,7 +13850,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13943,7 +13943,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13991,7 +13991,7 @@
       "grade": "A",
       "inspector_id": "2515",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14066,7 +14066,7 @@
       "grade": "A",
       "inspector_id": "3224",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14123,7 +14123,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14189,7 +14189,7 @@
       "grade": "A",
       "inspector_id": "3413",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14255,7 +14255,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14330,7 +14330,7 @@
       "grade": "A",
       "inspector_id": "3413",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14360,7 +14360,7 @@
       "grade": "A",
       "inspector_id": "3150",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14417,7 +14417,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "TPHC - Pizza and Sauces \nClams are received Frozen",
       "violations": [
         {
@@ -14501,7 +14501,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14603,7 +14603,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14732,7 +14732,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14816,7 +14816,7 @@
       "grade": "A",
       "inspector_id": "3150",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14882,7 +14882,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "No proteins served raw or undercooked. Kimchi not house made. Cooked chicken wings on prep top on TPHC.",
       "violations": [
         {
@@ -14930,7 +14930,7 @@
       "grade": "A",
       "inspector_id": "3225",
       "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -15005,7 +15005,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -32335,7 +32335,7 @@
       "grade": "B",
       "inspector_id": "3023",
       "first_seen": "2026-07-16T15:20:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "TPHC - Sushi Rice\nInland Seafood Parasite Destruction / Aquaculture Letters Present \n\nEHS observed soiled, single service, wooden sticks drying on a sheet pan. Manager stated that he washes them to take home and that they are never re-used in the restaurant. \n\nInspection completed with EHS-Intern, Jason Adamsky",
       "violations": [
         {
@@ -32518,7 +32518,7 @@
       "grade": "B",
       "inspector_id": "2883",
       "first_seen": "2026-07-16T15:20:52+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "EHS found cooked and cooled duck salad mix, potatoes, tomato sauce, asparagus puree and garlic confit. Items are not approved for cooking and cooling as agreed to on the revised menu. Facility is also getting lamb jus, veal jus and duck jus from something classic. All jus were previously removed form menu. See visit sheet 5/14/26. If facility wants to revise menu, items need to be approved by MCHD in writing. The approved menu is connected to the facility permit. Facility currently in violation of Permit. Further issues may result in an ITS. \n\nFacility menu temporarily reduced to serve the remaining in temperature/ safe food for dinner. Soup, salads, potato beignets, baked Camembert removed from dinner menu for tonight. All other items will be cooked/ prepared with remaining in temperature food items. This is a temporary fix for the evening. Option not available for long-term based on safety standards. \n\n\nNOTE: Refrigeration unit ambient air temps\n6 drawer cold unit at grill (turned off, not in use) \n2 door low reach in/ cold drawer prep top unit 48F (used for TPHC)\n2 door tall reach in 40F (tall reach in 2)\n1 door tall reach in 47F (tall RI 3)\n3 door tall reach in 48F (tall RI 3)\n6 drawer prep top unit 36F\n1 door tall reach in 41F (tall RI 4)",
       "violations": [
         {
@@ -37713,7 +37713,7 @@
       "grade": "B",
       "inspector_id": "3023",
       "first_seen": "2026-07-11T12:09:39+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "TPHC - Expo Sauces and Honey Butter \nSalmon is fully cooked \nVariance approval for Cedar Planks",
       "violations": [
         {
@@ -39391,7 +39391,7 @@
       "grade": "B",
       "inspector_id": "3225",
       "first_seen": "2026-07-02T16:19:33+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "To request a reinspection please call the main office at 980-314-1620. If there are any questions before please call EHS Jordan Johnson at 704-280-0454.",
       "violations": [
         {
@@ -41130,7 +41130,7 @@
       "grade": "B",
       "inspector_id": "2398",
       "first_seen": "2026-07-01T17:24:32+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -41268,7 +41268,7 @@
       "grade": "B",
       "inspector_id": "2883",
       "first_seen": "2026-06-30T17:12:22+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "Facility has the opportunity to request for re-inspection. Please contact the front office number at 980.314.1620 to request re-inspection.\n\nEHS provided new TPHC forms, updated employee health policy and food safety checklist in both English and Spanish.",
       "violations": [
         {
@@ -47213,7 +47213,7 @@
       "grade": "B",
       "inspector_id": "3539",
       "first_seen": "2026-06-27T15:03:06+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "-Shellstock tags retained onsite. Oysters are held in frozen storage once received, not offered raw or undercooked.\n-No seafood offered raw or undercooked. No parasite destruction letters required. \n-Batter station beside cook line on TPHC.",
       "violations": [
         {
@@ -56046,7 +56046,7 @@
       "grade": "B",
       "inspector_id": "2544",
       "first_seen": "2026-06-23T17:22:23+00:00",
-      "last_seen": "2026-08-01T10:52:21+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
       "general_comments": "",
       "violations": [
         {
