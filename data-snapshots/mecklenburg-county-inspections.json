@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-08-02T10:53:24+00:00",
+  "capturedAt": "2026-08-03T12:38:04+00:00",
   "source": "Mecklenburg County Public Health Inspections",
   "sourceUrl": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
   "lookbackDays": 45,
@@ -2052,7 +2052,7 @@
       "grade": "B",
       "inspector_id": "3440",
       "first_seen": "2026-07-09T17:27:40+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "- Facility has changed management since the previous inspection with the PIC stating that it is still under the same LLC, just new managers and staff. Current LLC is still active as of the inspection today. New PIC stated that they are in the process of changing the menu and that despite currently using the old menu they are no longer offering anything cooked to order. Previous management was offering burgers and salmon items cooked to order but current PIC was adamant that they would not offer anything cooked below medium with everything being default to well done. EHS advised staff that the new menus must remove the consumer advisory and asterisks on the burger and salmon items if they would not offer items undercooked.\n\n- For a reinspection, please contact the main office at 980-314-1620.",
       "violations": [
         {
@@ -5763,7 +5763,7 @@
       "grade": "B",
       "inspector_id": "2398",
       "first_seen": "2026-07-06T17:59:16+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -7957,8 +7957,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl12",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl12$ViolationDetails",
+      "row_control": "ctl13",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl13$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "WINGSTOP #692",
       "address": "3202 WILKINSON BV SUITE C1\n \nCHARLOTTE, NC 28208",
@@ -7968,7 +7968,7 @@
       "grade": "A",
       "inspector_id": "3537",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -7987,8 +7987,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl11",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl11$ViolationDetails",
+      "row_control": "ctl12",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl12$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "SUBWAY #40889",
       "address": "3850 E INDEPENDENCE BV \n \nCHARLOTTE, NC 28212",
@@ -7998,7 +7998,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Inspection led by REHS Ericka Jolley",
       "violations": [
         {
@@ -8089,8 +8089,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl10",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl10$ViolationDetails",
+      "row_control": "ctl11",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl11$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "STARBUCKS #8211",
       "address": "1961 E SEVENTH ST \n \nCHARLOTTE, NC 28204",
@@ -8100,7 +8100,7 @@
       "grade": "A",
       "inspector_id": "3225",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8128,8 +8128,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl09",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl09$ViolationDetails",
+      "row_control": "ctl10",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl10$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "ROOM SERVICE",
       "address": "701 KESWICK AV STE 105\n \nCHARLOTTE, NC 28306",
@@ -8139,7 +8139,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "EHS provided extra handwashing signs for bar area sink(s).",
       "violations": [
         {
@@ -8185,8 +8185,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl08",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl08$ViolationDetails",
+      "row_control": "ctl09",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl09$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "RISE CAFE",
       "address": "9525 BIRKDALE CROSSING DR SUITE 101\n \nHUNTERSVILLE, NC 28078",
@@ -8196,7 +8196,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "During visit EHS discussed effective cooling methods of TCS foods cooled from ambient temps due to elevated temperatures during active operating hours. The discussion included implementing ice bags for TCS foods found out of temp, increased monitoring of foods held in flip top, maintaining flip top lid closed, and removing foods to less active units after being held out of temp for extended periods of time. \nEstablishment is prohibited from cooking and cooling TCS foods. Violations cited for cooling over time may result in higher point deductions and permit action.",
       "violations": [
         {
@@ -8269,8 +8269,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl07",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl07$ViolationDetails",
+      "row_control": "ctl08",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl08$ViolationDetails",
       "inspection_date": "7/31/2026",
       "facility_name": "MOREHEAD INN",
       "address": "1122 E MOREHEAD ST \n \nCHARLOTTE, NC 28204",
@@ -8280,7 +8280,7 @@
       "grade": "A",
       "inspector_id": "2882",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8308,6 +8308,63 @@
     },
     {
       "search_label": "recent_restaurants",
+      "row_control": "ctl07",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl07$ViolationDetails",
+      "inspection_date": "7/31/2026",
+      "facility_name": "LA SHISH KABAB",
+      "address": "3117 N SHARON AMITY RD \n \nCHARLOTTE, NC 28205",
+      "state_id": "2060017009",
+      "establishment_type": "1 - Restaurant",
+      "final_score": "99.50",
+      "grade": "A",
+      "inspector_id": "2882",
+      "first_seen": "2026-08-03T12:38:04+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
+      "general_comments": "",
+      "violations": [
+        {
+          "item": "10",
+          "demerits": "0",
+          "description": "Handwashing sinks supplied & accessible",
+          "corrected_during_inspection": "Yes",
+          "repeat": "No",
+          "verification_required": "No",
+          "comments": "5-205.11 (B) A handwashing sink may not be used for purposes other than handwashing Pf. OBSERVED sauce dumped in hand sink. CDI. PIC cleaned."
+        },
+        {
+          "item": "15",
+          "demerits": "0",
+          "description": "Food separated & protected",
+          "corrected_during_inspection": "Yes",
+          "repeat": "No",
+          "verification_required": "No",
+          "comments": "3-302.11(A)(1) Separate raw animal foods from ready-to-eat foods and washed/unwashed fruits and vegetables. -P. Observed raw burger, raw chicken, commingled with ready to eat food in the freezer. CDI. PIC rearranged. \n\n\n\nFor more information on food storage order please visit: https://health.mecknc.gov/envhealth/food-and-facilities-sanitation"
+        },
+        {
+          "item": "33",
+          "demerits": "0.50",
+          "description": "Proper cooling methods used; adequate equipment for temperature control",
+          "corrected_during_inspection": "Yes",
+          "repeat": "No",
+          "verification_required": "No",
+          "comments": "3-501.15 Quickly cool foods. Use methods such as open/vented shallow pans, large ice baths and active stirring. Cold air must flow around product to remove the heat. -Pf. Observed salad. Cooling in the display case. CDI. PIC removed to the cooler. \n\n\n\nFor more information, please visit: https://health.mecknc.gov/envhealth/food-and-facilities-sanitation or view our training videos at the following weblinks: What are TCS Foods https://youtu.be/bRvqAETDjQU and Cooling Food Safely https://youtu.be/P6x8b1ZVOxU ."
+        },
+        {
+          "item": "40",
+          "demerits": "0",
+          "description": "Personal cleanliness",
+          "corrected_during_inspection": "No",
+          "repeat": "No",
+          "verification_required": "No",
+          "comments": "2-303.11 Remove jewelry on hands and arms while preparing food. A plain ring, such as a wedding band, is allowed. Observed employee working with food while wearing jewelry."
+        }
+      ],
+      "violation_text": "10 - Handwashing sinks supplied & accessible: 5-205.11 (B) A handwashing sink may not be used for purposes other than handwashing Pf. OBSERVED sauce dumped in hand sink. CDI. PIC cleaned.\n\n15 - Food separated & protected: 3-302.11(A)(1) Separate raw animal foods from ready-to-eat foods and washed/unwashed fruits and vegetables. -P. Observed raw burger, raw chicken, commingled with ready to eat food in the freezer. CDI. PIC rearranged. \n\n\n\nFor more information on food storage order please visit: https://health.mecknc.gov/envhealth/food-and-facilities-sanitation\n\n33 - Proper cooling methods used; adequate equipment for temperature control: 3-501.15 Quickly cool foods. Use methods such as open/vented shallow pans, large ice baths and active stirring. Cold air must flow around product to remove the heat. -Pf. Observed salad. Cooling in the display case. CDI. PIC removed to the cooler. \n\n\n\nFor more information, please visit: https://health.mecknc.gov/envhealth/food-and-facilities-sanitation or view our training videos at the following weblinks: What are TCS Foods https://youtu.be/bRvqAETDjQU and Cooling Food Safely https://youtu.be/P6x8b1ZVOxU .\n\n40 - Personal cleanliness: 2-303.11 Remove jewelry on hands and arms while preparing food. A plain ring, such as a wedding band, is allowed. Observed employee working with food while wearing jewelry.",
+      "result": "Score 99.50 / Grade A",
+      "official_url": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60"
+    },
+    {
+      "search_label": "recent_restaurants",
       "row_control": "ctl06",
       "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl06$ViolationDetails",
       "inspection_date": "7/31/2026",
@@ -8319,7 +8376,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "EHSI Jason Adamsky present during inspection.",
       "violations": [
         {
@@ -8403,7 +8460,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [],
       "violation_text": "",
@@ -8423,7 +8480,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8489,7 +8546,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Parasite Destruction / Aquaculture Letters present \nTPHC - Sushi Rice",
       "violations": [
         {
@@ -8564,7 +8621,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8666,7 +8723,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8723,7 +8780,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-08-01T10:52:21+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "NOTE: Facility had previous issues with grease trap/ sewage backup. Facility closed due to back up issue. Issue currently resolved. Anytime there is sewage backup and the potential for contamination facility shall close. Issue is deemed as an imminent health hazard.",
       "violations": [
         {
@@ -8787,8 +8844,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl44",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl44$ViolationDetails",
+      "row_control": "ctl45",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl45$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "ZAMINDAR'S CLUB HOUSE",
       "address": "155 NEW BERN ST \n \nCHARLOTTE, NC 28209",
@@ -8798,7 +8855,7 @@
       "grade": "A",
       "inspector_id": "2363",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -8889,8 +8946,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl43",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl43$ViolationDetails",
+      "row_control": "ctl44",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl44$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "WHICH WICH",
       "address": "16620 CRANLYN RD \n \nHUNTERSVILLE, NC 28078",
@@ -8900,7 +8957,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Per discussion with PIC, it was made known that caramelized onions may be cooked at home and brought to facility at times. Cooking food or obtaining food from an unapproved source per 3-201.11 is unacceptable. Refrain from cooking items outside facility going forward.\n\nThe use of commercial cooking equipment that produces grease-laden vapors without an exhaust hood and automatic fire suppression system is strictly prohibited under NC fire and mechanical codes. Facility must cease use of electric fryers until speaking with plan review.\n\nInspection led by REHS Ericka Jolley.",
       "violations": [
         {
@@ -9018,8 +9075,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl42",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl42$ViolationDetails",
+      "row_control": "ctl43",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl43$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "WALDHORN RESTAURANT",
       "address": "12101 LANCASTER HY \n \nPINEVILLE, NC 28134",
@@ -9029,7 +9086,7 @@
       "grade": "A",
       "inspector_id": "948",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9066,8 +9123,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl41",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl41$ViolationDetails",
+      "row_control": "ctl42",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl42$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "TROPICAL SMOOTHIE CAFE #NC-101",
       "address": "20130 WEST CATAWBA AV \n \nCORNELIUS, NC 28031",
@@ -9077,7 +9134,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Facility is using TNT dynamic supplements. According to the GRAS rules, the supplement must be used in the form intended. The TNT dynamic supplements are in pill form, therefore must be taken in that form. Blending the pills into smoothies is not the intended use of the pill. Facility will discontinue use of the pill form of the supplement.",
       "violations": [
         {
@@ -9123,8 +9180,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl40",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl40$ViolationDetails",
+      "row_control": "ctl41",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl41$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "TAP & VINE QUAIL HOLLOW",
       "address": "8410 PARK RD \n \nCHARLOTTE, NC 28210",
@@ -9134,7 +9191,7 @@
       "grade": "A",
       "inspector_id": "1774",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9234,8 +9291,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl39",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl39$ViolationDetails",
+      "row_control": "ctl40",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl40$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "STARBUCKS #47070",
       "address": "14523 CAROWINDS BV \n \nCHARLOTTE, NC 28273",
@@ -9245,7 +9302,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9282,8 +9339,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl38",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl38$ViolationDetails",
+      "row_control": "ctl39",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl39$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "SPRINGHILL SUITES",
       "address": "13610 REESE BV W \n \nHUNTERSVILLE, NC 28078",
@@ -9293,7 +9350,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Establishment uses TPHC for breakfast bar items. Written TPHC procedures created during inspection.",
       "violations": [
         {
@@ -9375,8 +9432,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl37",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl37$ViolationDetails",
+      "row_control": "ctl38",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl38$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "SANTA FE MEXICAN RESTAURANT",
       "address": "5111 CENTRAL AV \n \nCHARLOTTE, NC 28205",
@@ -9386,7 +9443,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9459,8 +9516,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl36",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl36$ViolationDetails",
+      "row_control": "ctl37",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl37$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "PORTOFINOS EXPRESS",
       "address": "101 N TRYON ST STE 102\n \nCHARLOTTE, NC 28202",
@@ -9470,7 +9527,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Facility has switched to frozen clams and mussels",
       "violations": [
         {
@@ -9525,8 +9582,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl35",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl35$ViolationDetails",
+      "row_control": "ctl36",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl36$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "POPEYES #13799",
       "address": "9523 FOREST DR \n \nCHARLOTTE, NC 28216",
@@ -9536,7 +9593,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9591,8 +9648,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl34",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl34$ViolationDetails",
+      "row_control": "ctl35",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl35$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "PARK LANDING KITCHEN + BAR",
       "address": "2200 REXFORD RD \n \nCHARLOTTE, NC 28211",
@@ -9602,7 +9659,7 @@
       "grade": "A",
       "inspector_id": "1774",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9711,8 +9768,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl33",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl33$ViolationDetails",
+      "row_control": "ctl34",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl34$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "MCDONALDS # 11174",
       "address": "9150 LAWYERS RD \n \nCHARLOTTE, NC 28227",
@@ -9722,7 +9779,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "TECH arrived by the end of the inspection. Tech was able to adjust air flow in Stand up RIC and bring ambient temperature down to 38F. All foods have been removed from the Drawer and Tech stated that new parts would need to be ordered in order to fix the drawer EHS will perform follow up visit early next week to ensure it is not being used until fixed.",
       "violations": [
         {
@@ -9768,8 +9825,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl32",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl32$ViolationDetails",
+      "row_control": "ctl33",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl33$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "MAGOS TAQUERIA AND BAR",
       "address": "7520 S TRYON ST STE 19\n \nCHARLOTTE, NC 28217",
@@ -9779,7 +9836,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "PIC voluntarily cloaked the establishment until the WIC is at an appropriate temperature. EHS observed the respective employees discarding all necessary items that were out of compliance. Facility is allowed to open back up once WIC is functioning correctly. EHS will make a follow up visit.",
       "violations": [
         {
@@ -9879,8 +9936,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl31",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl31$ViolationDetails",
+      "row_control": "ctl32",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl32$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "LA CARIDAD RESTAURANT",
       "address": "6404 ALBEMARLE RD STE A\n \nCHARLOTTE, NC 28212",
@@ -9890,7 +9947,7 @@
       "grade": "A",
       "inspector_id": "1931",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -9936,8 +9993,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl30",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl30$ViolationDetails",
+      "row_control": "ctl31",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl31$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "KUYA OMAKASE 2.0",
       "address": "101 N TRYON ST STE 105-S\n \nCHARLOTTE, NC 28202",
@@ -9947,7 +10004,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "EHS observed white fish on menu, according to PIC the white fish is escolar. EHS recommends to add escolar to menu so customers are aware of the type of fish they are ordering.",
       "violations": [
         {
@@ -10020,8 +10077,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl29",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl29$ViolationDetails",
+      "row_control": "ctl30",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl30$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "KOSTAS KITCHEN EMERYWOOD",
       "address": "1317 EMERYWOOD DR \n \nCHARLOTTE, NC 28210",
@@ -10031,7 +10088,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10068,8 +10125,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl28",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl28$ViolationDetails",
+      "row_control": "ctl29",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl29$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "JUKE BOX DINER",
       "address": "14523 CAROWINDS BV \n \nCHARLOTTE, NC 28273",
@@ -10079,7 +10136,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "All cooked items and TCS foods at condiment bars on TPHC.",
       "violations": [
         {
@@ -10116,8 +10173,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl27",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl27$ViolationDetails",
+      "row_control": "ctl28",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl28$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "HOLY JOES MEATS & MORE/NAWABS KEBABS",
       "address": "10210 BERKELEY PLACE DR SUITE 100-130\n \nCHARLOTTE, NC 28262",
@@ -10127,7 +10184,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Rainbow food coloring gras approved. (FDA)",
       "violations": [
         {
@@ -10209,8 +10266,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl26",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl26$ViolationDetails",
+      "row_control": "ctl27",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl27$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "HARVEST ARTISAN CAFE",
       "address": "14212 STATESVILLE RD STE B5\n \nHUNTERSVILLE, NC 28078",
@@ -10220,7 +10277,7 @@
       "grade": "A",
       "inspector_id": "2517",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Facility has changed several menu items and processes since opening and original permit was issued. Some of these have been evaluated by EHS C. McKenzie and amendments made, however EHS observed additional changes today. Observed facility is using induction burners inside facility to cook scrambled eggs while using oil in the pan. This is producing grease laden vapors. Additionally, facility has added cooking and cooling of ground turkey, potatoes, sweet potatoes, and mushrooms to their processes. Facility is now receiving boiled eggs already cooked. Ground turkey is cooked and cooled once per 2 weeks, and frozen. Mushrooms and sweet potatoes are done no more than 2 qt at a time in the oven, and potatoes are done in the oven as well, but produce approximately 6qt at a time. Facility has a cooling procedure which involves cooking and placing product in shallow pans and cooling uncovered in space within the reach in freezer. This was NOT observed during the inspection today. However, based on volume a new permit condition will be added to state:\n\n\u201cPermit amended by EHS A. Hall on 7/30/26 to reflect facility has changed processes to include ONLY cooking and cooling the following: \n- mushrooms: roasted in the oven, cooled in shallow pan in reach in freezer to 41F (max 2 qt at one time)\n- sweet potatoes: Roasted in the oven, cooled in shallow pan in reach in freezer to 41F (max 2qt at one time)\n- potatoes: roasted in the oven, cooled in shallow pans in reach in freezer to 41F (max 6qt at one time)\n- ground turkey: cooked on approved outdoor grill, cooled in shallow pans in reach in freezer to 41F (max 5lbs at one time; done approximately every 2 weeks)\n- Facility is still cooking bacon on the grill approximately 1x per week as of today.\n\nDue to space constraints, only 1 item may be cooling at any given time. No additional cooling will be permitted without the addition of proper cooling equipment. Dedicated reach in freezer space shall be used and kept free for cooling when cooking and cooling will take place. Failure to cool as required by parameters in the Food Code, observation of cooling violations, or any deviation from the above without prior approval and evaluation by MCHD will result in permit action and the removal of cooling approval.\u201d\n\nEHS discussed with PIC options for eggs including cooking in the oven and holding hot or on TPHC for the day, receiving a pre-cooked egg product and heating to order, or cooking the eggs on the grill to order. Grill must be maintained on site to be evaluated as a part of the inspection and visits going forward as a part of the grill bill approval. Today, grill was stored at an off-site storage area and was unable to be evaluated. Failure to comply with all permit conditions will result in permit action. \n\nAdditional permit violations noted/relevant to the inspection today:\nEstablishment does not have a type l hood. Cooking that produces grease laden vapors is prohibited per building code.\nInduction burner is approved for cooking vegetable soups, boiled quinoa, and boiled eggs only. Consult Mecklenburg County Mechanical Inspector for\nmore information.\n\nEstablishment is provisionally approved to cool small batches of quinoa and boiled eggs with use of ice bath and direct ice method. Soups will be discarded at the end of each business day. Observations of cooling violations may require this approval to be rescinded by MCHD.\n\n6/27/25- Permit amended by C McKenzie to reflect approval for establishment to use grill bill N.C.G.S. 130A-248(c2). Approved menu items include bacon, eggs, pancakes, and french toast. This approval does not cover any aspects regulated by other jurisdictions. Owner is responsible for ensuring this establishment meets applicable building, fire, city water, and zoning codes.",
       "violations": [
         {
@@ -10340,7 +10397,7 @@
       "grade": "B",
       "inspector_id": "2427",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Please call the main office at 980.314.1620 for a reinspection",
       "violations": [
         {
@@ -10458,8 +10515,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl24",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl24$ViolationDetails",
+      "row_control": "ctl25",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl25$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "GRAVITY PIZZA",
       "address": "1824 STATESVILLE AV STE 101\n \nCHARLOTTE, NC 28206",
@@ -10469,7 +10526,7 @@
       "grade": "A",
       "inspector_id": "3441",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Establishment recently installed high temp dish machine. Intends to continue using single service articles.",
       "violations": [
         {
@@ -10533,8 +10590,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl23",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl23$ViolationDetails",
+      "row_control": "ctl24",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl24$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "GOLDEN COAST II, THE",
       "address": "3020 PROSPERITY CHURCH RD SUITE J\n \nCHARLOTTE, NC 28269",
@@ -10544,7 +10601,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10617,8 +10674,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl22",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl22$ViolationDetails",
+      "row_control": "ctl23",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl23$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "FLORA",
       "address": "2120 SOUTH BV STE 1\n \nCHARLOTTE, NC 28203",
@@ -10628,7 +10685,7 @@
       "grade": "A",
       "inspector_id": "2363",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10755,8 +10812,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl21",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl21$ViolationDetails",
+      "row_control": "ctl22",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl22$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "FLEMING`S PRIME STEAKHOUSE",
       "address": "210 E TRADE ST \n \nCHARLOTTE, NC 28202",
@@ -10766,7 +10823,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Note: Consumer advisory asterisk is on menu for chicken, shrimp, pork, seabass and lobster. Items cannot be served undercooked. Remove items from consumer advisory.",
       "violations": [
         {
@@ -10821,8 +10878,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl20",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl20$ViolationDetails",
+      "row_control": "ctl21",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl21$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "DUNKIN DONUTS #350894",
       "address": "8500 UNIVERSITY CITY BV \n \nCHARLOTTE, NC 28213",
@@ -10832,7 +10889,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10878,8 +10935,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl19",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl19$ViolationDetails",
+      "row_control": "ctl20",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl20$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "DRURY INN AND SUITES",
       "address": "6920 NORTHLAKE MALL DR \n \nCHARLOTTE, NC 28216",
@@ -10889,7 +10946,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -10953,8 +11010,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl18",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl18$ViolationDetails",
+      "row_control": "ctl19",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl19$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "COTTAGE EXPRESS",
       "address": "7209 E W T HARRIS BV \n \nCHARLOTTE, NC 28227",
@@ -10964,7 +11021,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11010,8 +11067,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl17",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl17$ViolationDetails",
+      "row_control": "ctl18",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl18$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "COASTERS",
       "address": "14523 CAROWINDS BV \n \nCHARLOTTE, NC 28273",
@@ -11021,7 +11078,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11058,8 +11115,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl16",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl16$ViolationDetails",
+      "row_control": "ctl17",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl17$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "CHICKIE'S & PETE'S- CAROWINDS",
       "address": "14523 CAROWINDS BV \n \nCHARLOTTE, NC 28273",
@@ -11069,7 +11126,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11106,8 +11163,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl15",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl15$ViolationDetails",
+      "row_control": "ctl16",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl16$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "CHEESECAKE FACTORY BIRKDALE, THE",
       "address": "8701 TOWNLEY RD \n \nHUNTERSVILLE, NC 28078",
@@ -11117,7 +11174,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Inspection led by REHS Ericka Jolley",
       "violations": [
         {
@@ -11199,8 +11256,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl14",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl14$ViolationDetails",
+      "row_control": "ctl15",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl15$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "CAFE SOUTH FAMILY RESTAURANT",
       "address": "7910 FOREST PINE DR \n \nCHARLOTTE, NC 28273",
@@ -11210,7 +11267,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11247,8 +11304,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl13",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl13$ViolationDetails",
+      "row_control": "ctl14",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl14$ViolationDetails",
       "inspection_date": "7/30/2026",
       "facility_name": "AMELIE'S FRENCH BAKERY AND CAFE",
       "address": "301 S COLLEGE ST SUITE CSL5\n \nCHARLOTTE, NC 28202",
@@ -11258,7 +11315,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Note: Removed cold smoked salmon from menu. No undercooked proteins served. Dish machine is not dispensing sanitizer. Facility moved to single service items only until fixed. VERIFICATION REQUIRED within 10 days. \n\nPasteurized eggs used only. No raw shelled. \n\nFacility hot seals bags of soups and sauces. Items are cooked, cooled, bagged and heat sealed. No vacuum is pulled on the bags. EHS saw air in bags. No items are hot bagged. \n\nAmbient air temp of the walk in cooler behind the dish pit area was 44F. Items in the walk in cooler were temping the same. Facility voluntarily discarded all TCS items that were not in temp. PIC called for maintenance. Facility has the capacity and space to function without. Facility has 3 walk in coolers and 2 walk in freezers. Items discarded: approximately 13 packs salami, 13 pks turkey, 2 boxed yogurt, 4 cases of liquid eggs, 6 cartons buttermilk, 3 cases egg yolks, 6 cases tomatoes, 1 bag cooked beets, 4 cases of raw chicken, among other items.",
       "violations": [
         {
@@ -11394,8 +11451,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl71",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl71$ViolationDetails",
+      "row_control": "ctl72",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl72$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "WANG & KING ASIAN CAFE",
       "address": "10720 S TRYON ST STE A\n \nCHARLOTTE, NC 28273",
@@ -11405,7 +11462,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11496,8 +11553,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl70",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl70$ViolationDetails",
+      "row_control": "ctl71",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl71$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "THE WATERMAN FISH BAR",
       "address": "2729 SOUTH BV UNIT D\n \nCHARLOTTE, NC 28209",
@@ -11507,7 +11564,7 @@
       "grade": "A",
       "inspector_id": "3120",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11589,8 +11646,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl69",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl69$ViolationDetails",
+      "row_control": "ctl70",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl70$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "THAI EMERALD OF HUNTERSVILLE RESTAURANT",
       "address": "10110 NORTHCROSS CENTER CT \n \nHUNTERSVILLE, NC 28078",
@@ -11600,7 +11657,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11646,8 +11703,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl68",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl68$ViolationDetails",
+      "row_control": "ctl69",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl69$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "TERIYAKI EXPRESS",
       "address": "7008 E W T HARRIS BV \n \nCHARLOTTE, NC 28215",
@@ -11657,7 +11714,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11703,8 +11760,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl67",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl67$ViolationDetails",
+      "row_control": "ctl68",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl68$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "TACO BELL #37814",
       "address": "4601 N TRYON ST \n \nCHARLOTTE, NC 28213",
@@ -11714,7 +11771,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11742,8 +11799,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl66",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl66$ViolationDetails",
+      "row_control": "ctl67",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl67$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "SUBWAY # 1607",
       "address": "2504 LITTLE ROCK RD \n \nCHARLOTTE, NC 28214",
@@ -11753,7 +11810,7 @@
       "grade": "A",
       "inspector_id": "3537",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11799,8 +11856,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl65",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl65$ViolationDetails",
+      "row_control": "ctl66",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl66$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "SRI BALAJI CAFFE",
       "address": "716 MAIN ST \n \nPINEVILLE, NC 28134",
@@ -11810,7 +11867,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "PIC states that PND verified proper functioning of hot water heater after persistent low-level alarm from C02 monitor at last inspection. No alarms during today\u2019s inspection, equipment is in good repair.",
       "violations": [
         {
@@ -11856,8 +11913,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl64",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl64$ViolationDetails",
+      "row_control": "ctl65",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl65$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "SMOOTHIE KING #1614",
       "address": "5220 NEW FASHION WY STE 200\n \nCHARLOTTE, NC 28278",
@@ -11867,7 +11924,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11904,8 +11961,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl63",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl63$ViolationDetails",
+      "row_control": "ctl64",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl64$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "SABOR LATIN STREET GRILL",
       "address": "3205 N. DAVIDSON ST. UNIT 105 \n \nCHARLOTTE, NC 28205",
@@ -11915,7 +11972,7 @@
       "grade": "A",
       "inspector_id": "3226",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -11979,8 +12036,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl62",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl62$ViolationDetails",
+      "row_control": "ctl63",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl63$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "RHINO MARKET AND DELI",
       "address": "1500 W MOREHEAD ST SUITE E\n \nCHARLOTTE, NC 28208",
@@ -11990,7 +12047,7 @@
       "grade": "A",
       "inspector_id": "3226",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12045,8 +12102,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl61",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl61$ViolationDetails",
+      "row_control": "ctl62",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl62$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "QUEEN SHEBA BAR AND RESTAURANT",
       "address": "4808 CENTRAL AV SUITE C\n \nCHARLOTTE, NC 28205",
@@ -12056,7 +12113,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-31T11:36:15+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12093,8 +12150,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl60",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl60$ViolationDetails",
+      "row_control": "ctl61",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl61$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "PIZZERIA SAPIENZA CLT",
       "address": "620 N CHURCH ST SUITE 119\n \nCHARLOTTE, NC 28202",
@@ -12104,7 +12161,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12159,8 +12216,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl59",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl59$ViolationDetails",
+      "row_control": "ctl60",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl60$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "MOUNTAIN ISLAND BP",
       "address": "2211 VINNIE'S WY \n \nCHARLOTTE, NC 28216",
@@ -12170,7 +12227,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12216,8 +12273,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl58",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl58$ViolationDetails",
+      "row_control": "ctl59",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl59$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "LOTUS CHINESE CUISINE",
       "address": "3716 W W T HARRIS BV STE E\n \nCHARLOTTE, NC 28269",
@@ -12227,7 +12284,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12291,8 +12348,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl57",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl57$ViolationDetails",
+      "row_control": "ctl58",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl58$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "LONDON D'S",
       "address": "832 E 4TH ST STE 1352\n \nCHARLOTTE, NC 28202",
@@ -12302,7 +12359,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12357,8 +12414,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl56",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl56$ViolationDetails",
+      "row_control": "ctl57",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl57$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "KRISTOPHER'S SPORTS BAR AND GRILLE",
       "address": "250 N TRADE ST \n \nMATTHEWS, NC 28105",
@@ -12368,7 +12425,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12396,8 +12453,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl55",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl55$ViolationDetails",
+      "row_control": "ctl56",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl56$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "ILIOS CAFE AT CPI",
       "address": "4300 SANDY PORTER RD \n \nCHARLOTTE, NC 28273",
@@ -12407,7 +12464,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12435,8 +12492,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl54",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl54$ViolationDetails",
+      "row_control": "ctl55",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl55$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "HOLIDAY INN EXPRESS & SUITES",
       "address": "805 W ARROWOOD RD \n \nCHARLOTTE, NC 28217",
@@ -12446,7 +12503,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12474,8 +12531,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl53",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl53$ViolationDetails",
+      "row_control": "ctl54",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl54$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "GRACE OMALLEYS IRISH PUBLIC HOUSE",
       "address": "157 N TRADE ST \n \nMATTHEWS, NC 28105",
@@ -12485,7 +12542,7 @@
       "grade": "A",
       "inspector_id": "2427",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "3 comp sink reaches 111F but it takes a while to increase in temperature. Suggest facility check hot water levels regularly.",
       "violations": [
         {
@@ -12567,8 +12624,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl52",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl52$ViolationDetails",
+      "row_control": "ctl53",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl53$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "DOLCE OSTERIA",
       "address": "1710 KENILWORTH AV STE 210\n \nCHARLOTTE, NC 28203",
@@ -12578,7 +12635,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "- PIC stated that they have a new exclusive menu for restaurant week and items such as wild boar are included. Wild boar is received from International Gourmet Foods Inc. and is from Broadleaf Specialty & Game Meats. Box states it is US inspected and department of agriculture approved. Items such as shellstock are served on the normal menu but were not observed in the facility for this week due to not being on the restaurant week menu.",
       "violations": [
         {
@@ -12651,8 +12708,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl51",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl51$ViolationDetails",
+      "row_control": "ctl52",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl52$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "COWBELL",
       "address": "201 N TRYON ST \n \nCHARLOTTE, NC 28202",
@@ -12662,7 +12719,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12798,8 +12855,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl50",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl50$ViolationDetails",
+      "row_control": "ctl51",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl51$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "COMFORT SUITES PINEVILLE",
       "address": "10415 CENTRUM PY \n \nPINEVILLE, NC 28134",
@@ -12809,7 +12866,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "All serving line items on TPHC with exception of mini cooler items in cold holding. \nBreakfast is from 6am-9am daily.",
       "violations": [
         {
@@ -12846,8 +12903,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl49",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl49$ViolationDetails",
+      "row_control": "ctl50",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl50$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "CHIPOTLE MEXICAN GRILL #5421",
       "address": "3005 STELFOX ST STE 101\n \nCHARLOTTE, NC 28262",
@@ -12857,7 +12914,7 @@
       "grade": "A",
       "inspector_id": "3528",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12903,8 +12960,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl48",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl48$ViolationDetails",
+      "row_control": "ctl49",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl49$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "CHEX GRILL & WINGS",
       "address": "6200 ALBEMARLE RD \n \nCHARLOTTE, NC 28212",
@@ -12914,7 +12971,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -12978,8 +13035,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl47",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl47$ViolationDetails",
+      "row_control": "ctl48",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl48$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "B&K TEA CAFE",
       "address": "21714 CATAWBA AV UNIT A4\n \nCORNELIUS, NC 28031",
@@ -12989,7 +13046,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Approved Additives\nTPHC - Tapioca Pearls\nAll proteins are received fully cooked\n\nEHA observed rice that had been cooled down from the night before. Permit restrictions include NO COOLING of hot foods: \nThe FOOD ESTABLISHMENT is prohibited from cooling hot foods due to insufficient/improper cooling equipment. Heated foods shall be discarded at the end of each business day.",
       "violations": [
         {
@@ -13080,8 +13137,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl46",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl46$ViolationDetails",
+      "row_control": "ctl47",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl47$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "ARBYS 437",
       "address": "4724 SOUTH BV \n \nCHARLOTTE, NC 28217",
@@ -13091,7 +13148,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "According to PIC the WIC has been having frequent issues with maintaining proper Cold Holding temperatures. PIC stated that yesterday they decided to fully replace the WIC and shut it down and utilize a refrigerated trailer until replacement of the WIC is complete. Once a refrigerated trailer arrived onsite yesterday they transferred all food items to refrigerated trailer. EHS arrived onsite and WIC is actively being replaced. PIC stated they estimate elderly WIC will be fully replaced by the end of today. EHS observed all cold holding temperatures onsite during time of inspection in compliance as shown on temp log.",
       "violations": [
         {
@@ -13128,8 +13185,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl45",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl45$ViolationDetails",
+      "row_control": "ctl46",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl46$ViolationDetails",
       "inspection_date": "7/29/2026",
       "facility_name": "ALEXANDER MICHAELS",
       "address": "401 W NINTH ST \n \nCHARLOTTE, NC 28202",
@@ -13139,7 +13196,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Facility has dry storage and additional reach in freezer located upstairs.",
       "violations": [
         {
@@ -13167,8 +13224,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl96",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl96$ViolationDetails",
+      "row_control": "ctl97",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl97$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "ZAXBYS #001D4",
       "address": "6911 BRIGHTON PARK DR \n \nMINT HILL, NC 28227",
@@ -13178,7 +13235,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13215,8 +13272,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl95",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl95$ViolationDetails",
+      "row_control": "ctl96",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl96$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "THREE AMIGOS RESTAURANT",
       "address": "2917 CENTRAL AV SUITE A\n \nCHARLOTTE, NC 28205",
@@ -13226,7 +13283,7 @@
       "grade": "A",
       "inspector_id": "2398",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13281,8 +13338,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl94",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl94$ViolationDetails",
+      "row_control": "ctl95",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl95$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "TABLA INDIAN RESTAURANT",
       "address": "15025 LANCASTER HY # D8\n \nCHARLOTTE, NC 28277",
@@ -13292,7 +13349,7 @@
       "grade": "A",
       "inspector_id": "3539",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13329,8 +13386,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl93",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl93$ViolationDetails",
+      "row_control": "ctl94",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl94$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "SUNRISE RESTAURANT",
       "address": "8923 ALBEMARLE RD \n \nCHARLOTTE, NC 28227",
@@ -13340,7 +13397,7 @@
       "grade": "A",
       "inspector_id": "3210",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13386,8 +13443,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl92",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl92$ViolationDetails",
+      "row_control": "ctl93",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl93$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "SPRINGHILL SUITES UPTOWN CHARLOTTE",
       "address": "311 E 5TH ST \n \nCHARLOTTE, NC 28202",
@@ -13397,7 +13454,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13488,8 +13545,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl91",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl91$ViolationDetails",
+      "row_control": "ctl92",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl92$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "SKYBROOK GOLF CLUBHOUSE",
       "address": "14720 NORTHGREEN DR \n \nHUNTERSVILLE, NC 28078",
@@ -13499,7 +13556,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13536,8 +13593,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl90",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl90$ViolationDetails",
+      "row_control": "ctl91",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl91$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "SABOR LATIN STREET GRILL",
       "address": "624 JETTON ST SUITE 160\n \nDAVIDSON, NC 28036",
@@ -13547,7 +13604,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Non-compliant items to complete by 9/28/26: \n1) Re-caulk 3-compartment sink to the wall.\n2) Re-caulk left prep sink to the wall.",
       "violations": [
         {
@@ -13611,8 +13668,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl89",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl89$ViolationDetails",
+      "row_control": "ctl90",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl90$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "ROASTED TINTO",
       "address": "4554 N TRYON ST \n \nCHARLOTTE, NC 28213",
@@ -13622,7 +13679,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13641,8 +13698,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl88",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl88$ViolationDetails",
+      "row_control": "ctl89",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl89$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "RENAISSANCE PATISSERIE",
       "address": "6401 CARNEGIE BV 4A\n \nCHARLOTTE, NC 28211",
@@ -13652,7 +13709,7 @@
       "grade": "A",
       "inspector_id": "3380",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Inspection completed in conjunction with onsite visit for SR #226661.",
       "violations": [
         {
@@ -13725,8 +13782,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl87",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl87$ViolationDetails",
+      "row_control": "ctl88",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl88$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "RED ROBIN",
       "address": "8425 NORTHLAKE COMMONS BV \n \nCHARLOTTE, NC 28216",
@@ -13736,7 +13793,7 @@
       "grade": "A",
       "inspector_id": "3493",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13791,8 +13848,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl86",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl86$ViolationDetails",
+      "row_control": "ctl87",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl87$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "QUE FRESA TAQUERIA & BAR",
       "address": "1500 W MOREHEAD ST SUITE A\n \nCHARLOTTE, NC 28208",
@@ -13802,7 +13859,7 @@
       "grade": "A",
       "inspector_id": "948",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13839,8 +13896,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl85",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl85$ViolationDetails",
+      "row_control": "ctl86",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl86$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "PUB IN UPTOWN, THE",
       "address": "500 W TRADE ST STE 104\n \nCHARLOTTE, NC 28208",
@@ -13850,7 +13907,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13932,8 +13989,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl84",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl84$ViolationDetails",
+      "row_control": "ctl85",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl85$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "MOD PIZZA BEREWICK",
       "address": "4830 BEREWICK TOWN CENTER DR STE A\n \nCHARLOTTE, NC 28278",
@@ -13943,7 +14000,7 @@
       "grade": "A",
       "inspector_id": "3414",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -13980,8 +14037,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl83",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl83$ViolationDetails",
+      "row_control": "ctl84",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl84$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "MOA KOREAN BBQ & BAR",
       "address": "128 S TRYON ST SUITE L120\n \nCHARLOTTE, NC 28202",
@@ -13991,7 +14048,7 @@
       "grade": "A",
       "inspector_id": "2515",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14055,8 +14112,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl82",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl82$ViolationDetails",
+      "row_control": "ctl83",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl83$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "KABUTO JAPANESE STEAK HOUSE",
       "address": "446 TYVOLA RD \n \nCHARLOTTE, NC 28217",
@@ -14066,7 +14123,7 @@
       "grade": "A",
       "inspector_id": "3224",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14112,8 +14169,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl81",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl81$ViolationDetails",
+      "row_control": "ctl82",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl82$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "GRAHAM ST PUB & PATIO",
       "address": "400 S GRAHAM ST \n \nCHARLOTTE, NC 28202",
@@ -14123,7 +14180,7 @@
       "grade": "A",
       "inspector_id": "2883",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14178,8 +14235,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl80",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl80$ViolationDetails",
+      "row_control": "ctl81",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl81$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "COMFORT SUITES",
       "address": "7735 UNIVERSITY CITY BV \n \nCHARLOTTE, NC 28213",
@@ -14189,7 +14246,7 @@
       "grade": "A",
       "inspector_id": "3413",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14244,8 +14301,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl79",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl79$ViolationDetails",
+      "row_control": "ctl80",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl80$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "CITY BARBEQUE",
       "address": "15425 HODGES CR SUITE A\n \nHUNTERSVILLE, NC 28078",
@@ -14255,7 +14312,7 @@
       "grade": "A",
       "inspector_id": "2880",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14319,8 +14376,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl78",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl78$ViolationDetails",
+      "row_control": "ctl79",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl79$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "CHICK-FIL-A #4278",
       "address": "8700 UNIVERSITY EXECUTIVE PARK DR \n \nCHARLOTTE, NC 28262",
@@ -14330,7 +14387,7 @@
       "grade": "A",
       "inspector_id": "3413",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14349,8 +14406,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl77",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl77$ViolationDetails",
+      "row_control": "ctl78",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl78$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "BROWN BAG PIPER STATION",
       "address": "5231 PIPER STATION DR \n \nCHARLOTTE, NC 28277",
@@ -14360,7 +14417,7 @@
       "grade": "A",
       "inspector_id": "3150",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14406,8 +14463,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl76",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl76$ViolationDetails",
+      "row_control": "ctl77",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl77$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "BROOKLYN SOUTH PIZZERIA",
       "address": "19400 JETTON RD \n \nCORNELIUS, NC 28031",
@@ -14417,7 +14474,7 @@
       "grade": "A",
       "inspector_id": "3023",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "TPHC - Pizza and Sauces \nClams are received Frozen",
       "violations": [
         {
@@ -14490,8 +14547,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl75",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl75$ViolationDetails",
+      "row_control": "ctl76",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl76$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "BELLA FUSION & DEEJAI THAI",
       "address": "205 S. KINGS DR STE 100\n \nCHARLOTTE, NC 28204",
@@ -14501,7 +14558,7 @@
       "grade": "A",
       "inspector_id": "3440",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14592,8 +14649,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl74",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl74$ViolationDetails",
+      "row_control": "ctl75",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl75$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "ASAHI SUSHI",
       "address": "10920 WINDS CROSSING DR \n \nCHARLOTTE, NC 28273",
@@ -14603,7 +14660,7 @@
       "grade": "A",
       "inspector_id": "3381",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14721,8 +14778,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl73",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl73$ViolationDetails",
+      "row_control": "ctl74",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl74$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "AMERICAN DELI",
       "address": "5430 N TRYON ST \n \nCHARLOTTE, NC 28213",
@@ -14732,7 +14789,7 @@
       "grade": "A",
       "inspector_id": "2544",
       "first_seen": "2026-07-30T11:23:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14805,8 +14862,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl72",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl72$ViolationDetails",
+      "row_control": "ctl73",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl73$ViolationDetails",
       "inspection_date": "7/28/2026",
       "facility_name": "ADAMS MART #4",
       "address": "11924 ELM LN \n \nCHARLOTTE, NC 28277",
@@ -14816,7 +14873,7 @@
       "grade": "A",
       "inspector_id": "3150",
       "first_seen": "2026-07-29T11:35:49+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14874,54 +14931,6 @@
       "row_control": "ctl99",
       "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl99$ViolationDetails",
       "inspection_date": "7/27/2026",
-      "facility_name": "BONCHON",
-      "address": "8318 PINEVILLE-MATTHEWS RD \n \nCHARLOTTE, NC 28226",
-      "state_id": "2060018866",
-      "establishment_type": "1 - Restaurant",
-      "final_score": "97",
-      "grade": "A",
-      "inspector_id": "3539",
-      "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
-      "general_comments": "No proteins served raw or undercooked. Kimchi not house made. Cooked chicken wings on prep top on TPHC.",
-      "violations": [
-        {
-          "item": "16",
-          "demerits": "0",
-          "description": "Food-contact surfaces: cleaned & sanitized",
-          "corrected_during_inspection": "No",
-          "repeat": "No",
-          "verification_required": "Yes",
-          "comments": "10 DAY VR. \n4-601.11(A) Equipment food contact surfaces and utensils shall be clean to sight and touch. -Pf. \nObserved inside of ice machine in back of kitchen with black residue. Clean and sanitize within 10 days, EHS will make a return visit to verify. (-0)"
-        },
-        {
-          "item": "22",
-          "demerits": "3",
-          "description": "Proper cold holding temperatures",
-          "corrected_during_inspection": "Yes",
-          "repeat": "Yes",
-          "verification_required": "No",
-          "comments": "REPEAT.\n3-501.16(A)(2) Maintain TCS foods in cold holding at 41F or less. -P \nObserved saut\u00e9ed mushrooms, scrambled egg, and cooked sea mustard greens between 43-45F in fliptop 1, which appeared in defrost based on outside sensor reading. \nCDI- All TCS foods taken to WIC for rapid cooling and storage until end of DF cycle. EHS advises changing defrost cycle settings to ensure TCS food does not come above 41F in cold holding. EHS observed ambient temp return below 41F within half hour at lowboy. (-3)"
-        },
-        {
-          "item": "49",
-          "demerits": "0",
-          "description": "Non-food contact surfaces clean",
-          "corrected_during_inspection": "No",
-          "repeat": "No",
-          "verification_required": "No",
-          "comments": "4-601.11(C ) Keep non food contact surfaces of equipment clean to avoid build up of dust, food residue or debris.4-602.13 Non food contact surfaces of equipment shall be cleaned frequently to preclude accumulation of soil residues.\nObserved food debris on top of chemical dish machine. Increase cleaning frequency. (-0)"
-        }
-      ],
-      "violation_text": "16 - Food-contact surfaces: cleaned & sanitized: 10 DAY VR. \n4-601.11(A) Equipment food contact surfaces and utensils shall be clean to sight and touch. -Pf. \nObserved inside of ice machine in back of kitchen with black residue. Clean and sanitize within 10 days, EHS will make a return visit to verify. (-0)\n\n22 - Proper cold holding temperatures: REPEAT.\n3-501.16(A)(2) Maintain TCS foods in cold holding at 41F or less. -P \nObserved saut\u00e9ed mushrooms, scrambled egg, and cooked sea mustard greens between 43-45F in fliptop 1, which appeared in defrost based on outside sensor reading. \nCDI- All TCS foods taken to WIC for rapid cooling and storage until end of DF cycle. EHS advises changing defrost cycle settings to ensure TCS food does not come above 41F in cold holding. EHS observed ambient temp return below 41F within half hour at lowboy. (-3)\n\n49 - Non-food contact surfaces clean: 4-601.11(C ) Keep non food contact surfaces of equipment clean to avoid build up of dust, food residue or debris.4-602.13 Non food contact surfaces of equipment shall be cleaned frequently to preclude accumulation of soil residues.\nObserved food debris on top of chemical dish machine. Increase cleaning frequency. (-0)",
-      "result": "Score 97 / Grade A",
-      "official_url": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60"
-    },
-    {
-      "search_label": "recent_restaurants",
-      "row_control": "ctl98",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl98$ViolationDetails",
-      "inspection_date": "7/27/2026",
       "facility_name": "ATRIUM PINEVILLE REHABILITATION",
       "address": "10648 PARK RD \n \nCHARLOTTE, NC 28210",
       "state_id": "2060019534",
@@ -14930,7 +14939,7 @@
       "grade": "A",
       "inspector_id": "3225",
       "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -14994,8 +15003,8 @@
     },
     {
       "search_label": "recent_restaurants",
-      "row_control": "ctl97",
-      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl97$ViolationDetails",
+      "row_control": "ctl98",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl98$ViolationDetails",
       "inspection_date": "7/27/2026",
       "facility_name": "ALBERTINE/MILKBREAD UPTOWN",
       "address": "525 SOUTH TRYON ST STE 125\n \nCHARLOTTE, NC 28202",
@@ -15005,7 +15014,7 @@
       "grade": "A",
       "inspector_id": "3119",
       "first_seen": "2026-07-28T11:30:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -15056,6 +15065,54 @@
       ],
       "violation_text": "13 - Food in good condition, safe & unadulterated: 3-101.11 Food shall be safe for consumption, unadulterated and honestly presented. -P. Observed tomatoes with white/dark build up. CDI: tomatoes were voluntarily discarded.\n\n21 - Proper hot holding temperatures: 3-501.16(A)(1) Maintain TCS foods in hot holding at 135F or above. -P. Observed french fries and chicken bites hot holding below 135F. CDI: Items were voluntarily discarded. \n\nFor more information, please visit: www.mecknc.gov/foodsafety or view our training videos at the following weblinks: What are TCS Foods https://www.youtube.com/watch?v=q0iLZb7v0UM and Safe Food Temperatures https://youtu.be/tXP09IK-1TQ .\n\n22 - Proper cold holding temperatures: 3-501.16(A)(2) Maintain TCS foods in cold holding at 41F or less. -P. Observed various items in prep top/unit 1 and prep unit 2 above 41F. Ambient air of prep top/unit 1 was 39F. Ambient air of prep unit 2 was 44F. Observed milk items in cold drawer at milkbread coffee bar above 41F. Items were moved to walk in cooler to cool. VERIFICATION REQUIRED. \n\nFor more information, please visit: www.mecknc.gov/foodsafety or view our training videos at the following weblinks: What are TCS Foods https://www.youtube.com/watch?v=q0iLZb7v0UM and Safe Food Temperatures https://youtu.be/tXP09IK-1TQ .\n\n29 - Compliance with variance, specialized process, reduced oxygen packaging criteria or HACCP plan: 3-502.11 Obtain a variance for specialized processes.-Pf. Observed multiple packages of ROP fish in walk in cooler and walk in freezer. Facility does not have approval for ROP of fish. CDI: Items were voluntarily discarded. \nFor more information on how to apply for a variance please visit: https://health.mecknc.gov/envhealth/food-and-facilities-sanitation. \n\n8-103.12 Comply with the procedures in the HACCP plan as submitted and approved as part of a variance or local approval. Maintain approval and records as required.-P/Pf. Observed chorizo and beef in ROP packaging, no \u201cuse by date\u201d was recorded on labels. VERIFICATION REQUIRED.\n\n32 - Variance obtained for specialized processing methods: 8-103.11 Provide the required information to obtain a variance to the regulatory authority.-Pf. Observed multiple packages of ROP fish inside walk in cooler and walk in freezer. Facility does not have approval for ROP of fish. CDI: Items were voluntarily discarded. \n\nFor more information on how to request a variance please visit: http://meck.co/FoodSafety",
       "result": "Score 96.50 / Grade A",
+      "official_url": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60"
+    },
+    {
+      "search_label": "recent_restaurants",
+      "row_control": "ctl99",
+      "detail_target": "ctl00$PageContent$VW_PUBLIC_ESTINSPTableControlRepeater$ctl99$ViolationDetails",
+      "inspection_date": "7/27/2026",
+      "facility_name": "BONCHON",
+      "address": "8318 PINEVILLE-MATTHEWS RD \n \nCHARLOTTE, NC 28226",
+      "state_id": "2060018866",
+      "establishment_type": "1 - Restaurant",
+      "final_score": "97",
+      "grade": "A",
+      "inspector_id": "3539",
+      "first_seen": "2026-07-28T11:30:52+00:00",
+      "last_seen": "2026-08-02T10:53:24+00:00",
+      "general_comments": "No proteins served raw or undercooked. Kimchi not house made. Cooked chicken wings on prep top on TPHC.",
+      "violations": [
+        {
+          "item": "16",
+          "demerits": "0",
+          "description": "Food-contact surfaces: cleaned & sanitized",
+          "corrected_during_inspection": "No",
+          "repeat": "No",
+          "verification_required": "Yes",
+          "comments": "10 DAY VR. \n4-601.11(A) Equipment food contact surfaces and utensils shall be clean to sight and touch. -Pf. \nObserved inside of ice machine in back of kitchen with black residue. Clean and sanitize within 10 days, EHS will make a return visit to verify. (-0)"
+        },
+        {
+          "item": "22",
+          "demerits": "3",
+          "description": "Proper cold holding temperatures",
+          "corrected_during_inspection": "Yes",
+          "repeat": "Yes",
+          "verification_required": "No",
+          "comments": "REPEAT.\n3-501.16(A)(2) Maintain TCS foods in cold holding at 41F or less. -P \nObserved saut\u00e9ed mushrooms, scrambled egg, and cooked sea mustard greens between 43-45F in fliptop 1, which appeared in defrost based on outside sensor reading. \nCDI- All TCS foods taken to WIC for rapid cooling and storage until end of DF cycle. EHS advises changing defrost cycle settings to ensure TCS food does not come above 41F in cold holding. EHS observed ambient temp return below 41F within half hour at lowboy. (-3)"
+        },
+        {
+          "item": "49",
+          "demerits": "0",
+          "description": "Non-food contact surfaces clean",
+          "corrected_during_inspection": "No",
+          "repeat": "No",
+          "verification_required": "No",
+          "comments": "4-601.11(C ) Keep non food contact surfaces of equipment clean to avoid build up of dust, food residue or debris.4-602.13 Non food contact surfaces of equipment shall be cleaned frequently to preclude accumulation of soil residues.\nObserved food debris on top of chemical dish machine. Increase cleaning frequency. (-0)"
+        }
+      ],
+      "violation_text": "16 - Food-contact surfaces: cleaned & sanitized: 10 DAY VR. \n4-601.11(A) Equipment food contact surfaces and utensils shall be clean to sight and touch. -Pf. \nObserved inside of ice machine in back of kitchen with black residue. Clean and sanitize within 10 days, EHS will make a return visit to verify. (-0)\n\n22 - Proper cold holding temperatures: REPEAT.\n3-501.16(A)(2) Maintain TCS foods in cold holding at 41F or less. -P \nObserved saut\u00e9ed mushrooms, scrambled egg, and cooked sea mustard greens between 43-45F in fliptop 1, which appeared in defrost based on outside sensor reading. \nCDI- All TCS foods taken to WIC for rapid cooling and storage until end of DF cycle. EHS advises changing defrost cycle settings to ensure TCS food does not come above 41F in cold holding. EHS observed ambient temp return below 41F within half hour at lowboy. (-3)\n\n49 - Non-food contact surfaces clean: 4-601.11(C ) Keep non food contact surfaces of equipment clean to avoid build up of dust, food residue or debris.4-602.13 Non food contact surfaces of equipment shall be cleaned frequently to preclude accumulation of soil residues.\nObserved food debris on top of chemical dish machine. Increase cleaning frequency. (-0)",
+      "result": "Score 97 / Grade A",
       "official_url": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60"
     },
     {
@@ -32335,7 +32392,7 @@
       "grade": "B",
       "inspector_id": "3023",
       "first_seen": "2026-07-16T15:20:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "TPHC - Sushi Rice\nInland Seafood Parasite Destruction / Aquaculture Letters Present \n\nEHS observed soiled, single service, wooden sticks drying on a sheet pan. Manager stated that he washes them to take home and that they are never re-used in the restaurant. \n\nInspection completed with EHS-Intern, Jason Adamsky",
       "violations": [
         {
@@ -32518,7 +32575,7 @@
       "grade": "B",
       "inspector_id": "2883",
       "first_seen": "2026-07-16T15:20:52+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "EHS found cooked and cooled duck salad mix, potatoes, tomato sauce, asparagus puree and garlic confit. Items are not approved for cooking and cooling as agreed to on the revised menu. Facility is also getting lamb jus, veal jus and duck jus from something classic. All jus were previously removed form menu. See visit sheet 5/14/26. If facility wants to revise menu, items need to be approved by MCHD in writing. The approved menu is connected to the facility permit. Facility currently in violation of Permit. Further issues may result in an ITS. \n\nFacility menu temporarily reduced to serve the remaining in temperature/ safe food for dinner. Soup, salads, potato beignets, baked Camembert removed from dinner menu for tonight. All other items will be cooked/ prepared with remaining in temperature food items. This is a temporary fix for the evening. Option not available for long-term based on safety standards. \n\n\nNOTE: Refrigeration unit ambient air temps\n6 drawer cold unit at grill (turned off, not in use) \n2 door low reach in/ cold drawer prep top unit 48F (used for TPHC)\n2 door tall reach in 40F (tall reach in 2)\n1 door tall reach in 47F (tall RI 3)\n3 door tall reach in 48F (tall RI 3)\n6 drawer prep top unit 36F\n1 door tall reach in 41F (tall RI 4)",
       "violations": [
         {
@@ -37713,7 +37770,7 @@
       "grade": "B",
       "inspector_id": "3023",
       "first_seen": "2026-07-11T12:09:39+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "TPHC - Expo Sauces and Honey Butter \nSalmon is fully cooked \nVariance approval for Cedar Planks",
       "violations": [
         {
@@ -39391,7 +39448,7 @@
       "grade": "B",
       "inspector_id": "3225",
       "first_seen": "2026-07-02T16:19:33+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "To request a reinspection please call the main office at 980-314-1620. If there are any questions before please call EHS Jordan Johnson at 704-280-0454.",
       "violations": [
         {
@@ -41130,7 +41187,7 @@
       "grade": "B",
       "inspector_id": "2398",
       "first_seen": "2026-07-01T17:24:32+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
@@ -41268,7 +41325,7 @@
       "grade": "B",
       "inspector_id": "2883",
       "first_seen": "2026-06-30T17:12:22+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "Facility has the opportunity to request for re-inspection. Please contact the front office number at 980.314.1620 to request re-inspection.\n\nEHS provided new TPHC forms, updated employee health policy and food safety checklist in both English and Spanish.",
       "violations": [
         {
@@ -47213,7 +47270,7 @@
       "grade": "B",
       "inspector_id": "3539",
       "first_seen": "2026-06-27T15:03:06+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "-Shellstock tags retained onsite. Oysters are held in frozen storage once received, not offered raw or undercooked.\n-No seafood offered raw or undercooked. No parasite destruction letters required. \n-Batter station beside cook line on TPHC.",
       "violations": [
         {
@@ -56046,7 +56103,7 @@
       "grade": "B",
       "inspector_id": "2544",
       "first_seen": "2026-06-23T17:22:23+00:00",
-      "last_seen": "2026-08-02T10:53:24+00:00",
+      "last_seen": "2026-08-03T12:38:04+00:00",
       "general_comments": "",
       "violations": [
         {
