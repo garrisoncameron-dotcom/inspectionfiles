@@ -1,6 +1,6 @@
 window.VIOLATION_DESK_DATA = {
-  "generatedAt": "2026-09-20T13:39:07+00:00",
-  "leadsReviewed": 1822,
+  "generatedAt": "2026-09-21T15:58:48+00:00",
+  "leadsReviewed": 1814,
   "activeSources": [
     "NYC",
     "Chicago",
@@ -912,48 +912,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "chicago|county fair foods|10800 s western ave, chicago, il, 60643|2026-08-21|",
-      "rank": 46,
-      "case": "COUNTY FAIR FOODS",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "10800 S WESTERN AVE, CHICAGO, IL, 60643",
-      "inspectionDate": "2026-08-21",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2641595",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: FOUND RODENT ACTIVITY ON THE PREMISES.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
-      "id": "chicago|old crow smokehouse|3506-3514 n clark st, chicago, il, 60657|2026-08-21|",
-      "rank": 47,
-      "case": "OLD CROW SMOKEHOUSE",
-      "score": 81,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "3506-3514 N CLARK ST, CHICAGO, IL, 60657",
-      "inspectionDate": "2026-08-21",
-      "agency": "Chicago Department of Public Health",
-      "status": "Fail",
-      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2641615",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 6-501.111: **PF** Controlling Pests (Pest Activity, Harborage) OBSERVED PEST ACTIVITY WITH APPROX.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "mecklenburg_county|bad daddy's burger bar of ballantyne|15105 john j delaney dr suite a\n \ncharlotte, nc 28277|9/15/2026|2060016560",
-      "rank": 48,
+      "rank": 46,
       "case": "BAD DADDY'S BURGER BAR OF BALLANTYNE",
       "score": 81,
       "section": "The Vermin Wire",
@@ -973,7 +933,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|gage park (h/s)|5630 s rockwell (2600w) ave, chicago, il, 60629|2026-09-17|",
-      "rank": 49,
+      "rank": 47,
       "case": "Gage Park (H/S)",
       "score": 80,
       "section": "The Closure Watch",
@@ -993,7 +953,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|roswell mason cpc|4216 w 19th st, chicago, il, 60623|2026-09-09|",
-      "rank": 50,
+      "rank": 48,
       "case": "ROSWELL MASON CPC",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1013,7 +973,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|mcdonald's #4308|3867 s archer ave, chicago, il, 60632|2026-09-08|",
-      "rank": 51,
+      "rank": 49,
       "case": "McDonald's #4308",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1033,7 +993,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|mariano's #8515|1800 w lawrence ave, chicago, il, 60640|2026-09-04|",
-      "rank": 52,
+      "rank": 50,
       "case": "MARIANO'S #8515",
       "score": 80,
       "section": "The Closure Watch",
@@ -1053,7 +1013,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|qin west chinese cuisine|727 n broadway ste 111, los angeles|04/09/2026|",
-      "rank": 53,
+      "rank": 51,
       "case": "QIN WEST CHINESE CUISINE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1073,7 +1033,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|qin west chinese cuisine|727 n broadway ste 111, los angeles|03/26/2026|",
-      "rank": 54,
+      "rank": 52,
       "case": "QIN WEST CHINESE CUISINE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1093,7 +1053,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "la_county_closures|qin west chinese cuisine|727 n broadway ste 111, los angeles|03/23/2026|",
-      "rank": 55,
+      "rank": 53,
       "case": "QIN WEST CHINESE CUISINE",
       "score": 80,
       "section": "The Vermin Wire",
@@ -1113,7 +1073,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|mago's tamales & taqueria|5714 w fullerton ave, chicago, il, 60639|2026-09-10|",
-      "rank": 56,
+      "rank": 54,
       "case": "MAGO'S TAMALES & TAQUERIA",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1133,7 +1093,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|buona|10637 s western ave, chicago, il, 60643|2026-09-09|",
-      "rank": 57,
+      "rank": 55,
       "case": "BUONA",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1153,7 +1113,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|brixx wood fired pizza|9820 rea rd suite f\n \ncharlotte, nc 28277|9/9/2026|2060015591",
-      "rank": 58,
+      "rank": 56,
       "case": "BRIXX WOOD FIRED PIZZA",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1173,7 +1133,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|big air trampoline park|2408 sardis rd n \n \ncharlotte, nc 28227|9/8/2026|2060018965",
-      "rank": 59,
+      "rank": 57,
       "case": "BIG AIR TRAMPOLINE PARK",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1193,7 +1153,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|tiem co tu tc4|8535 hankins rd ste a\n \ncharlotte, nc 28269|9/16/2026|20600111717",
-      "rank": 60,
+      "rank": 58,
       "case": "TIEM CO TU TC4",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1213,7 +1173,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|city barbeque|11212 providence rd w \n \ncharlotte, nc 28277|9/1/2026|2060018638",
-      "rank": 61,
+      "rank": 59,
       "case": "CITY BARBEQUE",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1233,7 +1193,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|las meras tortas|14601 statesville rd \n \nhuntersville, nc 28078|8/27/2026|2060018301",
-      "rank": 62,
+      "rank": 60,
       "case": "LAS MERAS TORTAS",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1253,7 +1213,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|american deli|3210 wilkinson bv suite b3\n \ncharlotte, nc 28208|8/27/2026|2060017990",
-      "rank": 63,
+      "rank": 61,
       "case": "AMERICAN DELI",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1273,7 +1233,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|bad daddy's burger bar of ballantyne|15105 john j delaney dr suite a\n \ncharlotte, nc 28277|8/26/2026|2060016560",
-      "rank": 64,
+      "rank": 62,
       "case": "BAD DADDY'S BURGER BAR OF BALLANTYNE",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1293,7 +1253,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|sabor latin street grill|1616 camden rd suite 100\n \ncharlotte, nc 28203|8/26/2026|20600111590",
-      "rank": 65,
+      "rank": 63,
       "case": "SABOR LATIN STREET GRILL",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1313,7 +1273,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|american deli|5700 university pointe bv suite 101\n \ncharlotte, nc 28262|8/25/2026|2060019462",
-      "rank": 66,
+      "rank": 64,
       "case": "AMERICAN DELI",
       "score": 79,
       "section": "The Vermin Wire",
@@ -1333,7 +1293,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|greek xpress|229, prospect park west, brooklyn, 11215|2026-09-15|",
-      "rank": 67,
+      "rank": 65,
       "case": "GREEK XPRESS",
       "score": 78,
       "section": "The Closure Watch",
@@ -1353,7 +1313,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|chipotle mexican grill #3056|59-01, maurice avenue, queens, 11378|2026-09-14|",
-      "rank": 68,
+      "rank": 66,
       "case": "CHIPOTLE MEXICAN GRILL #3056",
       "score": 78,
       "section": "The Closure Watch",
@@ -1373,7 +1333,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "nyc|golden corner|45-55, van dam st, queens, 11101|2026-09-14|",
-      "rank": 69,
+      "rank": 67,
       "case": "GOLDEN CORNER",
       "score": 78,
       "section": "The Closure Watch",
@@ -1393,7 +1353,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|erick solorio academy high school|5400 s st louis ave, chicago, il, 60632|2026-09-18|",
-      "rank": 70,
+      "rank": 68,
       "case": "ERICK SOLORIO ACADEMY HIGH SCHOOL",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1413,7 +1373,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|corliss (h/s)|821 e 103rd st (10300s), chicago, il, 60628|2026-09-17|",
-      "rank": 71,
+      "rank": 69,
       "case": "Corliss (H/S)",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1433,7 +1393,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|noble st chtr-crimson(corliss hs)|821 e 103rd st (10300s), chicago, il, 60628|2026-09-17|",
-      "rank": 72,
+      "rank": 70,
       "case": "NOBLE ST CHTR-CRIMSON(CORLISS HS)",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1453,7 +1413,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|horizon science academy southwest chicago|5401 s western ave, chicago, il, 60609|2026-09-16|",
-      "rank": 73,
+      "rank": 71,
       "case": "HORIZON SCIENCE ACADEMY SOUTHWEST CHICAGO",
       "score": 78,
       "section": "The Closure Watch",
@@ -1473,7 +1433,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|kipp ascend primary school|1440 s christiana st, chicago, il, 60623|2026-09-16|",
-      "rank": 74,
+      "rank": 72,
       "case": "KIPP ASCEND PRIMARY SCHOOL",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1493,7 +1453,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|manchamanteles|2003-2011 n western ave, chicago, il, 60647|2026-09-16|",
-      "rank": 75,
+      "rank": 73,
       "case": "MANCHAMANTELES",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1513,7 +1473,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|maria saucedo elementary|2850 w 24th st, chicago, il, 60623|2026-09-14|",
-      "rank": 76,
+      "rank": 74,
       "case": "MARIA SAUCEDO ELEMENTARY",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1533,7 +1493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|telpochcalli|2832 w 24th st, chicago, il, 60623|2026-09-14|",
-      "rank": 77,
+      "rank": 75,
       "case": "TELPOCHCALLI",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1553,7 +1513,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|sullivan house high school|8164 s south chicago ave, chicago, il, 60617|2026-09-14|",
-      "rank": 78,
+      "rank": 76,
       "case": "Sullivan House High School",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1573,7 +1533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|john spry community school|2400 s marshall, chicago, il, 60623|2026-09-14|",
-      "rank": 79,
+      "rank": 77,
       "case": "JOHN SPRY COMMUNITY SCHOOL",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1593,7 +1553,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|nigerian kitchen incorporated|4447 n broadway, chicago, il, 60640|2026-09-14|",
-      "rank": 80,
+      "rank": 78,
       "case": "NIGERIAN KITCHEN INCORPORATED",
       "score": 78,
       "section": "The Vermin Wire",
@@ -1604,6 +1564,46 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2642676",
       "grossestDetail": "SEWAGE & WASTE WATER PROPERLY DISPOSED - Comments: NOTED BOTH TOILETS ON PREMISE NOT PROPERLY FLUSHING AT THE TIME OF INSPECTION.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|henderson|5650 s wolcott (1900w), chicago, il, 60636|2026-09-11|",
+      "rank": 79,
+      "case": "Henderson",
+      "score": 78,
+      "section": "The Closure Watch",
+      "violationType": "Sewage / wastewater",
+      "location": "5650 S Wolcott (1900W), CHICAGO, IL, 60636",
+      "inspectionDate": "2026-09-11",
+      "agency": "Chicago Department of Public Health",
+      "status": "Pass",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2642581",
+      "grossestDetail": "SEWAGE & WASTE WATER PROPERLY DISPOSED - Comments: Mop bucket waste water disposed in kitchen's floor drain, instructed to dispose in mop sink at the closet a cross the hall.",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "chicago|washington high school|3535 e 114th st, chicago, il, 60617|2026-09-11|",
+      "rank": 80,
+      "case": "WASHINGTON HIGH SCHOOL",
+      "score": 78,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "3535 E 114TH ST, CHICAGO, IL, 60617",
+      "inspectionDate": "2026-09-11",
+      "agency": "Chicago Department of Public Health",
+      "status": "Fail",
+      "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2642582",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: 6-501.111 OBSERVED EVIDENCE OF PEST ACTIVITY ON SITE.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -3392,28 +3392,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "mecklenburg_county|char bar 7|7312 town view dr \n \nmint hill, nc 28227|8/21/2026|2060018946",
-      "rank": 170,
-      "case": "CHAR BAR 7",
-      "score": 78,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "7312 TOWN VIEW DR \n \nMINT HILL, NC 28227",
-      "inspectionDate": "8/21/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 94.50 / Grade A",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "mecklenburg_county|taste of india|2130 e arbors dr ste 125\n \ncharlotte, nc 28262|9/9/2026|20600111708",
-      "rank": 171,
+      "rank": 170,
       "case": "TASTE OF INDIA",
       "score": 77,
       "section": "The Closure Watch",
@@ -3433,7 +3413,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "mecklenburg_county|harris teeter #258 deli/starbucks|8600 university city bv \n \ncharlotte, nc 28213|9/9/2026|2060017420",
-      "rank": 172,
+      "rank": 171,
       "case": "HARRIS TEETER #258 DELI/STARBUCKS",
       "score": 76,
       "section": "The Vermin Wire",
@@ -3444,6 +3424,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Score 97 / Grade A",
       "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
       "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: -REPEAT-",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|cantina louie matthews|2225 matthews township py ste c\n \ncharlotte, nc 28105|9/9/2026|20600110276",
+      "rank": 172,
+      "case": "CANTINA LOUIE MATTHEWS",
+      "score": 76,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "2225 MATTHEWS TOWNSHIP PY STE C\n \nCHARLOTTE, NC 28105",
+      "inspectionDate": "9/9/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 97.50 / Grade A",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "38 - Insects & rodents not present; no unauthorized animals: 6-501.111 Keep the premises free of insects, rodents, and other pests.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
