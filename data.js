@@ -1,6 +1,6 @@
 window.VIOLATION_DESK_DATA = {
-  "generatedAt": "2026-11-03T17:10:50+00:00",
-  "leadsReviewed": 1761,
+  "generatedAt": "2026-11-04T17:23:13+00:00",
+  "leadsReviewed": 1758,
   "activeSources": [
     "NYC",
     "Chicago",
@@ -432,28 +432,8 @@ window.VIOLATION_DESK_DATA = {
       ]
     },
     {
-      "id": "mecklenburg_county|rio 150|16801 caldwell creek dr` \n \nhuntersville, nc 28078|8/5/2026|20600110472",
-      "rank": 22,
-      "case": "RIO 150",
-      "score": 84,
-      "section": "The Vermin Wire",
-      "violationType": "Rodents / vermin",
-      "location": "16801 CALDWELL CREEK DR` \n \nHUNTERSVILLE, NC 28078",
-      "inspectionDate": "8/5/2026",
-      "agency": "Mecklenburg County Health Department",
-      "status": "Score 85.50 / Grade B",
-      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
-      "grossestDetail": "6-501.112 Remove dead or trapped birds, insects, rodents, and other pests.",
-      "producerRecommendation": "Full segment candidate",
-      "followUp": [
-        "Confirm current operating status.",
-        "Check reinspection or reopening status.",
-        "Search for local coverage or a public statement."
-      ]
-    },
-    {
       "id": "mecklenburg_county|rio 150|16801 caldwell creek dr` \n \nhuntersville, nc 28078|8/17/2026|20600110472",
-      "rank": 23,
+      "rank": 22,
       "case": "RIO 150",
       "score": 84,
       "section": "The Vermin Wire",
@@ -473,7 +453,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|the submarine pier|2759 w 51st st, chicago, il, 60632|2026-10-19|",
-      "rank": 24,
+      "rank": 23,
       "case": "THE SUBMARINE PIER",
       "score": 83,
       "section": "The Closure Watch",
@@ -493,7 +473,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|tuk tuk thai isan street food|2852 n clark st, chicago, il, 60657|2026-10-19|",
-      "rank": 25,
+      "rank": 24,
       "case": "TUK TUK THAI ISAN STREET FOOD",
       "score": 83,
       "section": "The Closure Watch",
@@ -513,7 +493,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|wicker64 bar and grill|1745 w north ave, chicago, il, 60622|2026-10-19|",
-      "rank": 26,
+      "rank": 25,
       "case": "WICKER64 BAR AND GRILL",
       "score": 83,
       "section": "The Closure Watch",
@@ -533,7 +513,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|guerreros pizza inc|2024 s california ave, chicago, il, 60608|2026-10-08|",
-      "rank": 27,
+      "rank": 26,
       "case": "GUERREROS PIZZA INC",
       "score": 83,
       "section": "The Vermin Wire",
@@ -553,7 +533,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|la colonia|4821 n elston ave, chicago, il, 60630|2026-10-07|",
-      "rank": 28,
+      "rank": 27,
       "case": "LA COLONIA",
       "score": 83,
       "section": "The Closure Watch",
@@ -573,7 +553,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|la torta chilanga #2|5407 s kedzie ave, chicago, il, 60632|2026-10-01|",
-      "rank": 29,
+      "rank": 28,
       "case": "LA TORTA CHILANGA #2",
       "score": 83,
       "section": "The Closure Watch",
@@ -593,7 +573,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|domino's pizza|3103 n clark st, chicago, il, 60657|2026-10-28|",
-      "rank": 30,
+      "rank": 29,
       "case": "DOMINO'S PIZZA",
       "score": 81,
       "section": "The Vermin Wire",
@@ -613,7 +593,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|columbus manor residential care & home|5107-5121 w jackson blvd, chicago, il, 60644|2026-10-28|",
-      "rank": 31,
+      "rank": 30,
       "case": "COLUMBUS MANOR RESIDENTIAL CARE & HOME",
       "score": 81,
       "section": "The Vermin Wire",
@@ -633,7 +613,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|tuk tuk thai isan street food|2852 n clark st, chicago, il, 60657|2026-10-26|",
-      "rank": 32,
+      "rank": 31,
       "case": "TUK TUK THAI ISAN STREET FOOD",
       "score": 81,
       "section": "The Closure Watch",
@@ -653,7 +633,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|ann sather restaurant|3042 n broadway, chicago, il, 60657|2026-10-22|",
-      "rank": 33,
+      "rank": 32,
       "case": "ANN SATHER RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -673,7 +653,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|fat peach bakery|2907 s archer ave, chicago, il, 60608|2026-10-22|",
-      "rank": 34,
+      "rank": 33,
       "case": "FAT PEACH BAKERY",
       "score": 81,
       "section": "The Vermin Wire",
@@ -693,7 +673,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|domino's pizza|3103 n clark st, chicago, il, 60657|2026-10-21|",
-      "rank": 35,
+      "rank": 34,
       "case": "DOMINO'S PIZZA",
       "score": 81,
       "section": "The Vermin Wire",
@@ -713,7 +693,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|la fiesta|4248 s archer ave, chicago, il, 60632|2026-10-21|",
-      "rank": 36,
+      "rank": 35,
       "case": "LA FIESTA",
       "score": 81,
       "section": "The Vermin Wire",
@@ -733,7 +713,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|burrito beach|500 w madison st, chicago, il, 60661|2026-10-21|",
-      "rank": 37,
+      "rank": 36,
       "case": "BURRITO BEACH",
       "score": 81,
       "section": "The Closure Watch",
@@ -753,7 +733,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|taipei cafe|2609-2611 s halsted st, chicago, il, 60608|2026-10-21|",
-      "rank": 38,
+      "rank": 37,
       "case": "TAIPEI CAFE",
       "score": 81,
       "section": "The Vermin Wire",
@@ -773,7 +753,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|columbus manor residential care & home|5107-5121 w jackson blvd, chicago, il, 60644|2026-10-21|",
-      "rank": 39,
+      "rank": 38,
       "case": "COLUMBUS MANOR RESIDENTIAL CARE & HOME",
       "score": 81,
       "section": "The Vermin Wire",
@@ -793,7 +773,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|new archview restaurant inc.|3480 s archer ave, chicago, il, 60608|2026-10-20|",
-      "rank": 40,
+      "rank": 39,
       "case": "NEW ARCHVIEW RESTAURANT INC.",
       "score": 81,
       "section": "The Vermin Wire",
@@ -813,7 +793,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|garfield park hospital|520 n ridgeway ave, chicago, il, 60624|2026-10-20|",
-      "rank": 41,
+      "rank": 40,
       "case": "GARFIELD PARK HOSPITAL",
       "score": 81,
       "section": "The Vermin Wire",
@@ -833,7 +813,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|halsted packing house|445 n halsted st, chicago, il, 60642|2026-10-20|",
-      "rank": 42,
+      "rank": 41,
       "case": "HALSTED PACKING HOUSE",
       "score": 81,
       "section": "The Closure Watch",
@@ -853,7 +833,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|taste of canton|3324 s archer ave, chicago, il, 60608|2026-10-20|",
-      "rank": 43,
+      "rank": 42,
       "case": "TASTE OF CANTON",
       "score": 81,
       "section": "The Vermin Wire",
@@ -873,7 +853,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|guerreros pizza inc|2024 s california ave, chicago, il, 60608|2026-10-19|",
-      "rank": 44,
+      "rank": 43,
       "case": "GUERREROS PIZZA INC",
       "score": 81,
       "section": "The Vermin Wire",
@@ -893,7 +873,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|lindo michoacan|3142-3148 w lawrence ave, chicago, il, 60625|2026-10-19|",
-      "rank": 45,
+      "rank": 44,
       "case": "LINDO MICHOACAN",
       "score": 81,
       "section": "The Vermin Wire",
@@ -913,7 +893,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|kiddy kare pre school inc|4401 s kedzie ave, chicago, il, 60632|2026-10-16|",
-      "rank": 46,
+      "rank": 45,
       "case": "KIDDY KARE PRE SCHOOL INC",
       "score": 81,
       "section": "The Vermin Wire",
@@ -923,7 +903,7 @@ window.VIOLATION_DESK_DATA = {
       "agency": "Chicago Department of Public Health",
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2645359",
-      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED OPENINGS AT BASE OF EXIT DOOR LEADING FROM BASEMENT STAIRWAY.",
+      "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED OVER 60 MOUSE DROPPINGS IN FACILITY.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
@@ -933,7 +913,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|chicago's home of chicken & waffles|3947 s dr martin luther king jr dr, chicago, il, 60653|2026-10-16|",
-      "rank": 47,
+      "rank": 46,
       "case": "CHICAGO'S HOME OF CHICKEN & WAFFLES",
       "score": 81,
       "section": "The Vermin Wire",
@@ -953,7 +933,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|sugars plus|525 e 47th st, chicago, il, 60653|2026-10-15|",
-      "rank": 48,
+      "rank": 47,
       "case": "SUGARS PLUS",
       "score": 81,
       "section": "The Vermin Wire",
@@ -973,7 +953,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|viet nam restaurant|1032 w argyle st, chicago, il, 60640|2026-10-14|",
-      "rank": 49,
+      "rank": 48,
       "case": "VIET NAM RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -993,7 +973,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|taquizas don rafa 2|3857 w 26th st, chicago, il, 60623|2026-10-14|",
-      "rank": 50,
+      "rank": 49,
       "case": "TAQUIZAS DON RAFA 2",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1013,7 +993,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|halsted packing house|445 n halsted st, chicago, il, 60642|2026-10-13|",
-      "rank": 51,
+      "rank": 50,
       "case": "HALSTED PACKING HOUSE",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1033,7 +1013,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|lardon & the union taproom & the meadowlark|2200-2202 n california ave, chicago, il, 60647|2026-10-13|",
-      "rank": 52,
+      "rank": 51,
       "case": "LARDON & THE UNION TAPROOM & THE MEADOWLARK",
       "score": 81,
       "section": "The Closure Watch",
@@ -1053,7 +1033,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|bossman market & fast food|1945 s keeler ave, chicago, il, 60623|2026-10-13|",
-      "rank": 53,
+      "rank": 52,
       "case": "BOSSMAN MARKET & FAST FOOD",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1073,7 +1053,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|cove lounge|1750 e 55th st, chicago, il, 60615|2026-10-08|",
-      "rank": 54,
+      "rank": 53,
       "case": "COVE LOUNGE",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1093,7 +1073,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|chashni sweets|2350 w devon ave, chicago, il, 60659|2026-10-08|",
-      "rank": 55,
+      "rank": 54,
       "case": "CHASHNI SWEETS",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1113,7 +1093,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|taqueria & pupuseria|2532 w 47th st, chicago, il, 60632|2026-10-08|",
-      "rank": 56,
+      "rank": 55,
       "case": "TAQUERIA & PUPUSERIA",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1133,7 +1113,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|supermercado antonio's corp.|2656 s homan ave, chicago, il, 60623|2026-10-07|",
-      "rank": 57,
+      "rank": 56,
       "case": "SUPERMERCADO ANTONIO'S CORP.",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1153,7 +1133,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|amazing grace daycare center|11123-11125 s halsted st, chicago, il, 60628|2026-10-07|",
-      "rank": 58,
+      "rank": 57,
       "case": "AMAZING GRACE DAYCARE CENTER",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1173,7 +1153,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|reggio's pizza express ii|4434 s cottage grove ave, chicago, il, 60653|2026-10-07|",
-      "rank": 59,
+      "rank": 58,
       "case": "REGGIO'S PIZZA EXPRESS II",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1193,7 +1173,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|ali nihari llc|2548-2550 w devon ave, chicago, il, 60659|2026-10-07|",
-      "rank": 60,
+      "rank": 59,
       "case": "ALI NIHARI LLC",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1213,7 +1193,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|loa sze chuan uptown|4832 n broadway, chicago, il, 60640|2026-10-07|",
-      "rank": 61,
+      "rank": 60,
       "case": "LOA SZE CHUAN UPTOWN",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1233,7 +1213,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|bayan ko diner|1820-1822 w montrose ave, chicago, il, 60613|2026-10-05|",
-      "rank": 62,
+      "rank": 61,
       "case": "BAYAN KO DINER",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1253,7 +1233,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|family dollar #31914|415 s kedzie ave, chicago, il, 60612|2026-10-05|",
-      "rank": 63,
+      "rank": 62,
       "case": "FAMILY DOLLAR #31914",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1273,7 +1253,7 @@ window.VIOLATION_DESK_DATA = {
     },
     {
       "id": "chicago|viet nam restaurant|1032 w argyle st, chicago, il, 60640|2026-10-05|",
-      "rank": 64,
+      "rank": 63,
       "case": "VIET NAM RESTAURANT",
       "score": 81,
       "section": "The Vermin Wire",
@@ -1284,6 +1264,26 @@ window.VIOLATION_DESK_DATA = {
       "status": "Fail",
       "officialRecord": "https://data.cityofchicago.org/resource/4ijn-s7e5.json?inspection_id=2643701",
       "grossestDetail": "INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NOTED THE FOLLOWING:- -- RAT DROPPINGS AT THE FOLLOWING AREAS:- --OVER 20 RAT DROPPINGS ALONG WALL UNDERNEATH THE 3 COMPARTMENT SINK OF THE SECOND PREP AREA, AROUND THE GREASE TRAP, BEHIND AND AROUND THE R...",
+      "producerRecommendation": "Full segment candidate",
+      "followUp": [
+        "Confirm current operating status.",
+        "Check reinspection or reopening status.",
+        "Search for local coverage or a public statement."
+      ]
+    },
+    {
+      "id": "mecklenburg_county|rio 150|16801 caldwell creek dr` \n \nhuntersville, nc 28078|8/5/2026|20600110472",
+      "rank": 64,
+      "case": "RIO 150",
+      "score": 81,
+      "section": "The Vermin Wire",
+      "violationType": "Rodents / vermin",
+      "location": "16801 CALDWELL CREEK DR` \n \nHUNTERSVILLE, NC 28078",
+      "inspectionDate": "8/5/2026",
+      "agency": "Mecklenburg County Health Department",
+      "status": "Score 85.50 / Grade B",
+      "officialRecord": "https://public.cdpehs.com/NCENVPBL/ESTABLISHMENT/ShowESTABLISHMENTTablePage.aspx?ESTTST_CTY=60",
+      "grossestDetail": "6-501.112 Remove dead or trapped birds, insects, rodents, and other pests.",
       "producerRecommendation": "Full segment candidate",
       "followUp": [
         "Confirm current operating status.",
